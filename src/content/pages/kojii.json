@@ -1,0 +1,606 @@
+{
+  "slug": "kojii",
+  "title": "Little Martians - Kojii — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "new-page-2",
+      "background": "assets/1713918491468-OGLL3V5RKGK3UIEU7Q0M_LittleMartians_kojii-5.gif",
+      "backgroundVideo": null,
+      "hasImage": true,
+      "blocks": []
+    },
+    {
+      "id": "new-page-3",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "<a href=\"https://kojii.ai\" target=\"_blank\" rel=\"noopener\">Little Martians @ Kojii.ai</a>",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "image",
+          "src": "assets/92f81d64-6fda-4138-9b76-c61d5b697bfb_Screenshot_2024-04-25_at_2.39.02_PM.png",
+          "alt": "",
+          "width": 3448,
+          "height": 1802,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "A cutting edge experiment in interactive storytelling",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>\"Little Martians\" – An Interactive World Building Odyssey by Vanessa Rosa</em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"Little Martians\" on <a href=\"https://kojii.ai\" target=\"_blank\" rel=\"noopener\">kojii.ai</a> is an experiment on interactive generative storytelling. This expansive universe imagines a future where 'Little Martians,' each unique in abilities and interests, are the seeds of Earth’s life across the cosmos. These beings adapt to diverse environments, nurturing local ecosystems or creating new forms of life. But they also ensure that our planet's legacy thrives in new worlds. They are stewards of the 'Imaginarium', a vast and intricate network preserving Earth's collective memory and imagination.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "This project stands out for its unique blend of artistic craftsmanship and cutting edge AI techniques. At its core are six distinct Little Martian characters, each originating from a real ceramic sculpture created by Vanessa Rosa. These sculptures were photographed and transformed into AI characters through custom LORA AI models, specially developed for the Kojii platform. Large Language Models are prompted to work as individual personality rich characters who create a custom story based in the user’s input. The resulting digital entities are rooted in research, drawing from scientific possibilities of extraterrestrial life and rich art historical contexts that inform the Imaginarium's simulation.&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "The 'Little Martians' project is an invitation to journey through a living, evolving narrative. As collectors and viewers engage with the characters, they become co-creators in an ever-expanding narrative. They are invited to guide the story with a prompt.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Join us in shaping this universe, where every choice and interaction creates a new thread in the ongoing saga of the 'Little Martians'.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/90c88273-b5f0-4532-9b5d-fd980a3f010c_Verdelis_-_Human_Imaginarium_-_Horror_-_just_read_Three_Body_Problem_f.jpg",
+                  "alt": "",
+                  "width": 1056,
+                  "height": 1260,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/3ca9455d-01c8-4888-a8a1-ebe785651699_Ada_-_Human_Imaginarium_-_Action_-_is_feeling_nostalgic.jpg",
+                  "alt": "",
+                  "width": 1056,
+                  "height": 1562,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/65f8dedb-3268-42d0-856b-d9418df34069_Ada_-_Human_Imaginarium_-_Drama_-_just_read_Three_Body_Problem_f.jpg",
+                  "alt": "",
+                  "width": 1312,
+                  "height": 1050,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/28333e6d-4013-4502-9f73-924b1069d80c_Shuijing_-_Physical_Reality_-_Mystery_-_is_living_in_the_post-apocalyp.jpg",
+                  "alt": "",
+                  "width": 1056,
+                  "height": 1470,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/9c8a836c-15f6-4089-a348-239ab256faa6_Mycos_-_Human_Imaginarium_-_Drama_-_is_doing_high_end_machine_lear.jpg",
+                  "alt": "",
+                  "width": 1312,
+                  "height": 1096,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/401d640d-e029-405e-b300-84fc70290f7f_Shuijing_-_Human_Imaginarium_-_Action_-_feels_lonely.jpg",
+                  "alt": "",
+                  "width": 1056,
+                  "height": 1214,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/9a6c7ec8-0873-4138-974f-609538c32b7c_Kweku_-_Human_Imaginarium_-_Mystery_-_is_living_on_Mars.jpg",
+                  "alt": "",
+                  "width": 1056,
+                  "height": 1562,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/c91a384f-66b7-4fd7-b844-cea003a732e6_Kalama_-_Human_Imaginarium_-_Mystery_-_is_living_on_Mars.jpg",
+                  "alt": "",
+                  "width": 1056,
+                  "height": 1746,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Introducing Verdelis",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 2,
+              "content": []
+            },
+            {
+              "span": 8,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "Verdelis is the first to have an animation introducing themselves. Soon every Little Martian will have one.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Each character already has a song, made with Suno.ai and currently available in the <a href=\"https://suno.com/playlist/deb517b4-355f-4c2b-aca1-9fde24694ae6\" target=\"_blank\" rel=\"noopener\">Little Martians playlist.</a>",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/Q25eeEDhdwc?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "&#39;Dear Human, My Muse&#39; - AI animation trailer",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "image",
+          "src": "assets/89ee5854-b724-4658-9b94-15cd33a8740c_Screenshot_2024-04-25_at_1.22.37_PM.png",
+          "alt": "",
+          "width": 2522,
+          "height": 458,
+          "caption": "Listen to the Little Martians Album on Suno.ai! With the songs for all the characters.",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": "https://suno.com/playlist/deb517b4-355f-4c2b-aca1-9fde24694ae6"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "The characters",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/74a09198-1a96-4d80-b514-e7ce71cdd66a_verdelis-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/verdelis"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/f9b1895a-416d-4904-8276-4e405009299d_ada-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/ada"
+                }
+              ]
+            },
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/84556b3a-d1b6-4caf-9964-c68b0a51a23f_mycos-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/mycos"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/40036fa1-6ce7-44fb-89c9-2a461a274b79_kweku-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/kweku-1"
+                }
+              ]
+            },
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/98634e3d-81d9-422d-8373-0d7b5f64d4d5_shuijing-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/shuijing"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/279ecb7f-35fe-401b-93f8-aae524d2eaee_kalama-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/kalama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Process",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/TG16nfIx66o?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Little Martians - building an AI powered sci-fi world",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714329674815-HZRA2BVGRI2Z46OJ7BM2_DSC00378.jpg",
+              "alt": "DSC00378.jpg",
+              "width": 5472,
+              "height": 3648
+            },
+            {
+              "src": "assets/1714329682463-7O7MWG8YLJCH24PNZV8F_DSC00412.jpg",
+              "alt": "DSC00412.jpg",
+              "width": 5472,
+              "height": 3648
+            },
+            {
+              "src": "assets/1714329714011-HGMO6JTS1FLI4WNAVVI4_DSC00483.jpg",
+              "alt": "DSC00483.jpg",
+              "width": 5307,
+              "height": 3404
+            },
+            {
+              "src": "assets/1714329710263-HHZFHDNFR4LNNJBSW9DO_DSC00462.jpg",
+              "alt": "DSC00462.jpg",
+              "width": 5472,
+              "height": 3648
+            },
+            {
+              "src": "assets/1714329699424-DIZVINL5S2CIHV996NM0_DSC00448.jpg",
+              "alt": "DSC00448.jpg",
+              "width": 5472,
+              "height": 3648
+            },
+            {
+              "src": "assets/1714329697100-SF43GL8AV2FR5FWBYIWH_DSC00439.jpg",
+              "alt": "DSC00439.jpg",
+              "width": 5472,
+              "height": 3648
+            },
+            {
+              "src": "assets/1714329647402-ICOFNXPSSCEJPL616K6D_DSC00357.jpg",
+              "alt": "DSC00357.jpg",
+              "width": 5472,
+              "height": 3648
+            },
+            {
+              "src": "assets/1714775255562-X0HE3A9W34I01JYXSRN9_allkojiimartians2.jpg",
+              "alt": "allkojiimartians2.jpg",
+              "width": 2520,
+              "height": 1613
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "Little Martians ceramics in their Terrarium homes.",
+          "align": "right",
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Context",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 5,
+              "content": [
+                {
+                  "type": "row",
+                  "cols": [
+                    {
+                      "span": 2,
+                      "content": []
+                    },
+                    {
+                      "span": 3,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/d1782221-0b32-4873-a854-b50bdc97584c_PR-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/physical-reality"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "span": 2,
+              "content": []
+            },
+            {
+              "span": 3,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/cc3841b3-d8de-4566-8e19-71b4241d3e0a_HI-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/human-imaginarium"
+                }
+              ]
+            },
+            {
+              "span": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Road Map",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "I started the Little Martians project in 2020, right when the pandemic hit, the year 0 of <a href=\"https://mars.college\" target=\"_blank\" rel=\"noopener\">Mars College</a>. It’s been a continuous development ever since and now I believe to have a clearer vision of how it will blossom in the long term.&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "What I love about this project is that I can merge all my different passions in one consistent narrative. Painting, sculptures, installations, storytelling, world history, philosophy, speculative science, sci-fi, experimental tools, AI, autonomous beings, blockchains, copyleft, animations, music, even rituals and food (in the the form of edible sculptures), all of these are part of the Little Martians world.&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "This fictional world has also been a great framework to collaborate with other people. There have been a few interactions of collective creation with Little Martians at Mars College with delightful outcomes. Most notably, Gene Kogan has been my deepest collaborator. We’re constantly learning together what is possible to create with AI and I’m very happy that we’ve been a source of inspiration for one another.&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "What I’m most excited about the Kojii collection is the interactive storytelling component. I’ve created a world, set the context and parameters and now I ask people ‘what is happening with each character?’ I want to be inspired by others. Collaborative storytelling possesses a unique power: the more artists and creatives a fictional universe attracts, the more robust it becomes.&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "For the remainder of 2024, my focus will remain on developing these six characters. Each has a song, and Verdelis already features in an introductory animation. Plans are underway for a children's book detailing Verdelis's backstory, and I aim to produce more animations. Additionally, I intend to compile a book from the Kojii generations that significantly advance the narrative. Having co-founded a publishing company in Brazil with my parents in 2010, I am well-versed in book production. I also envision exhibiting the main characters' sculptures in immersive installation settings. Moreover, I've been commissioned to create educational content on AI and Art, with a focus on the Little Martians project",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "This endeavor is more than just an artistic project; it is a spiritual practice. It reflects my love for the world and humanity, acknowledging our inherent limitations and situating our lives within a broader, mysterious narrative.&nbsp; And it 's fun.&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "So, dear reader, I invite you to play with my model. I would love to be surprised with your creations.&nbsp;&nbsp;&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "with love,",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Vanessa",
+                  "align": "right",
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/fbb9a2b6-8cfa-4beb-933d-6558a0966464_125420940.jpg",
+          "alt": "",
+          "width": 964,
+          "height": 964,
+          "caption": "",
+          "title": "Discover the Little Martians World",
+          "subtitle": "Articles on the meanings and processes for the Little Martians",
+          "button": null,
+          "link": null
+        }
+      ]
+    }
+  ]
+}

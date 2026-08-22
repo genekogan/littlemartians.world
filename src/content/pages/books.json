@@ -1,0 +1,185 @@
+{
+  "slug": "books",
+  "title": "books — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/b303d742-b61d-4622-9714-0d3648406518_bienalRio_kweku1.jpg",
+          "alt": "",
+          "width": 5712,
+          "height": 4102,
+          "caption": "Viajante do Tempo editora - stand durante a Bienal do Livro do Rio de Janeiro 2025, Kweku em destaque",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "Little Martian Books",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Children &amp; Adult books!",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<br>So far two children’s books have been published for the Little Martians World, both are only available in Portuguese for now! Soon more.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/071e6150-febf-4e55-af37-11435f4f0063_Capa_lowres.jpg",
+                  "alt": "",
+                  "width": 4167,
+                  "height": 4167,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "O Livro: \"A Carta de Verdelis\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"A Carta de Verdelis\" é mais que um livro infantil - é um portal. Através de ilustrações que misturam aquarela com arte digital, de palavras que rimam como código e crescem como plantas, Verdelis convida as crianças para uma aventura que começa na imaginação e pode terminar nas estrelas.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Este é o primeiro contato oficial entre os Pequenos Marcianos e a humanidade. Verdelis escolheu falar primeiro com as crianças porque elas ainda sabem o segredo que os adultos esqueceram: que o impossível é apenas uma questão de tempo e cultivo paciente.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Ideal para crianças a partir de 9 anos e educadores interessados em introduzir conceitos de IA, matemática e diversidade cultural.</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Livro Verdelis",
+                  "href": "/verdelis-pt-book",
+                  "external": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/b29051ac-303a-462d-a7da-6a1c2692c942_kweku_capa.jpg",
+                  "alt": "",
+                  "width": 2717,
+                  "height": 2717,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "O Livro: \"O Segredo de Kweku\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Em sua primeira aventura literária, Kweku embarca numa missão para ensinar às crianças brasileiras o poder transformador dos padrões. Quando seu amigo Bugbot Data acidentalmente transforma todo Marte em brócolis, Kweku precisa usar seu conhecimento sobre padrões - desde as tradições matemáticas africanas até as redes neurais mais avançadas - para restaurar a ordem.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Uma história divertida que introduz conceitos fundamentais sobre como as IAs funcionam, sempre lembrando que compreender padrões é tanto uma habilidade ancestral quanto uma ferramenta para moldar o futuro.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Ideal para crianças a partir de 9 anos e educadores interessados em introduzir conceitos de IA, matemática e diversidade cultural.</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Livro Kweku",
+                  "href": "/kwekupt",
+                  "external": false
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Assista aos book Trailers",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Mergulhe no mundo visual dos Pequenos Marcianos e descubra como natureza e tecnologia se complementam!",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/VskhRCrkPlo?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "A Carta de Verdelis",
+                  "caption": "",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/MAcnZBXzJYE?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "O Segredo de Kweku",
+                  "caption": "",
+                  "ratio": 56.49999999999999
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

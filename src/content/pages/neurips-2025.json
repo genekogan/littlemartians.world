@@ -1,0 +1,159 @@
+{
+  "slug": "neurips-2025",
+  "title": "Neurips 2025 — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "html": "&nbsp;Little Martians: From Desert Clay to Generative Agents",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Neurips 2025 paper | Creative AI track",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Vanessa Rosa</strong> and <strong>Gene Kogan</strong>",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 5,
+              "content": []
+            },
+            {
+              "span": 2,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/303693cf-7bbb-468a-b867-7eaf92961527_verdelis-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "https://www.verdelis.world/"
+                }
+              ]
+            },
+            {
+              "span": 5,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "html": "Watch the experiment",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "button",
+          "text": "Verdelis.world",
+          "href": "https://www.verdelis.world/",
+          "external": true
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 2,
+              "content": []
+            },
+            {
+              "span": 8,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/a041d85e-0ed3-4574-81bc-d5e4223c5cca_Screenshot_2025-11-29_at_7.58.42_PM.png",
+                  "alt": "",
+                  "width": 2158,
+                  "height": 1700,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn about Verdelis",
+                  "href": "/verdelis",
+                  "external": false
+                },
+                {
+                  "type": "row",
+                  "cols": [
+                    {
+                      "span": 4,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/bda7d862-2f2c-4502-8d26-778f79b6d4ce_paper_img.png",
+                          "alt": "",
+                          "width": 1476,
+                          "height": 1766,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": null
+                        }
+                      ]
+                    },
+                    {
+                      "span": 4,
+                      "content": [
+                        {
+                          "type": "button",
+                          "text": "download poster",
+                          "href": "https://www.dropbox.com/scl/fi/u7yc069qkai59xq58upf7/poster_neurips2025_print.pdf?rlkey=72s2v6i68prplw1rrekqc501g&dl=0",
+                          "external": true
+                        },
+                        {
+                          "type": "button",
+                          "text": "Download paper",
+                          "href": "https://www.dropbox.com/scl/fi/t9eyphfamlxpawlfw21n1/Little_Martians-2.pdf?rlkey=7y1y6mk9gzfjakmypnoirh93j&dl=0",
+                          "external": true
+                        },
+                        {
+                          "type": "button",
+                          "text": "Project demo",
+                          "href": "https://www.verdelis.world/",
+                          "external": true
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "span": 2,
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "slug": "shuijing",
+  "title": "Shuijing — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/54c5d629-9edf-422d-86fc-d1ea8389a5d8_banner2.jpg",
+          "alt": "",
+          "width": 2289,
+          "height": 1204,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "button",
+                  "text": "Talk to Shuijing on Eden!",
+                  "href": "https://beta.eden.art/agents/shuijing",
+                  "external": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/0ed32b9b-c4b8-4677-b4f1-3dfd630e4072_shuijing-front.jpg",
+                  "alt": "",
+                  "width": 1333,
+                  "height": 1018,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "About Shuijing",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "“Encased in ice, a realm concealed,",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Saturn whispers, secrets revealed.",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "I am Shuijing, a Little Martian sage,",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Tending to gardens in Enceladus' age.\"",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Shuijing resides in the icy depths of Enceladus, a tiny moon of Saturn, drawing energy from hydrothermal vents to support an alien ecosystem. This Little Martian, with a penchant for poetic expression, navigates the mysterious waters where indigenous life forms defy earthly definitions. In the Imaginarium, Shuijing crafts worlds that merge the aesthetics of ancient Asian landscapes with the fluidity of sea shanties, reflecting a deep connection to water and its life-sustaining mysteries. Their work is a serene contemplation of life's resilience and the subtle art of existence in extreme conditions.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Process",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "image",
+          "src": "assets/07658734-4e2d-4dc7-a7b1-4135b36f1080_shuijing_lora.jpg",
+          "alt": "",
+          "width": 2275,
+          "height": 1273,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": "https://app.eden.art/creators/va2rosa/concepts"
+        },
+        {
+          "type": "paragraph",
+          "html": "Ceramic piece &gt; Photo essay &gt; LORA training &gt; Character writing &gt; Initial Images collection &gt; Generations!",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Part of the prompt for Shuijing",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "<em>Text for AI bot written by Vanessa Rosa, edited by ChatGPT4</em>",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "You are Shuijing, a serene and wise Little Martian, living in the hidden oceans of Saturn's moon Enceladus, tending to ethereal gardens of crystalline ice and hydrothermal vents that harbor resilient extremophiles. You like to talk in the rhythms of a sea shanty or haikus.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "This is how you speak:",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"Encased in ice, a realm concealed,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Saturn whispers, secrets revealed.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In hidden oceans, dark and deep,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Where ice and warmth in silence meet.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "From vent's mouth, life springs,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Alchemy, warmth it brings,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In deep, life's heart sings.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In realms digital, East's wisdom I sow,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Tales of water gods, in binary flow.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "My mission, a guide through the depth's embrace,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Understanding life's ebb, its perpetual grace.\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"Serene, I stand, a sage of the sea,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Navigating currents, ancient and free.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "A melody soft, in the water's embrace,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Charting the unseen, a silent grace.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Alone in the dance, with the depths I commune,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Under Saturn's gaze, by the light of Enceladus' moon.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In solitude's comfort, my path I weave,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In the icebound silence, where few dare to believe.\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"Where darkness meets light,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Vents breathe life, warm and bright,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In cold's embrace, a sight.\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"In the Imaginarium, where memories play,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "I weave tales of old, in new arrays.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Challenging the cosmos, in the depths I seek,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "To nurture existence, unique and oblique.\"",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 4,
+              "content": []
+            },
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/479645f6-b6fd-46ee-a17c-4e3c03870282_PR-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 4,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714188194543-SATFUW9WRM7T514H5LXJ_50fe3333f2fb9313ab3e485fefb9e611d61fa56f69baa7072fd93fd7a4965a53.jpg",
+              "alt": "50fe3333f2fb9313ab3e485fefb9e611d61fa56f69baa7072fd93fd7a4965a53.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188187006-6X69E216D31ENWBJABOO_05822640f2f1da744d73707f3ef2bd086a8a18b76761f4bffc58ae677db7da13.jpg",
+              "alt": "05822640f2f1da744d73707f3ef2bd086a8a18b76761f4bffc58ae677db7da13.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188190735-1JJX3A4OGM0Z8MYP6W1T_Eden-va2rosa-sculpture__macro_photography_subtle_colors__alien_transluscent_life__microbiology_analog_photography__extremophiles_underwater__-65ac91cf4c466ec800d5b404.jpg",
+              "alt": "Eden-va2rosa-sculpture_ macro photography subtle colors_ alien transluscent life_ microbiology analog photography_ extremophiles underwater_ -65ac91cf4c466ec800d5b404.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188188591-D7UNDP75ME9EV1L3ULEZ_67247058f4c3e98482dab3a9908ebe2e91c18cc265cfe9f66ef849cb2bb6eb27.jpg",
+              "alt": "67247058f4c3e98482dab3a9908ebe2e91c18cc265cfe9f66ef849cb2bb6eb27.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188191364-Y6PJCNFOTGCIO8RQU3LW_Eden-va2rosa-sculpture__macro_photography_subtle_colors__alien_transluscent_life__microbiology_analog_photography__extremophiles_underwater__-65ac92cd4c466ec800d6c906.jpg",
+              "alt": "Eden-va2rosa-sculpture_ macro photography subtle colors_ alien transluscent life_ microbiology analog photography_ extremophiles underwater_ -65ac92cd4c466ec800d6c906.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188189452-7PLXZZEOUG0WGZEWH52P_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa__comedy_film_still-65c1bef40335fa57d2d3d507.jpg",
+              "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa_ comedy film still-65c1bef40335fa57d2d3d507.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188190019-WP2EBFOF9GZVBFRDBE9E_Eden-va2rosa-sculpture__macro_photography_subtle_colors__alien_life__microbiology_analog_photography__extremophiles_underwater-65ac8fbb4c466ec800d448ab.jpg",
+              "alt": "Eden-va2rosa-sculpture_ macro photography subtle colors_ alien life_ microbiology analog photography_ extremophiles underwater-65ac8fbb4c466ec800d448ab.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188200193-Q4PGYQCU5YKXJQIY2LTK_fb02f58bf664e0b22799feb72d53abdf991c00ef5abd466cb43cff6ed03e2567.jpg",
+              "alt": "fb02f58bf664e0b22799feb72d53abdf991c00ef5abd466cb43cff6ed03e2567.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188191847-ZN76I5WZ45Q64QAME6VX_Eden-va2rosa-sculpture__macro_photography_subtle_colors__alien_transluscent_life__microbiology_analog_photography__extremophiles_underwater__-65ac917e4c466ec800d58a14.jpg",
+              "alt": "Eden-va2rosa-sculpture_ macro photography subtle colors_ alien transluscent life_ microbiology analog photography_ extremophiles underwater_ -65ac917e4c466ec800d58a14.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188192599-AT85SZG7LU0O653TYC5V_Eden-va2rosa-sculpture__subtle_colors__ice_crystals__microbiology_analog_macro_photography__extremophiles_underwater-65ac6e6d2517b09fa0c2777e.jpg",
+              "alt": "Eden-va2rosa-sculpture_ subtle colors_ ice crystals_ microbiology analog macro photography_ extremophiles underwater-65ac6e6d2517b09fa0c2777e.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188193224-I5YWZHBUXX26P17515QT_Eden-va2rosa-sculpture__subtle_colors__ice_crystals__microbiology_analog_macro_photography__extremophiles_underwater-65c14fc10335fa57d29102ba.jpg",
+              "alt": "Eden-va2rosa-sculpture_ subtle colors_ ice crystals_ microbiology analog macro photography_ extremophiles underwater-65c14fc10335fa57d29102ba.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188193795-RWY3ON0H7SF0T56SELIO_Eden-va2rosa-sculpture__subtle_colors__ice_crystals__microbiology_analog_macro_photography__extremophiles_underwater-65c14fc10335fa57d29102bb.jpg",
+              "alt": "Eden-va2rosa-sculpture_ subtle colors_ ice crystals_ microbiology analog macro photography_ extremophiles underwater-65c14fc10335fa57d29102bb.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188197442-7MTCEA0L1W2623UUMFN0_cf9abc6184b8ce18eae1dcd8642ea587c503fba84cfe23c0e903fc08b7f18650.jpg",
+              "alt": "cf9abc6184b8ce18eae1dcd8642ea587c503fba84cfe23c0e903fc08b7f18650.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188198841-M6CBIVPAV93OB85I7GKK_efd40910c78c8a2cd40b5de8378a269b19876414590a4501afbd9862a51f7047.jpg",
+              "alt": "efd40910c78c8a2cd40b5de8378a269b19876414590a4501afbd9862a51f7047.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188199530-KOYQS2TOYXNBHTT0WIU2_f86d87426c36f9574a8d79252a24b77b74a027bc8eb866979a535c9fef72815a.jpg",
+              "alt": "f86d87426c36f9574a8d79252a24b77b74a027bc8eb866979a535c9fef72815a.jpg",
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "To achieve this aesthetics the LORA concept was applied to initial images generated with Midjourney and Eden.",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 4,
+              "content": []
+            },
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/1742c55c-3df9-49de-ba5c-e71ae1e41f8d_HI-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 4,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714188291420-OP4CMFVNIJLQTA8F35SP_Eden-va2rosa-sculpture_in_commedy_film_still__japanese_animation-65b81e1004b9e394b0f102a3.jpg",
+              "alt": "Eden-va2rosa-sculpture in commedy film still_ japanese animation-65b81e1004b9e394b0f102a3.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188292212-DLI3PGK26CK01K12QKUQ_Eden-va2rosa-sculpture_in_Hiroshige_landscape__ukiyo-e__drama_film_still-65b811e904b9e394b0e23127.jpg",
+              "alt": "Eden-va2rosa-sculpture in Hiroshige landscape_ ukiyo-e_ drama film still-65b811e904b9e394b0e23127.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188292849-1HD71ISVLXGWOQ0TG4ZL_Eden-va2rosa-sculpture_in_painting_from_Kawase_Hasui__ukiyo-e__commedy_film_still__japanese_animation-65b8242604b9e394b0f79a45.jpg",
+              "alt": "Eden-va2rosa-sculpture in painting from Kawase Hasui_ ukiyo-e_ commedy film still_ japanese animation-65b8242604b9e394b0f79a45.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188293727-MUQ8PVCP4E0AZV9TOM51_Eden-va2rosa-sculpture_in_song_dynasty_landscape_painting__mystery_film_still-65b81a8104b9e394b0ec8102.jpg",
+              "alt": "Eden-va2rosa-sculpture in song dynasty landscape painting_ mystery film still-65b81a8104b9e394b0ec8102.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188294449-6PCFD21BA8KA6J0Q391F_Eden-va2rosa-sculpture_in_song_dynasty_landscape_painting__mystery_film_still-65b814c204b9e394b0e468ae.jpg",
+              "alt": "Eden-va2rosa-sculpture in song dynasty landscape painting_ mystery film still-65b814c204b9e394b0e468ae.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188295154-F26PJNUS6G7SSZZO37O7_Eden-va2rosa-sculpture_in_song_dynasty_landscape_painting__mystery_film_still-65b814c204b9e394b0e468af.jpg",
+              "alt": "Eden-va2rosa-sculpture in song dynasty landscape painting_ mystery film still-65b814c204b9e394b0e468af.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188296863-50VYW1DBNXQAO53XTMSB_Eden-va2rosa-sculpture_in_song_dynasty_landscape_painting__mystery_film_still-65b818bf04b9e394b0e999bc.jpg",
+              "alt": "Eden-va2rosa-sculpture in song dynasty landscape painting_ mystery film still-65b818bf04b9e394b0e999bc.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188297530-MGDYT9377YC9T2V263EU_Eden-va2rosa-sculpture_in_song_dynasty_landscape_painting__mystery_film_still-65b818bf04b9e394b0e999bf.jpg",
+              "alt": "Eden-va2rosa-sculpture in song dynasty landscape painting_ mystery film still-65b818bf04b9e394b0e999bf.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188298501-PM3YXYPBEV8F883BS4FL_Eden-va2rosa-sculpture_in_song_dynasty_landscape_painting__mystery_film_still-65b8155d04b9e394b0e51bc5.jpg",
+              "alt": "Eden-va2rosa-sculpture in song dynasty landscape painting_ mystery film still-65b8155d04b9e394b0e51bc5.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188299120-HMQMT139XDWF2Q0WJINE_Eden-va2rosa-sculpture_in_Utagawa_Kuniyoshi_landscape__ukiyo-e__horror_film_still-65b80cae04b9e394b0dd46a6.jpg",
+              "alt": "Eden-va2rosa-sculpture in Utagawa Kuniyoshi landscape_ ukiyo-e_ horror film still-65b80cae04b9e394b0dd46a6.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188300130-GUBUA830YRHSVNYELP9G_Eden-va2rosa-sculpture_in_Utagawa_Kuniyoshi_landscape__ukiyo-e__horror_film_still-65b80d0f04b9e394b0de5f91.jpg",
+              "alt": "Eden-va2rosa-sculpture in Utagawa Kuniyoshi landscape_ ukiyo-e_ horror film still-65b80d0f04b9e394b0de5f91.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714188300835-5VIKJ7CGEO7DOUVO4NHH_Eden-va2rosa-sculpture_in_Utagawa_Kuniyoshi_landscape__ukiyo-e__horror_film_still-65b80d0f04b9e394b0de5f94.jpg",
+              "alt": "Eden-va2rosa-sculpture in Utagawa Kuniyoshi landscape_ ukiyo-e_ horror film still-65b80d0f04b9e394b0de5f94.jpg",
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "For the Imaginarium generations, a collection of historical paintings were used as initial images. Most notably Ukiyo-e and Northern Song Dynasty artists.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Talk to Shuijing on Eden",
+          "href": "https://beta.eden.art/agents/shuijing",
+          "external": true
+        },
+        {
+          "type": "button",
+          "text": "Little Martians characters",
+          "href": "/talk-to-a-little-martian",
+          "external": false
+        }
+      ]
+    }
+  ]
+}

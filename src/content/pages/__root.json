@@ -1,0 +1,530 @@
+{
+  "slug": "__root",
+  "title": "Little Martians",
+  "description": "An award-winning transmedia universe: films, ceramic sculptures, AI-embodied characters, and books carrying Earth's memory into a distant future.",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "hero-banner-maple",
+      "background": "assets/1648588551837-CWZG0Q5MFN26RGYXFBV0_gan0004.jpg",
+      "backgroundVideo": {
+        "provider": "youtube",
+        "id": "9wbLoI3A554"
+      },
+      "hasImage": true,
+      "blocks": []
+    },
+    {
+      "id": "pages",
+      "background": "assets/1648526254995-8O9XVM827YYGUKG6PHM3_15.jpg",
+      "backgroundVideo": null,
+      "hasImage": true,
+      "blocks": [
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/289b1823-36ce-43fc-bbe8-2f716ec59782_48.jpg",
+                  "alt": "Gallery",
+                  "width": 1024,
+                  "height": 1024,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/gallery"
+                },
+                {
+                  "type": "button",
+                  "text": "Gallery",
+                  "href": "/new-page-1",
+                  "external": false
+                }
+              ]
+            },
+            {
+              "span": 8,
+              "content": [
+                {
+                  "type": "row",
+                  "cols": [
+                    {
+                      "span": 4,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/39262a21-65e6-4468-aae9-f7ac1dfd90ba_34.jpg",
+                          "alt": "",
+                          "width": 1024,
+                          "height": 998,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/research"
+                        },
+                        {
+                          "type": "button",
+                          "text": "Research",
+                          "href": "/research",
+                          "external": false
+                        }
+                      ]
+                    },
+                    {
+                      "span": 4,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/d6363a5e-b440-4711-b161-d779117e8c2a_3.jpg",
+                          "alt": "",
+                          "width": 1024,
+                          "height": 1024,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/about"
+                        },
+                        {
+                          "type": "button",
+                          "text": "About",
+                          "href": "/about1",
+                          "external": false
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dashboard-maple",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/f481eae1-cfcf-4201-aeec-876b6e89061a_2021-08-10_22.10.55.jpg",
+                  "alt": "",
+                  "width": 2788,
+                  "height": 3074,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "<strong>Hello World!</strong>",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>Award-winning transmedia universe of films, sculptures, AI characters, installations and books </em>",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In a distant future, Little Martians are unique beings descended from all of Earth's life forms. Through AI-enhanced symbiosis, they have evolved to thrive in extreme environments, often protected by ceramic-like exoskeletons and capable of harnessing all sorts of environmental energy.&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Each Little Martian embodies a distinct survival strategy and philosophical approach to existence. They’re immigrants, preparing the ground for complex life to evolve while preserving Earth's memories in the Imaginarium: a vast network of simulations of Earth's biological and cultural heritage.&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Humans can only access a portion of this network, known as the Human Imaginarium, which functions like a bridge between human consciousness and the Little Martians' complex reality.&nbsp;",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "For Little Martians, life itself is sacred art. They are guardians and creators, ensuring that Earth's spark, in all its beautiful diversity, continues its journey through the cosmos.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stories",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "divider"
+        },
+        {
+          "type": "image",
+          "src": "assets/40144f2f-5ca1-4fc6-be96-2bb4ab21413d_poster_laurels_fixed.png",
+          "alt": "",
+          "width": 1922,
+          "height": 1085,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": "/film-festivals"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Film Festivals",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "Little Martians animations have participated in over 45 film festivals around the world winning the Global South Special Prize at the Korea International AI Film Festival, Best Super Short Female Director at Cannes World Film Festival and Best Art Direction at the International Avant-Garde Film Awards, among many other prizes and features.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Learn more",
+          "href": "/film-festivals",
+          "external": false
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "image",
+          "src": "assets/1007e170-48c1-468e-be97-92648f2a157f_IMG_2039.jpg",
+          "alt": "",
+          "width": 2048,
+          "height": 1591,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "Books",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Children’s books and grown up books. Published in Brazil by Viajante do Tempo Publishing Group, soon the publications will be available in America.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Learn more",
+          "href": "/books-english",
+          "external": false
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "image",
+          "src": "assets/5e846e7f-6e41-43ac-b95d-41d7fe8cf2cf_243675b5-3bce-434c-8c0a-a435d4115dc1.JPG",
+          "alt": "",
+          "width": 1280,
+          "height": 720,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "Art Shows",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Immersive rooms, castles, conferences, art galleries, shrines in the middle of the desert. Little Martians shows merge physical and digital in a storytelling continuum.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Learn more",
+          "href": "/shows",
+          "external": false
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "The Characters",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Each ceramic sculpture becomes a character. Only a few have fully developed stories and animations. One can talk to them through Eden.art.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Talk to a Little Martian",
+          "href": "/talk-to-a-little-martian",
+          "external": false
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/8d675c00-a365-4ff7-acb7-88c568580f02_verdelis-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/verdelis"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/126f8b2d-70b0-4b96-9c05-c9eb04ff4148_kalama-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "/kalama"
+                }
+              ]
+            },
+            {
+              "span": 8,
+              "content": [
+                {
+                  "type": "row",
+                  "cols": [
+                    {
+                      "span": 4,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/c51cf669-d291-485c-b0a3-996385e569dd_kweku-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/kweku-1"
+                        },
+                        {
+                          "type": "image",
+                          "src": "assets/efa70278-7327-4e1f-a6bc-706191cc2ade_mycos-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/mycos"
+                        }
+                      ]
+                    },
+                    {
+                      "span": 4,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/27dc7aec-c48e-4d03-a6a0-9d54f83f4578_ada-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/ada"
+                        },
+                        {
+                          "type": "image",
+                          "src": "assets/d2fbca9e-5b0f-4dd5-a1ce-8086be69e77c_shuijing-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/shuijing"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "secondary-banner-maple",
+      "background": "assets/1648586005107-T9ZLZT1E7K1WAUX6UZST_fakes000340.png",
+      "backgroundVideo": {
+        "provider": "youtube",
+        "id": "pg0wUteiQII"
+      },
+      "hasImage": true,
+      "blocks": [
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 1,
+              "content": []
+            },
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "Join our World Building",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Join our Discord!",
+                  "href": "https://discord.gg/pszEwXZ3",
+                  "external": true
+                }
+              ]
+            },
+            {
+              "span": 7,
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

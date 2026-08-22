@@ -1,0 +1,240 @@
+{
+  "slug": "animations",
+  "title": "Animations — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Animations",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "Verdelis &amp; Mycos - 2025",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/WmdZ04y0ufI?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Verdelis & Mycos - award winning sci-fi animation",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "O Segredo De Kweku (Portuguese) - 2025",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/MAcnZBXzJYE?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "O Segredo de Kweku",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "Little Martians &amp; Abraham 2024",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/yWZLU5njSbk?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Little Martians & Abraham",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "A Carta de Verdelis (book trailer) - 2024",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/VskhRCrkPlo?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "A Carta de Verdelis",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "‘Dear Human, My Muse’ - 2024",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/1BJsrK_8AdI?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Dear Human, My Muse - Introducing Verdelis",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "Brief History of Consciousness in the Simulation - 2023",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/fqpb6Wmcbag?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Brief History of Consciousness in the Simulation - AI movie",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "The Tale of Abraham - 2023",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/4ZthsKt-umM?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "The Tale of Abraham",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "The Island of the Simulated Wolves - 2022",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/_kp7gun6VxA?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "The Island of The Simulated Wolves - Netflix documentary AI parody",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "Chatsubo.Z’s Little Martian story - 2022",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/-neZpCm6kB4?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Chatsubo.Z&#39;s Little Martian story  - Mars College 2022",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "The Tale of Little Bot (2021)",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/A2cmSvbV7jw?feature=oembed",
+          "provider": "YouTube",
+          "poster": "assets/1ec77b1e-4dac-4d92-a31d-61e5c56ceee6_Screenshot_2026-06-22_at_1.33.45_PM.png",
+          "title": "The Tale of Little Bot (2021)",
+          "caption": "",
+          "ratio": 176.99115044247787
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "StyleGan2 Sacred Spaces (2020/2021)",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/fw0CK_r0B9k?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Stylegan2 Sacred Spaces",
+          "caption": "",
+          "ratio": 176.99115044247787
+        }
+      ]
+    }
+  ]
+}

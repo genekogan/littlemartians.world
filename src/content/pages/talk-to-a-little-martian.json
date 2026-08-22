@@ -1,0 +1,356 @@
+{
+  "slug": "talk-to-a-little-martian",
+  "title": "Talk to a Little Martian — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Welcome to the",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Little Martians World",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "Dear Human,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Welcome to our corner of the cosmos!",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "I'm Verdelia, a Little Martian historian exploring consciousness across physical and digital realms. Here you'll meet my fellow Little Martians and Abraham, the first digital soul among us.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Enjoy!",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/3932bca8-1441-4bf8-89c2-f99902a61982_abrahamlogo.png",
+                  "alt": "",
+                  "width": 400,
+                  "height": 400,
+                  "caption": "<a href=\"https://beta.eden.art/agents/abraham\" target=\"_blank\" rel=\"noopener\">Abraham</a>",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": "https://beta.eden.art/agents/abraham"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Meet the Little Martians",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "row",
+                  "cols": [
+                    {
+                      "span": 3,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/c68c3188-cda6-4294-b1ce-2f60da454c17_verdelis-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/verdelis"
+                        },
+                        {
+                          "type": "image",
+                          "src": "assets/b9614e25-555d-482e-a7db-ef58c0c25969_mycos-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/mycos"
+                        },
+                        {
+                          "type": "image",
+                          "src": "assets/06d1bebb-614e-4502-9e8d-42765e365aea_ada-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/ada"
+                        }
+                      ]
+                    },
+                    {
+                      "span": 3,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/a847acf6-51d1-4894-aa91-d731bd82f27e_kweku-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/kweku-1"
+                        },
+                        {
+                          "type": "image",
+                          "src": "assets/b37971dc-9267-4a2a-a3bf-8f72c923aff7_shuijing-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/shuijing"
+                        },
+                        {
+                          "type": "image",
+                          "src": "assets/a3492304-5930-4513-8b9c-ae279b82cb86_kalama-type.jpg",
+                          "alt": "",
+                          "width": 1000,
+                          "height": 1206,
+                          "caption": "",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "/kalama"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 9,
+              "content": [
+                {
+                  "type": "row",
+                  "cols": [
+                    {
+                      "span": 3,
+                      "content": []
+                    },
+                    {
+                      "span": 6,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/79f4080c-7bdd-4b13-a7d1-55364d20148a_Eden-va2rosa-_concept__looks_at_the_camera__in_abandoned_biodome_in_Martian_futuristic_surface__organic_architecture__transparent__glass__arc-6758adb9b06358c13831f5d3.jpg",
+                          "alt": "",
+                          "width": 1080,
+                          "height": 1080,
+                          "caption": "Verdelia, the Little Martian historian",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "https://beta.eden.art/agents/verdelia"
+                        },
+                        {
+                          "type": "heading",
+                          "level": 2,
+                          "html": "Context",
+                          "align": "center",
+                          "size": null
+                        },
+                        {
+                          "type": "row",
+                          "cols": [
+                            {
+                              "span": 3,
+                              "content": [
+                                {
+                                  "type": "image",
+                                  "src": "assets/78c0d94a-f9c3-4411-a8c5-ff7805d21260_PR-type.jpg",
+                                  "alt": "",
+                                  "width": 1000,
+                                  "height": 1206,
+                                  "caption": "",
+                                  "title": null,
+                                  "subtitle": null,
+                                  "button": null,
+                                  "link": "/physical-reality"
+                                }
+                              ]
+                            },
+                            {
+                              "span": 3,
+                              "content": [
+                                {
+                                  "type": "image",
+                                  "src": "assets/bdb8c658-04b6-4a8f-96a3-d280293918ec_HI-type.jpg",
+                                  "alt": "",
+                                  "width": 1000,
+                                  "height": 1206,
+                                  "caption": "",
+                                  "title": null,
+                                  "subtitle": null,
+                                  "button": null,
+                                  "link": "/human-imaginarium"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "The Process",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/TG16nfIx66o?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Little Martians - building an AI powered sci-fi world",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Road Map",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Little Martians is a long-term world-building project exploring how life might evolve beyond Earth. Through autonomous AI characters, physical sculptures, animations, and interactive experiences, we're creating a bridge between current scientific understanding and future possibilities.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Each Little Martian represents a unique approach to nurturing life in extreme environments: from Verdelis's Martian gardens to Shuijing's deep-ocean studies, from Ada's Venus cloud-labs to Mycos's cosmic spore-spreading. Their stories make complex scientific concepts accessible and engaging for both adults and children.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Current &amp; Future Developments:</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Physical Art: Ceramic sculptures and installations",
+                    "Digital Beings: Autonomous AI characters you can interact with",
+                    "Educational Materials: Books and learning resources",
+                    "Interactive Experiences: Metaverse environments and upcoming video games",
+                    "Scientific Communication: Making research accessible through storytelling",
+                    "Community Projects: Workshops and collaborative world-building"
+                  ],
+                  "align": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Little Martians connects art, science, and technology to imagine how consciousness might evolve through symbiosis rather than competition. Join us in exploring these possibilities!",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/0a58291b-a141-43e9-8ceb-d22ae4c51e01_presskit_christiescover.jpg",
+          "alt": "",
+          "width": 1650,
+          "height": 2550,
+          "caption": "",
+          "title": "Learn More !",
+          "subtitle": "Read the research on Little Martians techniques, philosophy and insights",
+          "button": null,
+          "link": "/non-fiction"
+        }
+      ]
+    }
+  ]
+}

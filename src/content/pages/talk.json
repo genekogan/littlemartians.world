@@ -1,0 +1,97 @@
+{
+  "slug": "talk",
+  "title": "Talk to a Little Martian — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Talk to a Little Martian",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "image",
+          "src": "assets/1604bb10-8fad-445a-8965-ae5062946d1e_Screenshot_2024-04-29_at_3.33.26_PM.png",
+          "alt": "",
+          "width": 881,
+          "height": 718,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": "https://app.eden.art/creators/va2rosa/characters"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "<strong>Little Martian Characters on Eden.art!</strong>",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "button",
+          "text": "Learn more",
+          "href": "https://app.eden.art/creators/va2rosa/characters",
+          "external": true
+        },
+        {
+          "type": "image",
+          "src": "assets/06744560-b962-4002-b886-4757c464b086_Screenshot_2023-09-17_at_11.51.47_AM.png",
+          "alt": "",
+          "width": 2664,
+          "height": 1824,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "<a href=\"https://app.mars.college/littlemartians\" target=\"_blank\" rel=\"noopener\">WIP - Custom App!</a>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "App developed with Gene Kogan.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "https://app.mars.college/littlemartians",
+                  "external": true
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

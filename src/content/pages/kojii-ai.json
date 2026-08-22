@@ -1,0 +1,279 @@
+{
+  "slug": "kojii-ai",
+  "title": "Kojii — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "1st Eden interactive",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Little Martians stories",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/49e3e405-ad38-4f4c-9b41-b5e7555608b1_verdelis1.jpg",
+                  "alt": "",
+                  "width": 684,
+                  "height": 684,
+                  "caption": "VERDELIS",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/450db527-28f1-4cb6-b397-46f938068aa8_ada.jpg",
+                  "alt": "",
+                  "width": 835,
+                  "height": 1404,
+                  "caption": "ADA",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "A cutting edge experiment in interactive storytelling",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>\"Little Martians\" – An Interactive World Building Odyssey by Vanessa Rosa</em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>\"Little Martians\" is an experiment on interactive generative storytelling. This expansive universe imagines a future where 'Little Martians,' each unique in abilities and interests, are the seeds of Earth’s life across the cosmos. These beings adapt to diverse environments, nurturing local ecosystems or creating new forms of life. But they also ensure that our planet's legacy thrives in new worlds. They are stewards of the 'Imaginarium', a vast and intricate network preserving Earth's collective memory and imagination.</em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>This project stands out for its unique blend of artistic craftsmanship and cutting edge AI techniques. At its core are six distinct Little Martian characters, each originating from a real ceramic sculpture created by Vanessa Rosa. These sculptures were photographed and transformed into AI characters through custom LORA AI models, specially developed for the Eden.art platform. Large Language Models are prompted to work as individual personality rich characters who create a custom story based in the user’s input. The resulting digital entities are deeply rooted in research, drawing from scientific possibilities of extraterrestrial life and rich art historical contexts that inform the Imaginarium's simulation.&nbsp;</em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>The 'Little Martians' project is an invitation to journey through a living, evolving narrative. As collectors and viewers engage with the characters, they become co-creators in an ever-expanding narrative. They are invited to guide the story with a prompt. </em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>Join us in shaping this universe, where every choice and interaction creates a new thread in the ongoing saga of the 'Little Martians'.</em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Meet the Little Martians",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "row",
+                  "cols": [
+                    {
+                      "span": 3,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/7dc9bfe9-16a1-4989-8de3-df9fe1c9fdbc_shuijing.png",
+                          "alt": "",
+                          "width": 1092,
+                          "height": 1460,
+                          "caption": "SHUIJING",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": null
+                        }
+                      ]
+                    },
+                    {
+                      "span": 3,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/b5042ba8-3416-48ac-a95c-bf0619471d1c_kalama.jpg",
+                          "alt": "",
+                          "width": 841,
+                          "height": 1224,
+                          "caption": "KALAMa",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": null
+                        },
+                        {
+                          "type": "image",
+                          "src": "assets/4d699514-d74f-4d56-9326-303af481aa27_mycos.png",
+                          "alt": "",
+                          "width": 1059,
+                          "height": 1313,
+                          "caption": "MYCOS",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/4d7f38a7-465a-4a0d-85dc-dac544e2a7ba_kweku.png",
+                  "alt": "",
+                  "width": 1097,
+                  "height": 1708,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/Q25eeEDhdwc?feature=oembed",
+          "provider": "YouTube",
+          "poster": "assets/541e85a3-7c3d-46ac-b3f8-fb555bda75bd_verdelis-thumbnail-red.png",
+          "title": "&#39;Dear Human, My Muse&#39; - AI animation trailer",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "Context",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/4d0e19bc-0652-4291-a948-2840f1c1aa10_physical_reality-3.png",
+                  "alt": "",
+                  "width": 956,
+                  "height": 730,
+                  "caption": "Physical reality",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/e609175c-7ca4-4199-9edc-b3a4b0cebb51_logo1.png",
+                  "alt": "",
+                  "width": 1752,
+                  "height": 1534,
+                  "caption": "Human Imaginarium",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "The Process",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/TG16nfIx66o?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Little Martians - building an AI powered sci-fi world",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "Road Map",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "launch interactive storytelling . Create a book for the series, highlighting each character and their world. Organize exhibitions with the main characters.<br>And much more as our powers in interactive storytelling develop.",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "image",
+          "src": "assets/1b49a540-6038-41a3-8f09-766c96506c09_Screenshot_2024-04-22_at_11.41.41_AM.png",
+          "alt": "",
+          "width": 852,
+          "height": 1000,
+          "caption": "",
+          "title": "Learn More !",
+          "subtitle": "Read the Substack with Little Martians philosophy and insights",
+          "button": null,
+          "link": null
+        }
+      ]
+    }
+  ]
+}

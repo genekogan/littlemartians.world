@@ -1,0 +1,164 @@
+---
+// Renders a list of content blocks. Rows recurse back into this component so
+// the original 12-column grid survives.
+import { fixHref, isExternal } from '../lib/content.js';
+const { blocks, eager = false } = Astro.props;
+
+// Consecutive plain images become one side-by-side row.
+function group(list) {
+  const out = [];
+  let run = [];
+  const flush = () => {
+    if (run.length) out.push(run.length > 1 ? { type: '__imagerow', images: run } : run[0]);
+    run = [];
+  };
+  for (const b of list) {
+    if (b.type === 'image' && !b.caption && !b.link && !b.title) { run.push(b); continue; }
+    flush();
+    out.push(b);
+  }
+  flush();
+  return out;
+}
+const items = group(blocks ?? []);
+const cls = b => [b.align ? `ta-${b.align}` : '', b.size ? `sz-${b.size}` : ''].filter(Boolean).join(' ');
+const Self = Astro.self;
+---
+{items.map((b) => {
+  if (b.type === 'row') return (
+    <div class="row">
+      {b.cols.map((c) => (
+        <div class="col" style={`--span:${Math.max(1, Math.min(12, c.span))}`}>
+          <Self blocks={c.content} eager={eager} />
+        </div>
+      ))}
+    </div>
+  );
+
+  if (b.type === '__imagerow') return (
+    <div class={`img-row img-row--${Math.min(b.images.length, 6)}`}>
+      {b.images.map((im) => (
+        <figure class="img-block">
+          <img src={im.src} alt={im.alt} width={im.width} height={im.height}
+               loading={eager ? 'eager' : 'lazy'} decoding="async"
+               style={im.width && im.height ? `aspect-ratio:${im.width}/${im.height}` : undefined} />
+        </figure>
+      ))}
+    </div>
+  );
+
+  if (b.type === 'heading') {
+    const H = `h${Math.min(Math.max(b.level, 1), 6)}`;
+    return <H class={cls(b) || undefined} set:html={b.html} />;
+  }
+
+  if (b.type === 'paragraph') return <p class={cls(b) || undefined} set:html={b.html} />;
+
+  if (b.type === 'list') {
+    const L = b.ordered ? 'ol' : 'ul';
+    return <L class={cls(b) || undefined}>{b.items.map((i) => <li set:html={i} />)}</L>;
+  }
+
+  if (b.type === 'quote') return <blockquote class={cls(b) || undefined} set:html={b.html} />;
+  if (b.type === 'divider') return <hr />;
+
+  if (b.type === 'image') {
+    const img = (
+      <img src={b.src} alt={b.alt} width={b.width} height={b.height}
+           loading={eager ? 'eager' : 'lazy'} decoding="async"
+           style={b.width && b.height ? `aspect-ratio:${b.width}/${b.height}` : undefined} />
+    );
+    return (
+      <figure class="img-block">
+        {b.link
+          ? <a href={fixHref(b.link)} target={isExternal(b.link) ? '_blank' : undefined} rel={isExternal(b.link) ? 'noopener' : undefined}>{img}</a>
+          : img}
+        {(b.title || b.subtitle || b.button?.text) && (
+          <figcaption class="img-card">
+            {b.title && <p class="img-title">{b.title}</p>}
+            {b.subtitle && <p class="img-subtitle">{b.subtitle}</p>}
+            {b.button?.text && (
+              <p class="btn-wrap">
+                <a class="btn" href={fixHref(b.button.href)}
+                   target={isExternal(b.button.href) ? '_blank' : undefined}
+                   rel={isExternal(b.button.href) ? 'noopener' : undefined}>{b.button.text}</a>
+              </p>
+            )}
+          </figcaption>
+        )}
+        {b.caption && <figcaption set:html={b.caption} />}
+      </figure>
+    );
+  }
+
+  if (b.type === 'gallery') return (
+    <div class="gallery">
+      {b.images.map((im) => (
+        <a class="g-item" href={im.src} target="_blank" rel="noopener">
+          <img src={im.src} alt={im.alt} loading="lazy" decoding="async" />
+        </a>
+      ))}
+    </div>
+  );
+
+  if (b.type === 'video') {
+    const pad = b.ratio || 56.25;
+    const player = b.poster
+      ? (
+        <div class="video video--poster" style={`padding-bottom:${pad}%`}>
+          <button class="video-play" type="button"
+                  data-video-src={`${b.src}${b.src.includes('?') ? '&' : '?'}autoplay=1`}
+                  aria-label={`Play ${b.title || 'video'}`}>
+            <img src={b.poster} alt="" loading="lazy" decoding="async" />
+            <span class="video-play-icon" aria-hidden="true" />
+          </button>
+        </div>
+      )
+      : (
+        <div class="video" style={`padding-bottom:${pad}%`}>
+          <iframe src={b.src} title={b.title || 'Video'} frameborder="0" loading="lazy"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
+        </div>
+      );
+    return b.caption
+      ? <figure class="video-figure">{player}<figcaption set:html={b.caption} /></figure>
+      : player;
+  }
+
+  if (b.type === 'button') return (
+    <p class="btn-wrap">
+      <a class="btn" href={fixHref(b.href)}
+         target={isExternal(b.href) ? '_blank' : undefined}
+         rel={isExternal(b.href) ? 'noopener' : undefined}>{b.text}</a>
+    </p>
+  );
+
+  if (b.type === 'social') return (
+    <p class="social">
+      {b.links.map((l) => <a href={l.href} target="_blank" rel="noopener">{l.name || 'link'}</a>)}
+    </p>
+  );
+
+  if (b.type === 'form') return (
+    <form class="lm-form" data-needs-backend="true">
+      {b.title && <h3>{b.title}</h3>}
+      {b.fields.map((f) => {
+        const id = 'f-' + f.label.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+        return (
+          <>
+            <label for={id}>{f.label}</label>
+            {f.type === 'textarea'
+              ? <textarea id={id} name={f.label} rows="5" required={f.required} />
+              : <input id={id} type={f.type} name={f.label} required={f.required} />}
+          </>
+        );
+      })}
+      <button type="submit">{b.button || 'Submit'}</button>
+      <p class="form-note">Form submissions need a backend — not yet connected.</p>
+    </form>
+  );
+
+  if (b.type === 'embed') return <div class="embed" set:html={b.html} />;
+  return null;
+})}

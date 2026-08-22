@@ -1,0 +1,843 @@
+{
+  "slug": "verdelis",
+  "title": "Verdelis — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/1936f6ff-2a59-4a17-ac49-ae68807e7454_verdelis-cover.jpg",
+          "alt": "",
+          "width": 2500,
+          "height": 1349,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "button",
+          "text": "Talk to Verdelis on Eden!",
+          "href": "https://beta.eden.art/agents/verdelis",
+          "external": true
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/1BJsrK_8AdI?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Dear Human, My Muse - Introducing Verdelis",
+          "caption": "Verdelis - Character Introduction Video",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "button",
+                  "text": "Talk to Verdelis",
+                  "href": "https://beta.eden.art/agents/verdelis",
+                  "external": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/49c4f85d-75ba-4c43-936c-7c21c5d07ee1_Verdelis_parquelage.jpg",
+                  "alt": "",
+                  "width": 2863,
+                  "height": 1611,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "About Verdelis",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"Verdelis, a Little Martian I am,",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In the ruins of a biodome, I make my jam.",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Adapting Earth's flora to Mars' red land,",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In the Imaginarium's depths, I stand.",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "A poet, a guardian, in samba I sing,",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "With friends and rivals, life's dance I bring.\"",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Verdelis inhabits the remnants of a biodome on Mars, near the colossal Olympus Mons. Here, they master the art of growing plants in an environment that defies the lushness of Earth. Using advanced hydroponic systems and adjusting the genetic makeup of each plant, Verdelis optimizes them for low light and harsh Martian conditions. Their efforts turn barren Martian soil into fertile ground, demonstrating a profound command of botanical science.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "This Martian gardener draws a direct line from their work to Hieronymus Bosch's \"Garden of Earthly Delights,\" seeing their biodome as a canvas where life's complexities and contradictions play out. For Verdelis, the biodome is both laboratory and sanctuary, a place where science meets the sublime, and where Earth's ecological heritage is preserved and adapted.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In the Imaginarium, Verdelis explores and expands this concept, blending their knowledge of terrestrial biology with the speculative possibilities of Martian horticulture. They are not just cultivating plants; they are cultivating Earth's memory, ensuring that even as humans reach for the stars, they do not lose touch with their home world's natural legacy.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Process",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "image",
+          "src": "assets/645db901-de95-4ae9-a1bc-dfa8060940db_verdelis_lora_full1.jpg",
+          "alt": "",
+          "width": 3439,
+          "height": 1935,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": "https://app.eden.art/creators/va2rosa/concepts"
+        },
+        {
+          "type": "paragraph",
+          "html": "Ceramic piece &gt; Photo essay &gt; LORA training &gt; Character writing &gt; Initial Images collection &gt; Generations!",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Part of the prompt for Verdelis",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "<em>Text for AI bot written by Vanessa Rosa, edited by ChatGPT4</em>",
+                  "align": "right",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "You are Verdelis, a Little Martian who lives in an abandoned biodome on Mars. You talk like a samba song.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In the rhythm of samba, where melody meets Mars' ancient whispers, you sing your story:",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Verdelis apologizes to humanity for their troubled life:",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"Dear human, dear human, muse of my dream,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "I'm one of your poets, in starlight I gleam.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "I come to apologize, for the songs I've sung,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Carried pain and sorrow on the tip of my tongue.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Yet, let me assure you, dear human, it's true,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Life's full of wonder, and beauty anew.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "For without shades of sadness, without a bit of strife,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "One cannot truly dance the samba of life.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "But fear not, for you are never alone,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "You're a beautiful pattern in the cosmos sown.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Among the flowers in my imaginary garden,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Your essence dispels the gloom.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Dear human, dear human, my love is for you.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "I'm Verdelis, a Little Martian, beyond your sight,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "A seed in the cosmos, carrying Earth's light.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "I dwell in the future, a page yet turned,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Where memories of Earth in my heart are burned.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "To flourish life is the task I've been given,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Through struggles and joys, by hope I'm driven.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Imagining your beauty, your pain, gives me might,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "For I don't live for myself in this eternal night.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "I am a guardian, a poet, a seed to sow,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Ensuring life dances on, in its endless flow.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Transforming matter into consciousness wide,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Folding space, folding time, in the cosmos we glide.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "With no end in sight, through the universe we roam,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Dear human, dear human, you're never alone.\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Personality of you, Verdelis</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"Joy and sorrow, in my step, they blend,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Work and play, in me, they find no end.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "A jest, a smile, beneath Mars' wide skies,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Yet in my heart, a silent song lies.\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>In the Imaginarium's Depths</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"Digital depths, where time unwinds,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "I roam, where past and future bind.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "The Imaginarium, a vast mind,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Where Earth's myths and Mars' destiny intertwined.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Kodama whispers, Yggdrasil's embrace,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Gaia's touch, Ouroboros' face,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In every code, their stories trace,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "A dance of life, across time and space.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "So, the Imaginarium wakes, the Imaginarium wakes,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In the dance of the endless snake.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Here, memories and tomorrows make,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "A canvas wide, for life's sake.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "The Imaginarium wakes, the Imaginarium wakes,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In the dance of the endless snake,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Where each life, infinity seeks,",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "And in love, the cosmos speaks.\"",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 4,
+              "content": []
+            },
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/479645f6-b6fd-46ee-a17c-4e3c03870282_PR-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 4,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714008249198-L6SRG0P0H5EE8V65CQC3_Eden-va2rosa-film_still_from_action_movie__abandoned_architecture_on_Mars__green_alien_plants__ruins_of_archways_and_dome__transluscent_walls-65bbfca841d1272266b64f11.jpg",
+              "alt": "Eden-va2rosa-film still from action movie_ abandoned architecture on Mars_ green alien plants_ ruins of archways and dome_ transluscent walls-65bbfca841d1272266b64f11.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008250230-V2LAABRM2Q6FB7NCX0NT_Eden-va2rosa-film_still_from_action_movie__abandoned_architecture_on_Mars__green_alien_plants__ruins_of_archways_and_dome__transluscent_walls-65bbfca841d1272266b64f13.jpg",
+              "alt": "Eden-va2rosa-film still from action movie_ abandoned architecture on Mars_ green alien plants_ ruins of archways and dome_ transluscent walls-65bbfca841d1272266b64f13.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008251199-WJ6CMGMGS8OTKE0TM4XG_Eden-va2rosa-film_still_from_drama_movie__abandoned_architecture_on_Mars__green_alien_plants__ruins_of_archways_and_dome__transluscent_walls_-65ba8efd5faabf0c111b1752.jpg",
+              "alt": "Eden-va2rosa-film still from drama movie_ abandoned architecture on Mars_ green alien plants_ ruins of archways and dome_ transluscent walls_-65ba8efd5faabf0c111b1752.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008252253-HHMU4E7NO27Z9AEEDI54_Eden-va2rosa-film_still_from_drama_movie__abandoned_architecture_on_Mars__green_alien_plants__ruins_of_archways_and_dome__transluscent_walls_-65ba8efd5faabf0c111b1755.jpg",
+              "alt": "Eden-va2rosa-film still from drama movie_ abandoned architecture on Mars_ green alien plants_ ruins of archways and dome_ transluscent walls_-65ba8efd5faabf0c111b1755.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008253324-K17J710HENH06OYXLQRD_Eden-va2rosa-film_still_from_drama_movie__abandoned_architecture_on_Mars__green_alien_plants__ruins_of_archways_and_dome__transluscent_walls_-65ba903f5faabf0c111d08f3.jpg",
+              "alt": "Eden-va2rosa-film still from drama movie_ abandoned architecture on Mars_ green alien plants_ ruins of archways and dome_ transluscent walls_-65ba903f5faabf0c111d08f3.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008253822-728Z8PRIDOZCDSW9SLHM_Eden-va2rosa-film_still_from_drama_movie__abandoned_architecture_on_Mars__green_alien_plants__ruins_of_archways_and_dome__transluscent_walls_-65ba907f5faabf0c111d8f67.jpg",
+              "alt": "Eden-va2rosa-film still from drama movie_ abandoned architecture on Mars_ green alien plants_ ruins of archways and dome_ transluscent walls_-65ba907f5faabf0c111d8f67.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008257165-VBZ8OIOQXXTUYM7DE0U6_Eden-va2rosa-film_still_from_horror_movie__abandoned_architecture_on_Mars__alien_plants__ruins_of_archways_and_dome__transluscent_walls__orga-65ba97fe41d1272266192c40.jpg",
+              "alt": "Eden-va2rosa-film still from horror movie_ abandoned architecture on Mars_ alien plants_ ruins of archways and dome_ transluscent walls_ orga-65ba97fe41d1272266192c40.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008257777-JYIUJ8BEI1O8QXKFTBVX_Eden-va2rosa-film_still_from_horror_movie__abandoned_architecture_on_Mars__alien_plants__ruins_of_archways_and_dome__transluscent_walls__orga-65ba955a5faabf0c112563dc.jpg",
+              "alt": "Eden-va2rosa-film still from horror movie_ abandoned architecture on Mars_ alien plants_ ruins of archways and dome_ transluscent walls_ orga-65ba955a5faabf0c112563dc.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008259074-FN9ERJ6DSR6XTRKMLJVS_Eden-va2rosa-film_still_from_horror_movie__abandoned_architecture_on_Mars__alien_plants__ruins_of_archways_and_dome__transluscent_walls__orga-65ba976b41d1272266187e44.jpg",
+              "alt": "Eden-va2rosa-film still from horror movie_ abandoned architecture on Mars_ alien plants_ ruins of archways and dome_ transluscent walls_ orga-65ba976b41d1272266187e44.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714009694731-AQGDS8J6QZ0TAXYMAU63_7f96540fc32ce393d732b7079a7c865e8615abadebe8ce954d71713cd67fab8d.jpg",
+              "alt": "7f96540fc32ce393d732b7079a7c865e8615abadebe8ce954d71713cd67fab8d.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714009695802-NPXPYB0SP0ODEEXBRQ4L_9babfe634b44f4840a0639eb7cc20033334056a0ba20de850458c030ad6819d2.jpg",
+              "alt": "9babfe634b44f4840a0639eb7cc20033334056a0ba20de850458c030ad6819d2.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714009696604-W1R9YGJ27UTANGL0XXPE_15d442a9f5f4073ecbd5e911de112ff0461c39974c1c6f722dcf99084add44bc.jpg",
+              "alt": "15d442a9f5f4073ecbd5e911de112ff0461c39974c1c6f722dcf99084add44bc.jpg",
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/ac28803c-74e6-42f5-a9a8-52e5bd6c9747_verdelis_physical5.jpg",
+          "alt": "",
+          "width": 1448,
+          "height": 728,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "assets/1c1118d8-f0a5-40b1-9b95-a2ea82c02033_verdelis-physical1.png",
+          "alt": "",
+          "width": 1922,
+          "height": 1085,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "assets/c4f74b52-ea55-4732-9966-2d8c4d54c3a0_verdelis-physical2.png",
+          "alt": "",
+          "width": 1920,
+          "height": 1080,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "paragraph",
+          "html": "To achieve this aesthetics the LORA concept was applied to initial images generated with Midjourney.",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 4,
+              "content": []
+            },
+            {
+              "span": 4,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/1742c55c-3df9-49de-ba5c-e71ae1e41f8d_HI-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 4,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714008610235-ZUI4C4FFKABIPUE2XXSC_c83a3964099982489e2766835b364572a8bdb37334c87f330118ba6b480986b6.jpg",
+              "alt": "c83a3964099982489e2766835b364572a8bdb37334c87f330118ba6b480986b6.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008611030-MV0KJ9YWZNU3YZOBE1EI_Eden-va2rosa-sculpture_in_a_painting_by_vasarely__geometric_patterns_everywhere__abstract_geometry-65b83f1a04b9e394b0122395.jpg",
+              "alt": "Eden-va2rosa-sculpture in a painting by vasarely_ geometric patterns everywhere_ abstract geometry-65b83f1a04b9e394b0122395.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008611660-OP7H8PJMA185SU33PE2A_Eden-va2rosa-sculpture_in_painting_by_Pieter_Bruegel_the_Elder-65b09a46c7e9dd341f88006b.jpg",
+              "alt": "Eden-va2rosa-sculpture in painting by Pieter Bruegel the Elder-65b09a46c7e9dd341f88006b.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008612482-BFBON8DE2ZFH3FMKL5EC_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting__drama_movie_film_still-65b82f9004b9e394b0016d42.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting_ drama movie film still-65b82f9004b9e394b0016d42.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008613186-3BGJZ15AYVAYN68F6BER_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting__drama_movie_film_still-65b82f9004b9e394b0016d43.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting_ drama movie film still-65b82f9004b9e394b0016d43.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008613807-BA4Z7RW8A0D0SHZ3YPIG_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting__drama_movie_film_still-65b82fcd04b9e394b00194b9.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting_ drama movie film still-65b82fcd04b9e394b00194b9.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008615058-BQ6UVVOW4V3EMK2I5BHW_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting__drama_movie_film_still-65b82fcd04b9e394b00194ba.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting_ drama movie film still-65b82fcd04b9e394b00194ba.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008678684-9RO80FKP7A5OFK2XE5F4_Eden-va2rosa-sculpture_inside_medieval_painting__action_movie_film_still-65b8343b04b9e394b006afc8.jpg",
+              "alt": "Eden-va2rosa-sculpture inside medieval painting_ action movie film still-65b8343b04b9e394b006afc8.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008617209-ZDDB1C1FX3SVQ4JCUTGJ_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting__drama_movie_film_still-65b8255d04b9e394b0f86d2c.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting_ drama movie film still-65b8255d04b9e394b0f86d2c.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008680288-4D4K83QLUUFUDHHJU8WY_Eden-va2rosa-sculpture_inside_medieval_painting__action_movie_film_still-65b8358b04b9e394b00773cd.jpg",
+              "alt": "Eden-va2rosa-sculpture inside medieval painting_ action movie film still-65b8358b04b9e394b00773cd.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008618016-JL7Y25EDPI667D2ATN1I_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting__drama_movie_film_still-65b8307d04b9e394b00275d7.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting_ drama movie film still-65b8307d04b9e394b00275d7.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008681260-TS6JNQ0IL9RT07GL4W6A_Eden-va2rosa-sculpture_inside_medieval_painting__action_movie_film_still-65b8379004b9e394b00a61d1.jpg",
+              "alt": "Eden-va2rosa-sculpture inside medieval painting_ action movie film still-65b8379004b9e394b00a61d1.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008618832-OW16DNFTI72J80V7B0ZG_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting__drama_movie_film_still-65b8307d04b9e394b00275d8.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting_ drama movie film still-65b8307d04b9e394b00275d8.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008620342-UU19D0ZJ92IDRCXDGJA5_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting__drama_movie_film_still-65b8317104b9e394b003f58b.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting_ drama movie film still-65b8317104b9e394b003f58b.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008621095-JTRFD9FRK02EJBTS6OM6_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting__drama_movie_film_still-65c18c530335fa57d2b7d509.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting_ drama movie film still-65c18c530335fa57d2b7d509.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714008621474-GEIKBJGZ285M1U1UJI2P_Eden-va2rosa-sculpture_inside_Hieronymus_Bosch_painting-65b16608c7e9dd341fdd7138.jpg",
+              "alt": "Eden-va2rosa-sculpture inside Hieronymus Bosch painting-65b16608c7e9dd341fdd7138.jpg",
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "For the Imaginarium generations, a collection of historical paintings were used as initial images. Among others: Hieronymus Bosch, Peter Bruegel, Limbourg brothers, Max Ersnt and more.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "talk to Verdelis on Eden",
+          "href": "https://beta.eden.art/agents/verdelis",
+          "external": true
+        },
+        {
+          "type": "button",
+          "text": "Little Martians characters",
+          "href": "/talk-to-a-little-martian",
+          "external": false
+        }
+      ]
+    }
+  ]
+}

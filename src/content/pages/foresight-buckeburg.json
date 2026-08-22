@@ -1,0 +1,203 @@
+{
+  "slug": "foresight-buckeburg",
+  "title": "Foresight Buckeburg — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 1,
+              "content": []
+            },
+            {
+              "span": 10,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "Foresight Weekend",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Foresight Institute Vision Weekend | Schloss Bückeburg (2024)",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Foresight Institute’s Vision Weekends are their annual festivals. Held in two countries, over two weekends, people are invited to burst their tech silos, and plan for flourishing long-term futures. It’s a conference, unconference, mentorship hours, curated 1-1s, demos, the satellite gatherings, cyberfuture dinners, tea services, costume closets, interactive art, secret dance parties, and surprise experiences.</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "https://foresight.org/vw2024eu/",
+                  "external": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/104ff075-d0ee-4a7d-a617-430817b1dd6c_IMG_8152.jpg",
+                  "alt": "",
+                  "width": 1414,
+                  "height": 942,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 1,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1750623609413-JFDO12C626WSV1WCHRYQ_IMG_8287.jpg",
+              "alt": "IMG_8287.jpg",
+              "width": 1536,
+              "height": 2048
+            },
+            {
+              "src": "assets/1750623607513-ZERKO8ZU0906ZUAO17G7_IMG_8279.jpg",
+              "alt": "IMG_8279.jpg",
+              "width": 2048,
+              "height": 1536
+            },
+            {
+              "src": "assets/1750623629876-VGF9FZA95DA8TD3WL4NX_IMG_8277.jpg",
+              "alt": "IMG_8277.jpg",
+              "width": 2048,
+              "height": 1536
+            },
+            {
+              "src": "assets/1750623632824-FIL3PJ6AK077ORF0JN3V_IMG_8265.jpg",
+              "alt": "IMG_8265.jpg",
+              "width": 2048,
+              "height": 1536
+            },
+            {
+              "src": "assets/1750623659335-7XYIRFIAW6671SX9Z89F_IMG_8218.jpg",
+              "alt": "IMG_8218.jpg",
+              "width": 2048,
+              "height": 1536
+            },
+            {
+              "src": "assets/1750623688857-MSNFVD88NSL96EKHADC7_IMG_8204.jpg",
+              "alt": "IMG_8204.jpg",
+              "width": 2048,
+              "height": 1536
+            },
+            {
+              "src": "assets/1750623689892-JOA9EGUH568M6Z33T2NT_IMG_8137.jpg",
+              "alt": "IMG_8137.jpg",
+              "width": 2048,
+              "height": 1536
+            },
+            {
+              "src": "assets/1750623712635-WVQFJ5VJ5NKK9LCDISOT_IMG_8128.jpg",
+              "alt": "IMG_8128.jpg",
+              "width": 2048,
+              "height": 1536
+            },
+            {
+              "src": "assets/1750623714237-7A59FC9RC6O5JM4MLH6O_IMG_8133.jpg",
+              "alt": "IMG_8133.jpg",
+              "width": 2048,
+              "height": 1536
+            },
+            {
+              "src": "assets/1750626550859-NHHYPW3VJZ2P9WOGA01F_63.JPEG",
+              "alt": "63.JPEG",
+              "width": 6333,
+              "height": 4222
+            },
+            {
+              "src": "assets/1750626600156-RT1536UVYWKOJWQ9KC9V_64.JPEG",
+              "alt": "64.JPEG",
+              "width": 4480,
+              "height": 6720
+            },
+            {
+              "src": "assets/1750626669004-CG2RZP3K5ON1288JKO82_53893703243_60058f2d5f_o.jpg",
+              "alt": "53893703243_60058f2d5f_o.jpg",
+              "width": 5445,
+              "height": 3063
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "html": "Performance: Painting people’s faces during the cyberfuture dinner",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1750627009321-SDSW0HGI5Y7V98FQULHH_53891804201_7d33ea11a5_o.jpg",
+              "alt": "53891804201_7d33ea11a5_o.jpg",
+              "width": 6405,
+              "height": 4270
+            },
+            {
+              "src": "assets/1750627012766-OV8UMMBTC1TVO87OOFOO_50.JPEG",
+              "alt": "50.JPEG",
+              "width": 4480,
+              "height": 6720
+            },
+            {
+              "src": "assets/1750627031064-VZP6AE7AANGXCM5UYGY8_IMG_8208.jpg",
+              "alt": "IMG_8208.jpg",
+              "width": 1536,
+              "height": 2048
+            },
+            {
+              "src": "assets/1750627043818-1FV4ZRP6KPUP0U9GNTJL_IMG_8211.jpg",
+              "alt": "IMG_8211.jpg",
+              "width": 1536,
+              "height": 2048
+            },
+            {
+              "src": "assets/1750627057868-5D47KV3A18LI0M28JRI8_IMG_8213.jpg",
+              "alt": "IMG_8213.jpg",
+              "width": 1536,
+              "height": 2048
+            },
+            {
+              "src": "assets/1750627071604-VO1TL2ORU9NNEUAFDJHT_IMG_8227.jpg",
+              "alt": "IMG_8227.jpg",
+              "width": 1536,
+              "height": 2048
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Shows",
+          "href": "/shows",
+          "external": false
+        }
+      ]
+    }
+  ]
+}

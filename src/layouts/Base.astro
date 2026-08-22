@@ -1,0 +1,91 @@
+---
+import '../styles/fonts.css';
+import '../styles/global.css';
+
+const SITE_TITLE = 'Little Martians';
+
+const PRIMARY_NAV = [
+  { label: 'Talk to a Little Martian', href: '/talk-to-a-little-martian/' },
+  { label: 'Gallery', href: '/gallery/' },
+  { label: 'Research', href: '/research/' },
+  { label: 'About', href: '/about/' },
+];
+const SECONDARY_NAV = [{ label: 'Crypto', href: '/nfts-1/' }];
+
+const { title, description, ogImage, path, hasHero = false } = Astro.props;
+const pageTitle = title === SITE_TITLE ? SITE_TITLE
+  : title.includes(SITE_TITLE) ? title : `${title} — ${SITE_TITLE}`;
+const bare = title.replace(new RegExp(`\\s*[—-]\\s*${SITE_TITLE}$`), '').trim() || SITE_TITLE;
+const canonical = new URL(path, Astro.site).href;
+const here = Astro.url.pathname;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{pageTitle}</title>
+  {description && <meta name="description" content={description} />}
+  <link rel="canonical" href={canonical} />
+  <meta property="og:site_name" content={SITE_TITLE} />
+  <meta property="og:title" content={bare} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonical} />
+  {description && <meta property="og:description" content={description} />}
+  {ogImage && <meta property="og:image" content={new URL(ogImage, Astro.site).href} />}
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="icon" href="/favicon.png" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+</head>
+<body class={hasHero ? 'has-hero' : undefined}>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="site">
+    <header class="header">
+      <a class="branding" href="/">{SITE_TITLE}</a>
+      <nav class="nav nav--primary" aria-label="Primary">
+        {PRIMARY_NAV.map((n) => (
+          <a href={n.href} aria-current={here === n.href ? 'page' : undefined}>{n.label}</a>
+        ))}
+      </nav>
+      <nav class="nav nav--secondary" aria-label="Secondary">
+        {SECONDARY_NAV.map((n) => <a class="nav-btn" href={n.href}>{n.label}</a>)}
+      </nav>
+      <button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
+        <span /><span /><span />
+      </button>
+    </header>
+
+    <div class="mobile-nav" id="mobile-nav" hidden>
+      <nav aria-label="Mobile">
+        {PRIMARY_NAV.map((n) => <a href={n.href}>{n.label}</a>)}
+        {SECONDARY_NAV.map((n) => <a href={n.href}>{n.label}</a>)}
+      </nav>
+    </div>
+
+    <main id="main"><slot /></main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        <p class="footer-brand"><a href="/">{SITE_TITLE}</a></p>
+        <form class="footer-form" data-needs-backend="true">
+          <label for="footer-email">Subscribe to our mailing list to receive updates!</label>
+          <div class="footer-form-row">
+            <input id="footer-email" type="email" name="email" placeholder="Email Address" required />
+            <button type="submit">Subscribe</button>
+          </div>
+          <p class="form-note">Newsletter signup needs a backend — not yet connected.</p>
+        </form>
+        <p class="footer-credit">
+          Directed by <a href="https://va2rosa.com" target="_blank" rel="noopener">va2rosa</a>
+          | <a href="mailto:va2rosa@littlemartians.world">va2rosa@littlemartians.world</a>
+        </p>
+        <nav class="footer-nav" aria-label="Footer">
+          <a href="/">Home</a>
+          <a href="/contact-maple/">Contact</a>
+        </nav>
+      </div>
+    </footer>
+  </div>
+  <script src="/site.js" defer></script>
+</body>
+</html>

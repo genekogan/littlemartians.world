@@ -1,0 +1,665 @@
+{
+  "slug": "physical-reality",
+  "title": "Physical Reality — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 2,
+              "content": []
+            },
+            {
+              "span": 8,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/e055f6fa-2c6c-4ae0-9722-81331588da71_PR-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Play with the model!",
+          "href": "https://beta.eden.art/creators/va2rosa?tab=agents",
+          "external": true
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "Physical Reality refers to the environment where the Little Martians actually live. The development of the Little Martians universe was deeply rooted in speculative science research about extraterrestrial life, blending scientific rigor with creative storytelling to envision plausible life forms and environments beyond Earth. Drawing from scientific literature on astrobiology, geology, and exoplanetary science, I explored how life could potentially thrive under extreme conditions—such as the subglacial oceans of Enceladus, the harsh acidic clouds of Venus, or the geothermal vents on Mars. I focused on factors like energy sources, chemical composition, and environmental stability. As a result, we have interlinked stories that reflect both the harsh realities and the profound potential of life across the cosmos.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Here are some of the images created to design the aesthetics of each character. A LORA concept and a prompt were applied on each one of these images, resulting in new aesthetics with a ceramic feel.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Initial Images",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Verdelis",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "images created with Eden and Midjourney",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Verdelis dwells in the ruins of a biodome on Mars, located near the giant volcano Olympus Mons. The biodome, a blend of ancient human technology and self-repairing organic materials, poses challenges due to Mars' thin atmosphere and extreme temperature fluctuations. Verdelis harnesses the limited sunlight through advanced photovoltaic cells embedded in the biodome's structure, converting it into energy sufficient to optimize plant life adapted for low-light and high-carbon dioxide conditions.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714333712085-9FZLVLKUSKGFCXVLQHYS_va2rosa_alien_plant_colorful_organic_a_little_ofmetalloid_parts_6acb8ced-f4ac-494c-be16-96cb66af99b8.jpg",
+              "alt": "va2rosa_alien_plant_colorful_organic_a_little_ofmetalloid_parts_6acb8ced-f4ac-494c-be16-96cb66af99b8.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333712851-DZA3OJD6KQR15WZRGN3Y_va2rosa_alien_plant_in_the_garden_colorful_organic_a_bit_of_mec_865515f3-ae75-4ce9-91ad-2c48c2e8cd66.jpg",
+              "alt": "va2rosa_alien_plant_in_the_garden_colorful_organic_a_bit_of_mec_865515f3-ae75-4ce9-91ad-2c48c2e8cd66.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333713425-JXJ0X9K26QVPIURYOJXO_va2rosa_alien_plants_554a83e0-b6f0-41e5-869e-905eb22308c4.jpg",
+              "alt": "va2rosa_alien_plants_554a83e0-b6f0-41e5-869e-905eb22308c4.jpg",
+              "width": 575,
+              "height": 575
+            },
+            {
+              "src": "assets/1714333716944-DKU61KTXJT9U4B86OB5R_va2rosa_film_still_from_The_Fast_and_the_Furious_film_hollywood_fdc6d9f7-91a2-43b9-925c-143aaf39960a.jpg",
+              "alt": "va2rosa_film_still_from_The_Fast_and_the_Furious_film_hollywood_fdc6d9f7-91a2-43b9-925c-143aaf39960a.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333717016-Y665F24TG0XMR7UU22JZ_va2rosa_garden_of_alien_plants_13fe2837-39dc-4a64-9332-af31fbdde6c2.jpg",
+              "alt": "va2rosa_garden_of_alien_plants_13fe2837-39dc-4a64-9332-af31fbdde6c2.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333718326-ZLDPJPYDV28LGL4LID51_va2rosa_garden_of_alien_plants_51d17e2b-645e-4d53-9b2a-0ba8ba5859c8.jpg",
+              "alt": "va2rosa_garden_of_alien_plants_51d17e2b-645e-4d53-9b2a-0ba8ba5859c8.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714410447479-AQMHLMM98IAELC6Q8JVD_va2rosa_film_still_from_horror_film_kubrick_Birds-eye_view_aban_cb77e559-3c1a-48b6-b773-9f4508d42f85.jpg",
+              "alt": "va2rosa_film_still_from_horror_film_kubrick_Birds-eye_view_aban_cb77e559-3c1a-48b6-b773-9f4508d42f85.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714410448608-B8W0WVDW46JQM6YG3RNE_va2rosa_film_still_from_mystery_film_hitchcock_Dutch_angle_shot_0ad6a2ee-eaa4-4def-b473-07680d4a7b4d.jpg",
+              "alt": "va2rosa_film_still_from_mystery_film_hitchcock_Dutch_angle_shot_0ad6a2ee-eaa4-4def-b473-07680d4a7b4d.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714410451964-TWQF9M05ZSJXY9300HKL_va2rosa__ccbc37f8-1c7f-4162-bb94-d9ac3359b4f5.jpg",
+              "alt": "va2rosa__ccbc37f8-1c7f-4162-bb94-d9ac3359b4f5.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714410451500-SB2243K1N08JL5YK38PH_va2rosa__9e8f71ec-2426-4a9d-be0a-ce23bb7b766d.jpg",
+              "alt": "va2rosa__9e8f71ec-2426-4a9d-be0a-ce23bb7b766d.jpg",
+              "width": 575,
+              "height": 575
+            },
+            {
+              "src": "assets/1714410452817-M520LQZKR0V9RC250K5M_va2rosa_garden_of_alien_plants_af7072e6-f025-436d-9038-9efd1afefe79.jpg",
+              "alt": "va2rosa_garden_of_alien_plants_af7072e6-f025-436d-9038-9efd1afefe79.jpg",
+              "width": 575,
+              "height": 575
+            },
+            {
+              "src": "assets/1714410454755-75NZMLOKY93WU33D2PPN_va2rosa_alien_plant_colorful_organic_a_bit_of_mechanical_parts_e2209df6-1725-4521-b07c-d096dd2a3e73.jpg",
+              "alt": "va2rosa_alien_plant_colorful_organic_a_bit_of_mechanical_parts_e2209df6-1725-4521-b07c-d096dd2a3e73.jpg",
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Ada",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Images created with Eden and Midjourney",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Ada operates within the harsh acidic clouds of Venus, harnessing the planet's abundant chemical energy through advanced chemosynthesis. This process allows Ada to convert Venus' thick, sulfuric acid-rich atmosphere into energy, powering the creation of hybrid mechanical-organic life forms. These life forms are designed to withstand extreme pressures and temperatures, spearheading efforts to terraform Venus and adapt it for future habitation.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714333746298-M5QNDGV8P6BKOO5NJN7K_va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_9ec0c89a-4102-42bb-9ff1-7013f94b78ad.jpg",
+              "alt": "va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_9ec0c89a-4102-42bb-9ff1-7013f94b78ad.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333747625-QU4ZEXYNCIREUKHOK1XB_va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_351b3259-8deb-459b-b5d4-4d085aa6d2dd.jpg",
+              "alt": "va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_351b3259-8deb-459b-b5d4-4d085aa6d2dd.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333749084-NJVCYZ5L1UPDU8G2SK3T_va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_443ef491-2f45-4d29-bb38-9af6b90eb790.jpg",
+              "alt": "va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_443ef491-2f45-4d29-bb38-9af6b90eb790.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333750715-84MUSZ0BKA2H8IV0VMOU_va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_c5b38fdb-abc8-42ae-b105-d9069869178b.jpg",
+              "alt": "va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_c5b38fdb-abc8-42ae-b105-d9069869178b.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333752714-H557XT0IUXL4MCEB9YWA_va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_ce0f4ac9-9fdb-47a7-a848-7342e2f18c80.jpg",
+              "alt": "va2rosa_alien_flying_creatures_made_of_smoke_clouds_and_translu_ce0f4ac9-9fdb-47a7-a848-7342e2f18c80.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333753266-UCRPYRRRWW3P3BLXGFQ3_va2rosa_atmosphere_of_venus_award_winning_stormchasing_photogra_697836d7-f830-4989-aaee-dac6a9a63e07.jpg",
+              "alt": "va2rosa_atmosphere_of_venus_award_winning_stormchasing_photogra_697836d7-f830-4989-aaee-dac6a9a63e07.jpg",
+              "width": 588,
+              "height": 588
+            },
+            {
+              "src": "assets/1714333754334-39ULS5QJUCTSYQK1OO6M_va2rosa_clouds_venus_turbulent_winds_smoke_alien_planet_wide_sh_70139ff0-8f29-46de-90f8-51f430b4f3e5.jpg",
+              "alt": "va2rosa_clouds_venus_turbulent_winds_smoke_alien_planet_wide_sh_70139ff0-8f29-46de-90f8-51f430b4f3e5.jpg",
+              "width": 571,
+              "height": 571
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Shuijing",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Images created with Eden and Midjourney",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Shuijing resides in the subglacial oceans beneath the icy crust of Enceladus, Saturn's moon. This environment is powered by hydrothermal vents that provide both heat and minerals, which are critical for the chemosynthesis-based life forms found there. Shuijing leverages these vents to create energy-rich environments where exotic forms of life, unknown to Earth, can thrive, studying their adaptations to understand life's potential across the cosmos.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714333817806-XCMCLXO9TJ5DS3KXEFSM_va2rosa_alien_microbiology_analog_macro_photography_46385946-9d73-439c-b310-97251c217970.jpg",
+              "alt": "va2rosa_alien_microbiology_analog_macro_photography_46385946-9d73-439c-b310-97251c217970.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333818742-1Z0UKC2H6B4F3L222NJB_va2rosa_Artemia_salina_b4701f1a-6687-458a-b11b-5bb2c6430659.jpg",
+              "alt": "va2rosa_Artemia_salina_b4701f1a-6687-458a-b11b-5bb2c6430659.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333819660-NBCSLZ66DT5J6M7UTTVJ_va2rosa_Gloeocapsa_Cyanobacteria_25c75ba4-e06e-4866-9083-2f5ba350b75a.jpg",
+              "alt": "va2rosa_Gloeocapsa_Cyanobacteria_25c75ba4-e06e-4866-9083-2f5ba350b75a.jpg",
+              "width": 575,
+              "height": 575
+            },
+            {
+              "src": "assets/1714333820319-59EZOGYXRC94I1T45RJG_va2rosa_Macro_photography_close-up_of_diverse_extremophiles_thr_973d17ca-da6a-4d3c-b893-767e8ddfa000.jpg",
+              "alt": "va2rosa_Macro_photography_close-up_of_diverse_extremophiles_thr_973d17ca-da6a-4d3c-b893-767e8ddfa000.jpg",
+              "width": 571,
+              "height": 571
+            },
+            {
+              "src": "assets/1714333822684-JPJR986E06CKF3VEOKE3_va2rosa_microbiology_analog_macro_photography_extremophiles_und_6a965165-c48e-4961-add5-fa6973b7f3d3.jpg",
+              "alt": "va2rosa_microbiology_analog_macro_photography_extremophiles_und_6a965165-c48e-4961-add5-fa6973b7f3d3.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333822674-ZXI98K6DAJTKUSA72FCC_va2rosa_microbiology_analog_macro_photography_extremophiles_und_74b3fd0a-8290-4289-a256-5348e68454c2.jpg",
+              "alt": "va2rosa_microbiology_analog_macro_photography_extremophiles_und_74b3fd0a-8290-4289-a256-5348e68454c2.jpg",
+              "width": 571,
+              "height": 571
+            },
+            {
+              "src": "assets/1714333826668-FTNBEKN3URDH0C5HITYI_va2rosa_microbiology_analog_macro_photography_extremophiles_und_25810169-8f60-4d3b-addb-7ced855a4ba4.jpg",
+              "alt": "va2rosa_microbiology_analog_macro_photography_extremophiles_und_25810169-8f60-4d3b-addb-7ced855a4ba4.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333826667-FPQFBYSCJAQTTODPQ1I2_va2rosa_subtle_colors_ice_crystals_microbiology_analog_macro_ph_85eb2b93-0184-45b2-bb24-2e2d29a470ba.jpg",
+              "alt": "va2rosa_subtle_colors_ice_crystals_microbiology_analog_macro_ph_85eb2b93-0184-45b2-bb24-2e2d29a470ba.jpg",
+              "width": 575,
+              "height": 575
+            },
+            {
+              "src": "assets/1714333829428-QWYFHGVG43QJMHTLSGR8_va2rosa_subtle_colors_ice_crystals_microbiology_analog_macro_ph_ade2eeb2-48f3-4902-8d34-3d25f1afbb13.jpg",
+              "alt": "va2rosa_subtle_colors_ice_crystals_microbiology_analog_macro_ph_ade2eeb2-48f3-4902-8d34-3d25f1afbb13.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333829430-HVDUN692V54RKYH6JS53_va2rosa_Wide-angle_view_of_Enceladus_subsurface_ocean_subtle_co_1a61e77e-c53a-4c94-95be-8a03086efbd7.jpg",
+              "alt": "va2rosa_Wide-angle_view_of_Enceladus_subsurface_ocean_subtle_co_1a61e77e-c53a-4c94-95be-8a03086efbd7.jpg",
+              "width": 571,
+              "height": 571
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Kweku<br>",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Images created with Eden and Midjourney",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Kweku explores the extensive network of lava tubes beneath the Martian surface. These tubes, remnants of ancient volcanic activity, offer a stark contrast to the cold and barren Martian surface. Kweku uses geothermal energy from Mars' subsurface to support his activities and to study the potential for these environments to support life. The thermal gradients present in the tubes help drive the chemical reactions needed to sustain life, enabling Kweku to experiment with and nurture microbial colonies.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714333852428-5DMMNU6U2GE42XSX91M3_va2rosa__ab7c3702-2a7d-4204-a1eb-82faf846006f.jpg",
+              "alt": "va2rosa__ab7c3702-2a7d-4204-a1eb-82faf846006f.jpg",
+              "width": 588,
+              "height": 588
+            },
+            {
+              "src": "assets/1714333854266-PXTDRRZRROVFAPE1G06A_va2rosa_comedy_movie_film_still_happy_colors_an_underground_cav_753204ec-7110-4a1e-8132-27fc13199693.jpg",
+              "alt": "va2rosa_comedy_movie_film_still_happy_colors_an_underground_cav_753204ec-7110-4a1e-8132-27fc13199693.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333856059-ZY2U02GEHYW0QG1SUHNZ_va2rosa_drama_movie_film_still_contrast_purple_and_blue_hues_an_c87ad304-fb71-47d7-b25b-ed78d2324b18.jpg",
+              "alt": "va2rosa_drama_movie_film_still_contrast_purple_and_blue_hues_an_c87ad304-fb71-47d7-b25b-ed78d2324b18.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333858255-MTQ5FUCPVT02S9KOVYFS_va2rosa_horror_movie_film_still_dark_scary_an_underground_cave__3935409d-6158-479b-9f94-0d4d2709d4d3.jpg",
+              "alt": "va2rosa_horror_movie_film_still_dark_scary_an_underground_cave__3935409d-6158-479b-9f94-0d4d2709d4d3.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714333858259-NW58891PH31EMAZD27TE_va2rosa_hr_giger_alien_movie_film_still_archways_stairs_forgott_bba0972f-e0ac-40a6-8ab2-aad8b52199f1.jpg",
+              "alt": "va2rosa_hr_giger_alien_movie_film_still_archways_stairs_forgott_bba0972f-e0ac-40a6-8ab2-aad8b52199f1.jpg",
+              "width": 588,
+              "height": 588
+            },
+            {
+              "src": "assets/1714333860892-WW9PAY1A3S28VTNGJ652_va2rosa_mystery_movie_film_still_Dutch_angle_shots_black_and_wh_3747c9f8-5e9c-4e78-8f1b-726bf8bcc82a.jpg",
+              "alt": "va2rosa_mystery_movie_film_still_Dutch_angle_shots_black_and_wh_3747c9f8-5e9c-4e78-8f1b-726bf8bcc82a.jpg",
+              "width": 1024,
+              "height": 1024
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Mycos",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Images created with Eden and Midjourney",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Mycos inhabits Sporion, an asteroid comet hybrid that has been transformed into a life-supporting ark. Utilizing the asteroid's geothermal energy and rich mineral deposits, Mycos cultivates a diverse ecosystem. Radiotrophic fungi within this system convert radiation into chemical energy, a crucial adaptation in the absence of sunlight. This enables Mycos to sustain life in a seemingly barren space environment.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714334033783-MXP9FJH931LKS882U0ZJ_va2rosa_alien_lifeforms_underwater_photography_coral_reef_4b2d31d2-b691-41e2-8a1c-234589900177.jpg",
+              "alt": "va2rosa_alien_lifeforms_underwater_photography_coral_reef_4b2d31d2-b691-41e2-8a1c-234589900177.jpg",
+              "width": 571,
+              "height": 571
+            },
+            {
+              "src": "assets/1714334034795-U1MW8Z7L5E7GHW84TZCN_va2rosa_alien_lifeforms_underwater_photography_coral_reef_eee2ecda-e6a8-46a2-b97c-78c16a8b464e.jpg",
+              "alt": "va2rosa_alien_lifeforms_underwater_photography_coral_reef_eee2ecda-e6a8-46a2-b97c-78c16a8b464e.jpg",
+              "width": 571,
+              "height": 571
+            },
+            {
+              "src": "assets/1714334035693-U5KFLIGOGD3XHQPRBVPC_va2rosa_alien_lifeforms_underwater_photography_corals_shrimps_j_85263a71-004f-4e78-bba6-41b42d4144b1.jpg",
+              "alt": "va2rosa_alien_lifeforms_underwater_photography_corals_shrimps_j_85263a71-004f-4e78-bba6-41b42d4144b1.jpg",
+              "width": 568,
+              "height": 568
+            },
+            {
+              "src": "assets/1714334036334-X7GC105VE5BIBD7E3CK0_va2rosa_alien_lifeforms_underwater_photography_corals_shrimps_j_4099513b-59f3-462a-941a-a0d655eb4557.jpg",
+              "alt": "va2rosa_alien_lifeforms_underwater_photography_corals_shrimps_j_4099513b-59f3-462a-941a-a0d655eb4557.jpg",
+              "width": 568,
+              "height": 568
+            },
+            {
+              "src": "assets/1714334036837-HIRW54GRZI8UWGN4XW6X_va2rosa_Ernst_Haeckel_comet_hybrid_asteroid_organic_spheric_irr_59796016-3cef-4608-ad61-a2944fa1a49c.jpg",
+              "alt": "va2rosa_Ernst_Haeckel_comet_hybrid_asteroid_organic_spheric_irr_59796016-3cef-4608-ad61-a2944fa1a49c.jpg",
+              "width": 604,
+              "height": 604
+            },
+            {
+              "src": "assets/1714334037455-RBSD7EK9AX5XHQF98NE1_va2rosa_Ersnt_Haeckel_comet_in_outer_space_f4cae901-dc74-4d8a-9992-18b5742bfa1c.jpg",
+              "alt": "va2rosa_Ersnt_Haeckel_comet_in_outer_space_f4cae901-dc74-4d8a-9992-18b5742bfa1c.jpg",
+              "width": 568,
+              "height": 568
+            },
+            {
+              "src": "assets/1714334038321-SUEUDBO0ZB7SG6LHOW0J_va2rosa_horro_movie_film_still_grotesque_alien_lifeforms_underw_905c4a64-7d62-49ff-97a5-e828f5eab0dc.jpg",
+              "alt": "va2rosa_horro_movie_film_still_grotesque_alien_lifeforms_underw_905c4a64-7d62-49ff-97a5-e828f5eab0dc.jpg",
+              "width": 588,
+              "height": 588
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Kalama",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Images created with Eden and Midjourney",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Kalama exists within Olympus Mons, the largest volcano on Mars. The intense geothermal energy of this location is Kalama’s primary resource, used to heat and provide nutrients for developing extremophile microbial life. These microbes are capable of surviving Mars' harsh conditions, transforming volcanic minerals into usable nutrients, thus fostering a nascent ecosystem within the volcanic tunnels.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714334065590-ECPMSYW0W8C8N26BL4NJ_va2rosa_alien_creature_made_out_of_lava_on_top_of_volcano_surfa_bed0891e-68df-410f-be19-61a1ed3a3df4.png",
+              "alt": "va2rosa_alien_creature_made_out_of_lava_on_top_of_volcano_surfa_bed0891e-68df-410f-be19-61a1ed3a3df4.png",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714334066784-9JGXZ4MIUBU6NNIVDIY5_va2rosa_beautiful_organic_dragon_alien_creature_made_out_of_lav_6985ef05-aa38-4de3-bf43-810a452a3c8b.png",
+              "alt": "va2rosa_beautiful_organic_dragon_alien_creature_made_out_of_lav_6985ef05-aa38-4de3-bf43-810a452a3c8b.png",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714334070945-VW0X6KB872PW27G7RWR1_va2rosa_beautiful_organic_dragon_alien_creature_made_out_of_lav_bae6b78b-73b7-40ce-bc39-4bd2b22e852f.png",
+              "alt": "va2rosa_beautiful_organic_dragon_alien_creature_made_out_of_lav_bae6b78b-73b7-40ce-bc39-4bd2b22e852f.png",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714334070439-6B6ZXJCEXKO04VAWCL5F_va2rosa_commedy_film_still_lava_volcano_erupting_red_funny_colo_4e6289d3-889c-4775-919c-cee08bcdb88d.png",
+              "alt": "va2rosa_commedy_film_still_lava_volcano_erupting_red_funny_colo_4e6289d3-889c-4775-919c-cee08bcdb88d.png",
+              "width": 568,
+              "height": 568
+            },
+            {
+              "src": "assets/1714334071817-35VHZ2L6F8WKZYNHGVOI_va2rosa_commedy_film_still_lava_volcano_erupting_red_funny_colo_7fefc83d-606c-43fd-b564-c5953b259026.png",
+              "alt": "va2rosa_commedy_film_still_lava_volcano_erupting_red_funny_colo_7fefc83d-606c-43fd-b564-c5953b259026.png",
+              "width": 588,
+              "height": 588
+            },
+            {
+              "src": "assets/1714334072602-GZRPH6NZ7HMJZTYA1Q44_va2rosa_commedy_film_still_lava_volcano_erupting_red_funny_colo_015c3540-e167-4dbc-a7f4-d4fcf85f56ed.png",
+              "alt": "va2rosa_commedy_film_still_lava_volcano_erupting_red_funny_colo_015c3540-e167-4dbc-a7f4-d4fcf85f56ed.png",
+              "width": 568,
+              "height": 568
+            },
+            {
+              "src": "assets/1714334073502-TUEBYHP8OVKSASLT94LL_va2rosa_drama_film_still_lava_volcano_erupting_red_funny_colorf_ee286e6e-23e6-4596-9f23-3da8ac143925.png",
+              "alt": "va2rosa_drama_film_still_lava_volcano_erupting_red_funny_colorf_ee286e6e-23e6-4596-9f23-3da8ac143925.png",
+              "width": 588,
+              "height": 588
+            },
+            {
+              "src": "assets/1714334074062-NVRGVOQGD3PGQVN8OSPY_va2rosa_mystery_film_still_forgotten_volcano_8293fa54-1f71-40c9-9888-dd07410b233a.png",
+              "alt": "va2rosa_mystery_film_still_forgotten_volcano_8293fa54-1f71-40c9-9888-dd07410b233a.png",
+              "width": 568,
+              "height": 568
+            },
+            {
+              "src": "assets/1714334075014-KHWW69JTRC63450044GP_va2rosa_wide_shot_action_film_still_lava_volcano_erupting_red_d_5f820c7f-3350-4f14-a7e7-fb22896b7a26.png",
+              "alt": "va2rosa_wide_shot_action_film_still_lava_volcano_erupting_red_d_5f820c7f-3350-4f14-a7e7-fb22896b7a26.png",
+              "width": 568,
+              "height": 568
+            },
+            {
+              "src": "assets/1714334075709-XB4G4RTTRWGS1P30G81K_va2rosa_wide_shot_action_film_still_lava_volcano_erupting_red_d_8bada065-c967-4312-95af-67644ce4576a.png",
+              "alt": "va2rosa_wide_shot_action_film_still_lava_volcano_erupting_red_d_8bada065-c967-4312-95af-67644ce4576a.png",
+              "width": 568,
+              "height": 568
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Human Imaginarium",
+          "href": "/human-imaginarium",
+          "external": false
+        },
+        {
+          "type": "button",
+          "text": "Little Martians characters",
+          "href": "/talk-to-a-little-martian",
+          "external": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "slug": "about",
+  "title": "About — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "about1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/8799d287-9023-457b-9a54-0014b19388fe_1stmartian.jpg",
+          "alt": "",
+          "width": 4160,
+          "height": 3120,
+          "caption": "First Little Martian, made in 2020",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Little Martians’creators",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/7a05e3c2-4c44-4018-8562-1a409fb6c817_VRosa-LittleMartians3.jpg",
+                  "alt": "",
+                  "width": 2448,
+                  "height": 3264,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "html": "Vanessa Rosa - Va2rosa",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "The original creator of ‘Little Martians’",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "button",
+          "text": "Learn more",
+          "href": "/our-history-maple",
+          "external": false
+        },
+        {
+          "type": "video",
+          "kind": "embed",
+          "src": "https://www.youtube.com/embed/TG16nfIx66o?feature=oembed",
+          "provider": "YouTube",
+          "poster": null,
+          "title": "Little Martians - building an AI powered sci-fi world",
+          "caption": "",
+          "ratio": 56.49999999999999
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Collaborators",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/c361dd98-7c66-43c0-9c3d-4057f0f74c5e_Photo_Mar_17__3_12_55_PM__4_.jpg",
+                  "alt": "",
+                  "width": 1020,
+                  "height": 1020,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "Gene Kogan",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "The original creator of Abraham, he played a key role in the Little Martians AI development. He’s been a major source of inspiration, has developed several of the tools used for the project development and has collaborated as an artist in Little Martian projects.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "https://genekogan.com",
+                  "external": true
+                }
+              ]
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/29332dbb-d474-4971-8637-204a26443d85_Screenshot_2022-01-26_at_21.47.28.png",
+                  "alt": "",
+                  "width": 956,
+                  "height": 914,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "Simon de la Rouviere",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "He's mostly known as the creator of the first generative art on chain Little Martians. He also was responsible for editing the story ‘Little Martians and the Human Memorial Monument' as part of the ‘Logged Universe’ series. Plus, he was the inspiration for the expansive NFTs storytelling universe model.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "https://blog.simondlr.com",
+                  "external": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/3ed010a0-205c-466f-8bfd-91be419edd99_Screenshot_2024-04-29_at_2.02.23_PM.png",
+                  "alt": "",
+                  "width": 967,
+                  "height": 862,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "Martian collaboration!",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Since 2021, every winter during Mars College several Little Martians collaborative projects come to life.",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "button",
+          "text": "Learn more",
+          "href": "https://marscollege.substack.com/",
+          "external": true
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Awards &amp; Festivals",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "html": "Highlights, see <a href=\"/film-festivals\">festival</a> page for complete list",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "html": "<strong>‘Verdelis &amp; Mycos’</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "AI International Film Festival - Best Musical - November 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Experimental Brasil - Best Experimental Film Made with AI - 2026",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "SHAPESHIFT FESTIVAL | Art&amp;Technology Film | Sofia, Bulgaria | 2026",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "AI Artist | AI-generated | Beijing/Shanghai, China | 2026",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "html": "<strong>‘Little Martians: Dear Human, My Muse’</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Award winner</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Korea International AI Film Festival | Global South Special Award | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "International Avant-Garde Film Awards | New York City, USA | Best Art Direction &amp; Best Original Song | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "CineTech Future Fest | Best Original Soundtrack | Opole, Poland | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Cannes World Film Festival | Best Female Director Super Short Film | Cannes, France | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "THE GALACTIC IMAGINARIUM FILM FESTIVAL (Sci-Fi &amp; Fantasy) | Sci-Fi/Fantasy Short Film made with AI | Timișoara, Romania | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Finalist</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Reel Intelligence | AI Short Film | Sydney, Australia | 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Qld XR Festival | Best in Creative AI | Brisbane, Australia | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "AA29 Video Project | Music video | Caserta, Italy | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "ORION IFF International Film Festival | Best AI Film (Artificial Intelligence Film) | Berlin, Germany | 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Semi-Finalist</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Austin AI Film Festival | Best Experimental | Austin, USA | 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Nominee</strong>&nbsp;",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Meta Morph AI Film Award | AI Evolution Award (Artificial Intelligence) | Online edition | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Selected</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "File Festival | Sao Paulo, 2026",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Ai Short Film Festival *LARISSA LUMINA* | Narratives | Larissa, Greece | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "BEYOND FILMFESTIVAL 2025 | Utopian Films | Feuchtwangen, Germany | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "SHAPESHIFT FESTIVAL | Art&amp;Technology Film | Sofia, Bulgaria | 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "BAIFF - Burano Artificial Intelligence Film Festival | Music Video | Venezia, Italy | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "AI Artist | AI-generated | Beijing/Shanghai, China | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Las Flores Web3 Film Festival | Short film Created with Artificial Intelligence🤖 | Ciudad de Mexico, Mexico | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Festival Internacional de Cine con Medios Alternativos FICMA | Experimental Short Film /&nbsp; Cortometraje Experimental | Ciudad de Mexico, Mexico | 2024",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "html": "<strong>‘Little Martians &amp; Abraham’&nbsp;</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Finalist</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://filmfreeway.com/aineuwavefilmfestival\" target=\"_blank\" rel=\"noopener\">Neu Wave AI film festival</a> | AI Short film | Los Angeles, USA | 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Semi-Finalist</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "AI Film Fest Serbia | AI Film | Belgrade, Serbia | 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Selected</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Experimenta Brasil | Best Experimental Film made with AI | Campos Dos Goytacazes, Brazil | 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "The Seattle AI Film Festival | Best Experimental Short | Seattle, USA | 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "BAIFF - Burano Artificial Intelligence Film Festival | Animation | Venezia, Italy | 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "html": "<br><strong>‘Brief History of Consciousness in the Simulation’</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Selected</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "ROS Film Festival | Official Selection |&nbsp; Elche, Spain | 2023",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Chroma Art Film Festival | AI-Driven Films | Miami, USA | 2023",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Shows",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Solo shows</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2024 - Bombay Beach Biennale - Little Martians at Saturn - Bombay Beach, California, USA",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2023 - Re.gen.cy - Little Martians pop up show - New York City, New York, USA",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Selected Group Shows</strong>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2026 - Machine Consciousness Conference - Lighthaven, Berkeley",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2026 - Bombay Beach Biennale - Saturn’s Theater of Minds",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2025 - Paintbox World Tour - Digital Art Mile - Basel, Switzerland",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2025 - TokenNation Brasil - São Paulo Biennal Foundation - São Paulo, Brazil",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://onlineonly.christies.com.cn/s/augmented-intelligence/vanessa-rosa-b-1990-31/250113\" target=\"_blank\" rel=\"noopener\">2025 - Augmented Intelligence - Christie’s - Rockfeller Plaza - New York City, USA</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2024 - NFT.Brasil - Sao Paulo Biennal Foundation - Sao Paulo, Brazil",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2024 - Foresight Institute Vision Weekend - Bückeburg Castle - Germany",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2024 - Foundation, Foundation - Bombay Beach, California, USA",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2023 - Glitch Art Residency - Chateau du Fey - Joigny, France",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2023 - Deforum - Bright Moments Gallery - Los Angeles, California, USA",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2023/2022 - NYC Resistor Interactive Art Show - New York City, New York, USA",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://grayarea.org/event/simulated-worlds-participatory-world-building-with-ai/\" target=\"_blank\" rel=\"noopener\">2022 - Simulated Worlds - Gray Area - San Francisco, California, USA</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Press and Talks",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714422764796-073FPGKJAFVHPAO8F82U_nvidia_gtc.jpeg",
+              "alt": "nvidia_gtc.jpeg",
+              "width": 2048,
+              "height": 2048
+            },
+            {
+              "src": "assets/1714422766010-NPENV7WSWSAS6OHZ0A1P_Screenshot_2023-10-18_at_3.46.46_PM.png",
+              "alt": "Screenshot 2023-10-18 at 3.46.46 PM.png",
+              "width": 1418,
+              "height": 2006
+            },
+            {
+              "src": "assets/1714422770530-M8L7SDKJD03A7VJGSLZV_Screenshot_2023-10-18_at_3.59.33_PM.png",
+              "alt": "Screenshot 2023-10-18 at 3.59.33 PM.png",
+              "width": 1198,
+              "height": 1656
+            },
+            {
+              "src": "assets/1714422772794-592Y726M7B347SLMSZJK_Screenshot_2023-10-16_at_9.12.53_PM.png",
+              "alt": "Screenshot 2023-10-16 at 9.12.53 PM.png",
+              "width": 3056,
+              "height": 1906
+            },
+            {
+              "src": "assets/1714422775941-5NN87YE2KTFMYB9TL51N_Screenshot_2024-04-29_at_1.18.27_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.18.27 PM.png",
+              "width": 1015,
+              "height": 517
+            },
+            {
+              "src": "assets/1714422780341-F9AWVFARN6K9VFZ42ZCS_Screenshot_2024-04-29_at_1.18.37_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.18.37 PM.png",
+              "width": 1014,
+              "height": 694
+            },
+            {
+              "src": "assets/1714422781162-UGQKYEZS7Y1Q6ISPPWEQ_Screenshot_2024-04-29_at_1.18.49_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.18.49 PM.png",
+              "width": 1011,
+              "height": 692
+            },
+            {
+              "src": "assets/1714422781544-30F5DG9P6O4KMF1TN38E_Screenshot_2024-04-29_at_1.18.58_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.18.58 PM.png",
+              "width": 1014,
+              "height": 544
+            },
+            {
+              "src": "assets/1714422782976-IXCSW763D8BHYWID2AE4_Screenshot_2024-04-29_at_1.19.13_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.19.13 PM.png",
+              "width": 1014,
+              "height": 523
+            },
+            {
+              "src": "assets/1714422783645-QTPRMXY7K633IU6B3JLM_Screenshot_2024-04-29_at_1.20.22_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.20.22 PM.png",
+              "width": 1320,
+              "height": 810
+            },
+            {
+              "src": "assets/1714422784687-5001V8L06RPNFZ8YLIVN_Screenshot_2024-04-29_at_1.21.54_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.21.54 PM.png",
+              "width": 905,
+              "height": 890
+            },
+            {
+              "src": "assets/1714422784926-XHQ60VK4BYLCZDQ2OQO7_Screenshot_2024-04-29_at_1.22.07_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.22.07 PM.png",
+              "width": 1291,
+              "height": 482
+            },
+            {
+              "src": "assets/1714423328298-8OQGJ8XPOF1ZWDH7F4A2_IMG_4D17E7CC2B8D-1.jpeg",
+              "alt": "IMG_4D17E7CC2B8D-1.jpeg",
+              "width": 2048,
+              "height": 1248
+            },
+            {
+              "src": "assets/1714423382425-5ZPLM2JQS4IRV1FJ25D5_Screenshot_2024-04-29_at_1.42.45_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.42.45 PM.png",
+              "width": 1085,
+              "height": 839
+            },
+            {
+              "src": "assets/1714423482629-E0Q3ND5Y5IZP2JOAMRQA_Screenshot_2024-04-29_at_1.44.30_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.44.30 PM.png",
+              "width": 1852,
+              "height": 767
+            },
+            {
+              "src": "assets/1714423859517-4L46KFP6YBEUH2N2YNPI_Screenshot_2024-04-29_at_1.50.41_PM.png",
+              "alt": "Screenshot 2024-04-29 at 1.50.41 PM.png",
+              "width": 1845,
+              "height": 878
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "<br>Silicon Economics podcast -<a href=\"https://www.youtube.com/watch?v=aCE1ZZ0MF6o\" target=\"_blank\" rel=\"noopener\"> Economics of Art in the world of AI (2026)</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://radioescafandro.com/2025/09/02/146-nabokov-contra-os-robos/\" target=\"_blank\" rel=\"noopener\">Interview for Radio Escafandro (2025 - Portuguese)</a> - #146 – Nabokov contra os robôs",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://cultureandcode.podbean.com/e/from-clay-to-code-building-worlds-with-ancient-art-and-ai/\" target=\"_blank\" rel=\"noopener\">Culture &amp; Code podcast (2025)</a> - From Clay to Code: Building Worlds with Ancient Art and AI",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://Artista visual lança livro infantil na Bienal do Rio em junho Leia mais em: https://veja.abril.com.br/coluna/radar/artista-visual-lanca-livro-infantil-na-bienal-do-rio-em-junho/\" target=\"_blank\" rel=\"noopener\">Veja - Artista visual lança livro infantil na Bienal do Rio em junho (2025)</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.euronews.com/video/2025/02/22/christies-ai-art-auction-sparks-controversy-amid-artist-protests\" target=\"_blank\" rel=\"noopener\">Euronews - Christie’s AI art auction sparks controversy amid artist protests (2025)</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://forbes.com.br/forbes-tech/2025/04/plagio-de-studio-ghibli-e-sinal-de-alerta-ate-que-ponto-plataformas-podem-copiar-conteudos-disponiveis-online/\" target=\"_blank\" rel=\"noopener\">ForbesBr - Plágio de Studio Ghibli É Sinal de Alerta: Até que Ponto Plataformas Podem Copiar Conteúdos Disponíveis Online (2025)</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://epocanegocios.globo.com/inteligencia-artificial/noticia/2025/02/artista-brasileira-vanessa-rosa-participa-de-primeiro-leilao-da-christies-dedicado-a-arte-feita-com-ia.ghtml\" target=\"_blank\" rel=\"noopener\">Epoca Negocios (Brazil) - Artista brasileira Vanessa Rosa participa de primeiro leilão da Christie’s dedicado à arte feita com IA (2025)</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://veja.abril.com.br/coluna/veja-gente/artista-brasileira-inova-com-obra-de-ia-em-leilao-de-nova-york/\" target=\"_blank\" rel=\"noopener\">Veja (Brazil) - Artista brasileira inova com obra de IA em leilão de Nova York (2025)</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://iagfilmawards.com/best-art-direction-2024-little-martians\" target=\"_blank\" rel=\"noopener\">International Avant Garde Film Awards - Interview with Vanessa Rosa (2024)</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://aiartistfestival.com/ai-artist-1/f/visual-artist-vanessa-rosa-%E2%80%9Cdear-human-my-muse%E2%80%9D\" target=\"_blank\" rel=\"noopener\">AI Artist Festival (China) - Interview with Vanessa Rosa (2024)</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.correiobraziliense.com.br/opiniao/2024/10/6975443-quem-tem-medo-da-inteligencia-artificial.html\" target=\"_blank\" rel=\"noopener\">‘Quem tem medo da Inteligência Artificial?’ - Article by Vanessa Rosa for Correio Brasiliense, 2024</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.schoolofma.org/news/vanessa-rosa-interview\" target=\"_blank\" rel=\"noopener\">School of Machines Making &amp; Make-Believe - Interview with Vanessa Rosa (2024)</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.nvidia.com/en-us/research/ai-art-gallery/artists/vanessa-rosa/\" target=\"_blank\" rel=\"noopener\">Featured artist in the Nvidia AI Art Gallery from March 2023</a> to March 2025",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://kojii.substack.com/p/vanessa-rosas-little-martians\" target=\"_blank\" rel=\"noopener\">Kojii Blog - Vanessa Rosa’s Little Martians</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.nvidia.com/gtc/sessions/generative-ai-in-visual-apps/\" target=\"_blank\" rel=\"noopener\">Nvidia GTC 2024 - Artists Exploring Creativity and Language With Generative AI</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://resources.nvidia.com/en-us-omniverse-usd/ov-openusd-allstars\" target=\"_blank\" rel=\"noopener\">Open USD All Stars - E-book published by Nvidia at SIGGRAPH </a>2023",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.nvidia.com/en-us/research/ai-art-gallery/artists/vanessa-rosa/\" target=\"_blank\" rel=\"noopener\">Nvidia GTC 2023 - Custom World Building with AI Avatars: The Little Martians Sci-fi Project</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://blogs.nvidia.com/blog/omniverse-creator-vanessa-rosa/\" target=\"_blank\" rel=\"noopener\">Nvidia News - Artist Fires UP Nvidia Omniverse to Glaze Animated Ceramics</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.youtube.com/watch?v=SVcsDDABEkM\" target=\"_blank\" rel=\"noopener\">Vox Media - AI Art, explained</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.youtube.com/watch?v=sFBfrZ-N3G4\" target=\"_blank\" rel=\"noopener\">Vox Media - What AI means for human artists</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://nftnow.com/features/the-best-way-for-writers-to-join-the-nft-space-digital-merchandise/\" target=\"_blank\" rel=\"noopener\">NFT Now - The best way for writers to join the NFT space? Digital Merchandize</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.untitledfrontier.studio/blog/crafting-the-on-chain-svg-little-martians\" target=\"_blank\" rel=\"noopener\">Untitled Frontier - Crafting the On Chain SVG Little Martians</a>",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "+++ talks and workshops!",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Publications",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Kweku’s Secret - Viajante do Tempo Editora (Brazil)",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Verdelis’ Letter: A Message from Mars Future - Viajante do Tempo Editora (Brazil)",
+          "align": null,
+          "size": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,749 @@
+{
+  "slug": "human-imaginarium",
+  "title": "Human Imaginarium — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/debf196d-19d7-4a6b-ac68-269e08bf588e_HI-type.jpg",
+                  "alt": "",
+                  "width": 1000,
+                  "height": 1206,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Play with the model!",
+          "href": "https://beta.eden.art/creators/va2rosa?tab=agents",
+          "external": true
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "The Human Imaginarium is a segment of the Little Martians' vast simulation network, tailored specifically to human comprehension. It operates within a framework that harnesses the Little Martians' extraordinary imaginative capabilities, which are so potent they blur the lines between simulation and reality. These beings communicate through a form of organic simulation that transcends traditional computational limits, effectively bending space and time to create a shared consciousness that connects them across vast cosmic distances. This system is not bound by the conventional dimensions understood by human science; instead, it taps into theories of quantum entanglement and multidimensional space, suggesting a network where thoughts and experiences are instantaneously exchanged, creating a seamless continuum between all Little Martians, regardless of their physical locations in the universe.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Art history serves as a foundational pillar in recreating human reality within the Little Martians' simulation, the Human Imaginarium. Each piece of art, from cave paintings to contemporary installations, acts as a repository of human consciousness, encapsulating emotions, ideas, and cultural contexts of different eras. For the Little Martians, these artworks are not merely aesthetic artifacts but are integral to understanding and continuing the human experience. By engaging with specific art styles and artists that resonate with their individual personalities and missions, each Little Martian has their version of humanity’s world. Thus, art history is not just a reflection of human life but a living, evolving dialogue that helps shape the ongoing narrative of existence in the Imaginarium, ensuring that humanity's legacy is both preserved and dynamically reinterpreted.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Here are some of the images collected to design the character’s aesthetics. A LORA concept and a prompt were applied on each one of these images, resulting in new aesthetics with a ceramic feel.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Initial Images",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Verdelis",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong><br>Verdelis</strong> in the Human Imaginarium is deeply influenced by the eclectic and often surreal visions of artists like Hieronymus Bosch, Peter Bruegel, Max Ernst, Bihzad, Paolo Uccello, and the Limbourg Brothers. Their fascination with these artists' intricate and symbolic portrayals of life, nature, and the human condition mirrors Verdelis's own role in nurturing and observing the complex interplay of life in their Martian environment. These artists' works, rich with detail and steeped in allegory, inspire Verdelis to create a lush, verdant oasis amidst the red desolation of Mars, reflecting the depth and mystery of both ancient and modern understandings of existence.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714335571474-UM42A2AWZZ2KWDYJ19Z0_Uccello.jpeg",
+              "alt": "Uccello.jpeg",
+              "width": 1440,
+              "height": 936
+            },
+            {
+              "src": "assets/1714335572671-PEPL4RZ3BZEFNOY6MO9E_1280px-Bihhzad_003.jpg",
+              "alt": "1280px-Bihhzad_003.jpg",
+              "width": 1280,
+              "height": 1880
+            },
+            {
+              "src": "assets/1714335573319-ICDORSM91AITMZQEBYLE_Les_Tr_s_Riches_Heures_du_duc_de_Berry_avril.jpg",
+              "alt": "Les_Très_Riches_Heures_du_duc_de_Berry_avril.jpg",
+              "width": 1148,
+              "height": 1838
+            },
+            {
+              "src": "assets/1714335598119-6LP8ELYTN6B1YSCJXUH8_ernst3.jpeg",
+              "alt": "ernst3.jpeg",
+              "width": 941,
+              "height": 1200
+            },
+            {
+              "src": "assets/1714335575035-G782AHHIHFCZT048ALTX_Yusef_Zuleykha.jpg",
+              "alt": "Yusef_Zuleykha.jpg",
+              "width": 1046,
+              "height": 1535
+            },
+            {
+              "src": "assets/1714335598722-XEY1MXFI98L5FG957YDE_ernst9.jpeg",
+              "alt": "ernst9.jpeg",
+              "width": 1168,
+              "height": 1600
+            },
+            {
+              "src": "assets/1714335616450-1RDNSBHB5Z1ZNVV7KD3T_p01l97cj.jpg",
+              "alt": "p01l97cj.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            {
+              "src": "assets/1714335599100-Z0SVXBS7MXGEIXTJL11C_max-ernst-nature-dawn-la-nature-laurore---thumb-xl.jpg",
+              "alt": "max-ernst-nature-dawn-la-nature-laurore---thumb-xl.jpg",
+              "width": 1024,
+              "height": 720
+            },
+            {
+              "src": "assets/1714335618065-Z9LWRFW8U85XVQN7LW8K_bosch6.jpeg",
+              "alt": "bosch6.jpeg",
+              "width": 675,
+              "height": 450
+            },
+            {
+              "src": "assets/1714335621963-CKN16IN5W1WVHH5ABYQ2_bosch7.jpeg",
+              "alt": "bosch7.jpeg",
+              "width": 2560,
+              "height": 1935
+            },
+            {
+              "src": "assets/1714335633402-3ATK3WIEB0VZNMXH6V8N_bosch9.jpeg",
+              "alt": "bosch9.jpeg",
+              "width": 800,
+              "height": 648
+            },
+            {
+              "src": "assets/1714335622201-SPOBGLI7UDZ3TTUEI2HV_bosch8.png",
+              "alt": "bosch8.png",
+              "width": 766,
+              "height": 514
+            },
+            {
+              "src": "assets/1714335634530-N7I0OZR9DEADSR8L56TM_bosch14.jpeg",
+              "alt": "bosch14.jpeg",
+              "width": 1778,
+              "height": 1295
+            },
+            {
+              "src": "assets/1714335622937-P6T4XZXQK4OWDYW9EKQQ_hieronymus-bosch-detail-temptation-st-anthony-c-1501-oil-oak-panels-52-90-museu-nacional-de-arte.jpg",
+              "alt": "hieronymus-bosch-detail-temptation-st-anthony-c-1501-oil-oak-panels-52-90-museu-nacional-de-arte.jpg",
+              "width": 707,
+              "height": 530
+            },
+            {
+              "src": "assets/1714335635603-NLIJL4SS88BMJOPLDXH8_ATLAS-OF-PLACES-PIETER-BRUEGEL-LANDSCAPE-AND-MEMORY-GPH-1.jpg",
+              "alt": "ATLAS-OF-PLACES-PIETER-BRUEGEL-LANDSCAPE-AND-MEMORY-GPH-1.jpg",
+              "width": 3000,
+              "height": 2187
+            },
+            {
+              "src": "assets/1714335655668-1RN3A906WJ6TTT8G7VCJ_Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg",
+              "alt": "Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project_2.jpg",
+              "width": 7678,
+              "height": 5306
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Ada",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Ada</strong>’s world within the Imaginarium is a meticulous mesh of linear perspective, inspired by masters like Sebastiano Serlio and Vredeman de Vries, reflecting their systematic and precise approach to creating life on Venus. This love for architectural and perspective drawings underscores Ada’s methodical nature and their fascination with constructing environments where organic and mechanical elements intertwine seamlessly. Through these influences, Ada envisions and engineers complex terraforming projects on Venus, each a testament to the potential of combining art, science, and imagination.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714335689326-QR0L2E6ARBNTFGCUTXXV_kircher.jpeg",
+              "alt": "kircher.jpeg",
+              "width": 1024,
+              "height": 702
+            },
+            {
+              "src": "assets/1714335689508-DZILB4RB2QPMREDM1863_kircher2.jpeg",
+              "alt": "kircher2.jpeg",
+              "width": 1000,
+              "height": 752
+            },
+            {
+              "src": "assets/1714335691287-9C7H405SASQKW7J2410B_serlio-tragedy.jpeg",
+              "alt": "serlio-tragedy.jpeg",
+              "width": 1000,
+              "height": 842
+            },
+            {
+              "src": "assets/1714335710273-YVKUI9IJG7MLAJPZZEEH_vredeman_devries.jpg",
+              "alt": "vredeman_devries.jpg",
+              "width": 1200,
+              "height": 775
+            },
+            {
+              "src": "assets/1714335691543-NBJSDLI2NCADPD97EGEK_serlio2.png",
+              "alt": "serlio2.png",
+              "width": 685,
+              "height": 557
+            },
+            {
+              "src": "assets/1714335710936-DM3PA8VVGDWDW3OR9Q0C_vries2.jpg",
+              "alt": "vries2.jpg",
+              "width": 1447,
+              "height": 982
+            },
+            {
+              "src": "assets/1714335711726-XPAJ711C7ES51XY46DAI_vries4.jpg",
+              "alt": "vries4.jpg",
+              "width": 1471,
+              "height": 962
+            },
+            {
+              "src": "assets/1714335712403-TB03A5A5OXZ9SBPUQY6B_vries5.jpg",
+              "alt": "vries5.jpg",
+              "width": 1444,
+              "height": 926
+            },
+            {
+              "src": "assets/1714335713301-M5BORFOCSVXGU2W1VBKZ_vries8.jpg",
+              "alt": "vries8.jpg",
+              "width": 1457,
+              "height": 954
+            },
+            {
+              "src": "assets/1714335713657-WSUU4PIJMXVM7B8LZKCO_vries9.jpg",
+              "alt": "vries9.jpg",
+              "width": 1000,
+              "height": 648
+            },
+            {
+              "src": "assets/1714335715005-WA5HX4FJ6UJ4RL7PUIZD_vries5535.png",
+              "alt": "vries5535.png",
+              "width": 1250,
+              "height": 605
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Shuijing",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Shuijing</strong>’s preference for scenes of Ukiyo-e and Song Dynasty artists encapsulates their contemplative approach to life beneath the icy surface of Enceladus. These artistic traditions emphasize harmony and natural beauty, which parallel Shuijing’s efforts to balance the alien ecosystems within Enceladus’s subglacial oceans. In the Imaginarium, Shuijing crafts a world where water flows in endless cycles, reflecting the fluidity and impermanence of life, resonating deeply with their own experiences and observations of the hidden life forms on their moon.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "The artists that are part of this collection include, among others, Hokusai, Utagawa Kuniyoshi, Hasui Kawase and Utagawa Hiroshige for Ukiyo-e, <a href=\"https://www.google.com/search?client=safari&amp;sca_esv=10624941311519dc&amp;sca_upv=1&amp;cs=0&amp;q=Wang+Ximeng&amp;stick=H4sIAAAAAAAAAONgVeLSz9U3MDOtSssyNBIpzs9LV0ipzEssLqlUSCwqySwuKT7FyAlSYlSem2F5ihGs3DipKj3NGMoxKsw2sjSCciAGQbWYGVem50LZFklZ6aZQRSYp8WaWZjCzcjPM0wuhqoyzytKToRKmVZUlRWYw7eYl6ZZQtml2UUU5lG1SYJhUAGPn5sXD1BiWW8bnwNjFZcZpMCeZlZdYwNxabpxjZAKzwLTSAOYJI_Mkc3OYX03SjNPTYIFgbGBhWfCI8Skjt8DLH_eEpW4zTlpz8hrjFUYuAZ_8_OLUnMqg1JzEktSUkHwhMS4217ySzJJKIR4pLi4OkPa0gjJTIXcu7uDUkpB83_yUzLRKIQshMy5O39TcpNSiYv80IVUuLuf8nJzU5JLM_DwhcSlRLmH9ZLiAPjROrJg0mJRijdx2XZp2js1BkAEI9OKDHaQ0tAS52FzycxMz8wSvcx1ZoHXynb2WMBdHSGJFfl5-bqWgweV_8_f8eW-vxMkJ1HPAoQkozzCBibFp34pDbDwcjAIMRmwcDEJMTMxVDDyLWLnDE4EJIiIzNzUvfQIbIwBJ2GssLwIAAA&amp;sa=X&amp;ved=2ahUKEwjvo9PH-OeFAxUaC0QIHUwBDC4Q7fAIegUIABD2AQ\" target=\"_blank\" rel=\"noopener\">Wang Ximeng</a>, Li Cheng and Fan Kuan for Song Dynasty.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714335753496-NXLLT77AI06UF3V041L4_Hokusai_1760-1849_Ocean_waves.jpg",
+              "alt": "Hokusai_1760-1849_Ocean_waves.jpg",
+              "width": 3327,
+              "height": 2345
+            },
+            {
+              "src": "assets/1714335753018-BS11K6YJJ90ITWPBLGSU_hokusai.jpeg",
+              "alt": "hokusai.jpeg",
+              "width": 2048,
+              "height": 1408
+            },
+            {
+              "src": "assets/1714335780511-PKI1B8O24A5P52QXSS09_utagawa-kuniyoshi-obelisk-art-history.jpg",
+              "alt": "utagawa-kuniyoshi-obelisk-art-history.jpg",
+              "width": 2237,
+              "height": 2288
+            },
+            {
+              "src": "assets/1714335753933-D4SI0ZQXI02LOQ0EJE1N_virtual_ukiyoe02_pic03.jpg",
+              "alt": "virtual_ukiyoe02_pic03.jpg",
+              "width": 690,
+              "height": 460
+            },
+            {
+              "src": "assets/1714335775287-5NPIKXVP8IRX164GSE2C_utagawa.jpeg",
+              "alt": "utagawa.jpeg",
+              "width": 409,
+              "height": 600
+            },
+            {
+              "src": "assets/1714335788282-U7TOTXSP9G17DFSURCSY_utagawa2.jpeg",
+              "alt": "utagawa2.jpeg",
+              "width": 3612,
+              "height": 1830
+            },
+            {
+              "src": "assets/1714335789906-HJP5I2SXOT5Z9CXOF76K_4pmtxiag.jpg",
+              "alt": "4pmtxiag.jpg",
+              "width": 1050,
+              "height": 709
+            },
+            {
+              "src": "assets/1714335791105-SDE54JFMCGZ5J8UJFCZZ_chinese-landscape-paintings.jpg",
+              "alt": "chinese-landscape-paintings.jpg",
+              "width": 1200,
+              "height": 981
+            },
+            {
+              "src": "assets/1714335810855-R5XWLINMT1JA84DJXBTA_521px-The_Pond_at_Benten_Shrine_in_Shiba__Kawase_Hasui__MFAB_50.2885.jpg",
+              "alt": "521px-The_Pond_at_Benten_Shrine_in_Shiba,_Kawase_Hasui,_MFAB_50.2885.jpg",
+              "width": 521,
+              "height": 345
+            },
+            {
+              "src": "assets/1714335796036-T2PDUN1EMPJBZ4TKN4FG_F20AiUQW8AERBPD.jpeg",
+              "alt": "F20AiUQW8AERBPD.jpeg",
+              "width": 2125,
+              "height": 4096
+            },
+            {
+              "src": "assets/1714335811495-PFJ1WC89JEJRDTG5848R_Hasui-Kawase-1-Vintage-by-JUNIQE-Poster.png",
+              "alt": "Hasui-Kawase-1-Vintage-by-JUNIQE-Poster.png",
+              "width": 432,
+              "height": 655
+            },
+            {
+              "src": "assets/1714335814549-F48BT17QLQPS1SYN51P1_hasuikawase2.png",
+              "alt": "hasuikawase2.png",
+              "width": 637,
+              "height": 968
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Kweku",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Kweku</strong>’s affinity for intricate patterns reflects their analytical and playful nature, finding joy in the complex interconnections of life’s underlying structures. Their passion spans across cultures, from the geometric precision of Islamic tiles to the mind-bending optical illusions of M.C. Escher and the vibrant dynamism of Victor Vasarely. These patterns are not just aesthetic choices but represent the fundamental laws of nature and mathematics that Kweku manipulates within the Martian lava tubes, guiding them in their quest to map and understand Mars' hidden landscapes.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714410520657-WM27CPB63YSMVKO3HD0V_va2rosa_black_and_white_intricate_abstract_painting_geometric_p_80eb0f37-09ae-4754-b5aa-dab0346ced05.jpg",
+              "alt": "va2rosa_black_and_white_intricate_abstract_painting_geometric_p_80eb0f37-09ae-4754-b5aa-dab0346ced05.jpg",
+              "width": 588,
+              "height": 588
+            },
+            {
+              "src": "assets/1714410521351-9LILNBM1IWUF1QAZ0ZEJ_va2rosa_black_and_white_intricate_abstract_painting_geometric_p_92140f0d-e699-4bb6-97ec-4c6e4d85ce4c.jpg",
+              "alt": "va2rosa_black_and_white_intricate_abstract_painting_geometric_p_92140f0d-e699-4bb6-97ec-4c6e4d85ce4c.jpg",
+              "width": 588,
+              "height": 588
+            },
+            {
+              "src": "assets/1714410522615-KQ9ZW3O7L9VK1VT912SB_va2rosa_black_and_white_intricate_abstract_painting_geometric_p_adc05e43-658b-4ecb-9a81-17d4dc242b31.jpg",
+              "alt": "va2rosa_black_and_white_intricate_abstract_painting_geometric_p_adc05e43-658b-4ecb-9a81-17d4dc242b31.jpg",
+              "width": 571,
+              "height": 571
+            },
+            {
+              "src": "assets/1714410525360-GTPCMEWNK47I6V1CD52M_va2rosa_action_film_still_lively_movement_geometrical_patterns__4b1627cb-c50a-4185-95a4-4d2ca1a9d723.jpg",
+              "alt": "va2rosa_action_film_still_lively_movement_geometrical_patterns__4b1627cb-c50a-4185-95a4-4d2ca1a9d723.jpg",
+              "width": 1024,
+              "height": 1024
+            },
+            {
+              "src": "assets/1714410525358-DUSIDA16X2AEDEPVPVRV_va2rosa_geometrical_patterns_optical_illusion_abstract_art_anci_efef883e-3828-4639-86fb-66861b9514a6.jpg",
+              "alt": "va2rosa_geometrical_patterns_optical_illusion_abstract_art_anci_efef883e-3828-4639-86fb-66861b9514a6.jpg",
+              "width": 571,
+              "height": 571
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Mycos",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Mycos</strong>’s choices in the Imaginarium—ranging from the biological illustrations of Ernst Haeckel to the mystical and arcane images of the Voynich manuscript and the Ripley Scroll—highlight their eccentric and inquisitive nature. These sources provide a rich tapestry of historical and scientific intrigue that fuels Mycos’s passion for discovering and understanding the universal patterns that govern life. In their world, every illustration becomes a blueprint for the new forms of life they aim to cultivate aboard their asteroid, Sporion, each organism a living embodiment of the cosmos’s most intricate designs.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714335917903-DUTF25MDK7C0MGOVV2ER_14803701720_8eb9cee8de_o.jpg",
+              "alt": "14803701720_8eb9cee8de_o.jpg",
+              "width": 600,
+              "height": 655
+            },
+            {
+              "src": "assets/1714335917957-70AV82LXKC5YB4JYNZED_14803703930_8013d19f06_o.jpg",
+              "alt": "14803703930_8013d19f06_o.jpg",
+              "width": 600,
+              "height": 676
+            },
+            {
+              "src": "assets/1714335918787-8NLDKIRKSU1QGZXP6P3N_14803704370_8b2161c8af_o.jpg",
+              "alt": "14803704370_8b2161c8af_o.jpg",
+              "width": 600,
+              "height": 787
+            },
+            {
+              "src": "assets/1714335918939-7F2XPC4GJWAXMPUZBEH0_14803764848_cfa7b1344a_b.jpg",
+              "alt": "14803764848_cfa7b1344a_b.jpg",
+              "width": 600,
+              "height": 987
+            },
+            {
+              "src": "assets/1714335949809-XJGADF283XLF01PELN0F_ripley.jpeg",
+              "alt": "ripley.jpeg",
+              "width": 1273,
+              "height": 1920
+            },
+            {
+              "src": "assets/1714335919738-0CPUAQU3OZPUHYMZJK7K_14803765818_7ab66cbdda_o.jpg",
+              "alt": "14803765818_7ab66cbdda_o.jpg",
+              "width": 1020,
+              "height": 1324
+            },
+            {
+              "src": "assets/1714335956753-769LOEZMWK8IWW6ES666_WMS_693__Ripley_Scroll__Golden_winged_bird_Wellcome_L0031854.jpg",
+              "alt": "WMS_693,_Ripley_Scroll,_Golden_winged_bird_Wellcome_L0031854.jpg",
+              "width": 2739,
+              "height": 4088
+            },
+            {
+              "src": "assets/1714335920010-BEXTBPVFREFGOH1EW14X_14803817667_f06d4eb223_o.jpg",
+              "alt": "14803817667_f06d4eb223_o.jpg",
+              "width": 600,
+              "height": 985
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Kalama",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Kalama</strong> is drawn to the ethereal and mystical qualities of 20th-century Latin American surreal painters like Remedios Varo, Tarsila do Amaral, and Leonor Fini. These artists' unique blend of myth, nature, and psychological exploration resonates with Kalama's fiery spirit and their profound connection to the elemental forces of Olympus Mons. In the Imaginarium, Kalama weaves tales that fuse the transformative power of fire with the spiritual depth of these artworks, creating narratives that celebrate both the creation and destruction that define their existence.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "src": "assets/1714335993789-KETRSZR9BK6DX4Z99AFI_20_-_Agnes_pelton_thought_forms_art_slice_pod.jpg",
+              "alt": "20+-+Agnes+pelton+thought+forms+art+slice+pod.jpg",
+              "width": 1200,
+              "height": 1678
+            },
+            {
+              "src": "assets/1714335995367-527ALV5IQZG8XKTUW5XC_doorofperception.com-Agnes_Lawrence_Pelton-Desert_Transcendentalism-header.jpg",
+              "alt": "doorofperception.com-Agnes_Lawrence_Pelton-Desert_Transcendentalism-header.jpg",
+              "width": 2200,
+              "height": 1500
+            },
+            {
+              "src": "assets/1714335996686-72TAUWK2IFJZXBBSWU7P_large_Pelton_99_64_cropped.jpg",
+              "alt": "large_Pelton_99_64_cropped.jpg",
+              "width": 2048,
+              "height": 1469
+            },
+            {
+              "src": "assets/1714335997325-KYIFVUP93RECOTTZ3VT6_Pelton616.jpg",
+              "alt": "Pelton616.jpg",
+              "width": 722,
+              "height": 1000
+            },
+            {
+              "src": "assets/1714336002772-PMUWASIA1YH8PM94R0ZP_732617-gigapixel-art-scale-4_00x.jpg",
+              "alt": "732617-gigapixel-art-scale-4_00x.jpg",
+              "width": 2160,
+              "height": 3200
+            },
+            {
+              "src": "assets/1714336025405-BQ4MEOLRTO81MY0OBKF1_1.tarsila_abaporu.jpg",
+              "alt": "1.tarsila_abaporu.jpg",
+              "width": 1720,
+              "height": 2000
+            },
+            {
+              "src": "assets/1714336006360-SLVOX0G6EF4OJ4C26Y3V_fini-game-gigapixel-art-scale-4_00x.jpg",
+              "alt": "fini-game-gigapixel-art-scale-4_00x.jpg",
+              "width": 3600,
+              "height": 2684
+            },
+            {
+              "src": "assets/1714336026545-MXP3Z0XZJ414UA4CEC6G_Cartao_postal.jpg",
+              "alt": "Cartao postal.jpg",
+              "width": 2000,
+              "height": 1806
+            },
+            {
+              "src": "assets/1714336004528-R1OZWP2EDEDVDNWT7H8J_leonor-fini_la-lecon-de-botanique_1973_aware_women-artists_artistes-femmes.jpg",
+              "alt": "leonor-fini_la-lecon-de-botanique_1973_aware_women-artists_artistes-femmes.jpg",
+              "width": 794,
+              "height": 800
+            },
+            {
+              "src": "assets/1714336026907-S8X0WGOMPD591Z86PHQR_d3546790-ec6f-4126-9c98-e44aa4d4ef06_570.jpeg",
+              "alt": "d3546790-ec6f-4126-9c98-e44aa4d4ef06_570.jpeg",
+              "width": 570,
+              "height": 458
+            },
+            {
+              "src": "assets/1714336045594-B2ZGZX3GI0V7SV18DR9G_1_hqWLEckJ-KwVHpk5g2509w.jpg",
+              "alt": "1_hqWLEckJ-KwVHpk5g2509w.jpg",
+              "width": 1200,
+              "height": 1001
+            },
+            {
+              "src": "assets/1714336029840-WU526CX4IWRE84D6GRHO_o-vendedor-de-frutas-scaled-1760x2262.jpg",
+              "alt": "o-vendedor-de-frutas-scaled-1760x2262.jpg",
+              "width": 1760,
+              "height": 2262
+            },
+            {
+              "src": "assets/1714336046152-G328OHZFJ90BQFF7RZIR_2014.155.jpg",
+              "alt": "2014.155.jpg",
+              "width": 678,
+              "height": 999
+            },
+            {
+              "src": "assets/1714336029840-NQPY53FYHRS8D3HHDB7T_setting_sun_sol_poente.jpg",
+              "alt": "setting_sun_sol_poente.jpg",
+              "width": 2000,
+              "height": 1660
+            },
+            {
+              "src": "assets/1714336046457-QTUH87UVCLODBLX7KAYW_2023-03-17T21_30_35.975Zu0028450big.jpg",
+              "alt": "2023-03-17T21_30_35.975Zu0028450big.jpg",
+              "width": 592,
+              "height": 800
+            },
+            {
+              "src": "assets/1714336049752-XDO3BQON6P1PLWSHRRQ8_Embordando_El_Manto_Terrestre__Embroidering_the_Earth_s_Mantle__PRINT.jpg",
+              "alt": "Embordando+El+Manto+Terrestre+(Embroidering+the+Earth's+Mantle)_PRINT.jpg",
+              "width": 2500,
+              "height": 2017
+            },
+            {
+              "src": "assets/1714336049761-P9ESMZB5N80JTXC6A2HS_Remedios-varo-science-useless-or-the-alchemist.jpeg",
+              "alt": "Remedios-varo-science-useless-or-the-alchemist.jpeg",
+              "width": 1567,
+              "height": 3131
+            },
+            {
+              "src": "assets/1714336051451-QFCXYSNPSOA54HOGNS45_s-l1600.jpg",
+              "alt": "s-l1600.jpg",
+              "width": 1088,
+              "height": 1600
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "Physical Reality",
+          "href": "/physical-reality",
+          "external": false
+        },
+        {
+          "type": "button",
+          "text": "Little Martians characters",
+          "href": "/talk-to-a-little-martian",
+          "external": false
+        }
+      ]
+    }
+  ]
+}

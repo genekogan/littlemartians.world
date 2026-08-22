@@ -1,0 +1,68 @@
+{
+  "slug": "research",
+  "title": "Research — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "html": "Research",
+          "align": "center",
+          "size": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/803dcb83-5d14-49c7-8e5d-1446b8214bc4_134.jpg",
+                  "alt": "",
+                  "width": 1024,
+                  "height": 1024,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": {
+                    "text": "Non fiction",
+                    "href": "/non-fiction"
+                  },
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "image",
+                  "src": "assets/6c443598-46bc-49e2-8513-b361372c0617_Screen_Shot_2022-04-14_at_16.10.17.png",
+                  "alt": "",
+                  "width": 1726,
+                  "height": 1748,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": {
+                    "text": "Fiction",
+                    "href": "/fiction"
+                  },
+                  "link": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

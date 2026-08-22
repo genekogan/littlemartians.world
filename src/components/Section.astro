@@ -1,0 +1,22 @@
+---
+import Blocks from './Blocks.astro';
+const { section, first = false } = Astro.props;
+const hero = !!(section.background || section.backgroundVideo);
+const classes = ['section', hero && 'section--hero', first && hero && 'section--first']
+  .filter(Boolean).join(' ');
+---
+<section id={section.id} class={classes}>
+  {hero && (
+    <div class="section-bg"
+         data-bg-video-provider={section.backgroundVideo?.provider}
+         data-bg-video-id={section.backgroundVideo?.id}>
+      {section.background && (
+        <img class="bg-img" src={section.background} alt=""
+             loading={first ? 'eager' : 'lazy'} decoding="async" />
+      )}
+    </div>
+  )}
+  <div class="section-inner">
+    <Blocks blocks={section.blocks} eager={first} />
+  </div>
+</section>

@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import Section from '../components/Section.astro';
+import { subpages } from '../lib/content.js';
+
+export function getStaticPaths() {
+  return subpages.map((page) => ({ params: { slug: page.slug }, props: { page } }));
+}
+
+const { page } = Astro.props;
+const hasHero = !!(page.sections[0]?.background || page.sections[0]?.backgroundVideo);
+---
+<Base title={page.title} description={page.description} ogImage={page.ogImage} path={page.path} hasHero={hasHero}>
+  {page.sections.map((s, i) => <Section section={s} first={i === 0} />)}
+</Base>

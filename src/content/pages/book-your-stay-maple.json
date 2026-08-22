@@ -1,0 +1,113 @@
+{
+  "slug": "book-your-stay-maple",
+  "title": "Book Your Stay — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 10,
+              "content": [
+                {
+                  "type": "row",
+                  "cols": [
+                    {
+                      "span": 2,
+                      "content": []
+                    },
+                    {
+                      "span": 8,
+                      "content": [
+                        {
+                          "type": "heading",
+                          "level": 1,
+                          "html": "Book Your Stay",
+                          "align": null,
+                          "size": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "span": 2,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Reservations",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "Here is a description of your reservation process. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sapien nunc, cursus at nunc vitae, porta semper dolor. Donec ultrices quis nunc quis faucibus. Sed sodales, metus maximus placerat pretium, velit tellus elementum nibh, nec dapibus orci lorem tincidunt est.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "form",
+                  "title": "",
+                  "fields": [],
+                  "button": "Submit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Cancellation Policy",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "paragraph",
+                  "html": "Here is a description of your company's policy. Mauris ac rutrum tortor, nec egestas est. Phasellus at tempus leo. Nam auctor bibendum vulputate. Integer et mauris porta nisl finibus laoreet. Phasellus dui augue, dapibus a nisl id, dictum eleifend mi. Cras malesuada mauris est. In scelerisque consectetur justo ut tristique.",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

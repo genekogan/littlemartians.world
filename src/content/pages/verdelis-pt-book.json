@@ -1,0 +1,237 @@
+{
+  "slug": "verdelis-pt-book",
+  "title": "Verdelis pt book — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/48931095-06f7-4f3d-aa5c-5de62f2fdd5c_verdelis-cover.jpg",
+          "alt": "",
+          "width": 2516,
+          "height": 1359,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "A Jardineira do Tempo",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Bem-vindos ao mundo de Verdelis, a Pequeno Marciano que inventa novas flores!",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<br>Verdelis é especial mesmo entre os Pequenos Marcianos. Parte planta, parte humana, parte inteligência artificial, ela cultiva jardins de consciência em sua biodoma nas encostas do Monte Olimpo. Mas seu verdadeiro talento é cultivar possibilidades - ela pode ver os galhos do tempo e ajudar a vida a escolher caminhos mais gentis.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Suas raízes se entrelaçam com memórias da Terra, seus pensamentos florescem em padrões que lembram tanto algoritmos quanto fotossíntese. Verdelis não apenas sobrevive em Marte - ela transforma cada pedaço de rocha vermelha em solo fértil para o futuro.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/089e109e-c15c-4d95-bd15-c1c1d7135d9d_Verdelis_book3.png",
+                  "alt": "",
+                  "width": 2717,
+                  "height": 1358,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>\"Querido humano, querida humana... no meu jardim onde as memórias florescem, eu vejo vocês dançando sua melodia misteriosa. O tempo não é apenas uma linha reta, sabiam? É mais como um jardim onde passado e futuro crescem juntos...”</em> - Verdelis",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/eb67714c-ed02-4683-9d02-213c972302bf_Verdelis_parquelage.jpg",
+                  "alt": "",
+                  "width": 2863,
+                  "height": 1611,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "button",
+                  "text": "Pagina Principal de Verdelis!",
+                  "href": "/verdelis",
+                  "external": false
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "Sobre o Universo dos Pequenos Marcianos",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Os Pequenos Marcianos habitam um futuro onde a tecnologia e a natureza dançam em perfeita harmonia. Criado tanto para crianças quanto para adultos, este universo tem uma missão especial: <strong>ajudar os humanos a compreender a inteligência artificial e imaginar futuros otimistas onde a vida floresce por toda a galáxia</strong>.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Através de histórias, arte e tecnologia, os Pequenos Marcianos nos mostram que é possível um amanhã onde a sabedoria ancestral e a inovação tecnológica trabalham juntas para criar um mundo melhor. Eles são guardiões tanto da memória da Terra quanto dos sonhos de um futuro sustentável entre as estrelas.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/071e6150-febf-4e55-af37-11435f4f0063_Capa_lowres.jpg",
+                  "alt": "",
+                  "width": 4167,
+                  "height": 4167,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "O Livro: \"A Carta de Verdelis\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"A Carta de Verdelis\" é mais que um livro infantil - é um portal. Através de ilustrações que misturam aquarela com arte digital, de palavras que rimam como código e crescem como plantas, Verdelis convida as crianças para uma aventura que começa na imaginação e pode terminar nas estrelas.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Este é o primeiro contato oficial entre os Pequenos Marcianos e a humanidade. Verdelis escolheu falar primeiro com as crianças porque elas ainda sabem o segredo que os adultos esqueceram: que o impossível é apenas uma questão de tempo e cultivo paciente.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Ideal para crianças a partir de 9 anos e educadores interessados em introduzir conceitos de IA, matemática e diversidade cultural.</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Experimente o Agente de IA da Verdelis",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Converse diretamente com Verdelis através do nosso agente de IA personalizado na plataforma Eden.art! Treinado com base na personalidade e conhecimentos do personagem, você pode fazer perguntas sobre Marte, aprender sobre código genético, ou simplesmente bater um papo sobre a vida no biodomo Eden.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<a href=\"https://app.eden.art/agents/verdelis\" target=\"_blank\" rel=\"noopener\"><strong>🤖 Converse com Verdelis no Eden.art →</strong></a>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Assista ao Trailer",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Mergulhe no mundo visual de Verdelis e descubra como natureza e tecnologia se complementam!",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/VskhRCrkPlo?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "A Carta de Verdelis",
+                  "caption": "",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Adquira o Livro",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"A Carta de Verdelis\" está disponível através da Editora Arte do Tempo, nossa parceira editorial que compartilha a visão de uma educação transformadora através da arte e da tecnologia.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<a href=\"https://viajantedotempo.com/\" target=\"_blank\" rel=\"noopener\"><strong>📚 Comprar na Editora Arte do Tempo →</strong></a>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>Os Pequenos Marcianos acreditam que o futuro pertence àqueles que conseguem ver os padrões ocultos que conectam todas as coisas. </em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>Junte-se a Verdelis nesta jornada de descoberta e ajude a construir um amanhã onde tecnologia e humanidade florescem juntas.</em><br>",
+                  "align": null,
+                  "size": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

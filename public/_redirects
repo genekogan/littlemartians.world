@@ -1,0 +1,7 @@
+# Squarespace URLs that no longer have a page of their own.
+# /home-maple was already a dead link on the old site; /search was a
+# Squarespace feature. Read by Cloudflare Pages and Netlify. 301 = permanent.
+
+/home            /    301
+/home-maple      /    301
+/search          /    301

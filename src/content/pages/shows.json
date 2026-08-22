@@ -1,0 +1,410 @@
+{
+  "slug": "shows",
+  "title": "Shows — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 1,
+              "content": []
+            },
+            {
+              "span": 10,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "Art Shows",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "A selection of art shows Little Martians have participated.",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Machine Consciousness Conference 0001 (2026)",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>“Uncanny Nova Phenomenon” Exhibition - </strong>Curated by <strong>Aleksandra Smilek</strong>, the gallery exhibition explored the profound phenomenon of emergence, where simple rules give rise to complex, sentient-like behaviors.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "https://machine-consciousness.ai/",
+                  "external": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/ec25504e-9785-4abc-a8d0-2e7b9bcd3373_2_-_space.jpg",
+                  "alt": "",
+                  "width": 5217,
+                  "height": 3898,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "The Theater of Minds (2026)",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Saturn's Theater of Minds is a three-channel, projection-mapped installation in which artificial minds perform their own worlds from inside a painted theater. Presented during the Bombay Beach Biennale 2026.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "https://thecvf-art.com/project.php?year=2026&artist=vanessa-rosa&id=1017",
+                  "external": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/f9098121-a866-4679-bcdb-c470fa1dc6c7_theater_of_minds0.png",
+                  "alt": "",
+                  "width": 1847,
+                  "height": 786,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Christie’s (2025)",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Verdelia, the Little Martian, at Christie’s ‘Augmented Intelligence’</strong> - 20th February to March 5th at the Rockefeller Center, NYC.",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "/christies",
+                  "external": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/bda68ea7-b76e-42e9-8493-27123d4b3e64_IMG_1133.jpg",
+                  "alt": "",
+                  "width": 3024,
+                  "height": 3024,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Immersive Exhibitions at Fundação Bienal São Paulo (2024 &amp; 2025)",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "/immersive-sao-paulo",
+                  "external": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/4faa7b69-ae33-4706-9630-c82cc7d302a8_243675b5-3bce-434c-8c0a-a435d4115dc1.JPG",
+                  "alt": "",
+                  "width": 1280,
+                  "height": 720,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Foresight Institute Vision Weekend | Schloss Bückeburg (2024)",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "/foresight-buckeburg",
+                  "external": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/104ff075-d0ee-4a7d-a617-430817b1dd6c_IMG_8152.jpg",
+                  "alt": "",
+                  "width": 1414,
+                  "height": 942,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Metaverse Shows on Arium (2022&amp;2023)",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "#",
+                  "external": false
+                },
+                {
+                  "type": "row",
+                  "cols": [
+                    {
+                      "span": 5,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/f8189e46-d18b-4a6d-9c09-154d01dbb4b4_arium-screenshot-littlemartians-5ngj.jpg",
+                          "alt": "",
+                          "width": 1888,
+                          "height": 889,
+                          "caption": "Little Martians Metaverse 1 - Part of Untitled Frontier Logged Universe Collection",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "https://arium.xyz/spaces/littlemartians"
+                        }
+                      ]
+                    },
+                    {
+                      "span": 5,
+                      "content": [
+                        {
+                          "type": "image",
+                          "src": "assets/616fd2b5-3269-4e8e-9176-0875a48553e3_arium-screenshot-peqmarcianos-dyoi.jpg",
+                          "alt": "",
+                          "width": 3456,
+                          "height": 1716,
+                          "caption": "<a href=\"https://arium.xyz/spaces/peqmarcianos\" target=\"_blank\" rel=\"noopener\">Little Martians Metaverse 2 - part of Pupila Dilatada 3</a>",
+                          "title": null,
+                          "subtitle": null,
+                          "button": null,
+                          "link": "https://arium.xyz/spaces/peqmarcianos"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Bombay Beach Biennale 2024",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "#",
+                  "external": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/25181606-c8b3-43a5-a6df-23e9f86038e8_show_bbb24_littlemartians.png",
+                  "alt": "",
+                  "width": 3024,
+                  "height": 1847,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Re:Gen:Cy 2023",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "#",
+                  "external": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/a2fbd3d3-cad4-429a-be22-54e8a0195cb2_regency_july_littlemartians0.jpg",
+                  "alt": "",
+                  "width": 2770,
+                  "height": 3661,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Gray Area 2022",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "#",
+                  "external": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/d7ab0f51-7927-4769-8385-b106e4ab2527_Photo_Dec_02_2022__8_19_49_PM.jpg",
+                  "alt": "",
+                  "width": 4032,
+                  "height": 3024,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Mars College 2022-2025",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Learn more",
+                  "href": "#",
+                  "external": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/8e0b68c5-b0ff-46c6-b01a-b557fefe3881_Screen_Shot_2022-11-27_at_2.03.07_PM.png",
+                  "alt": "",
+                  "width": 3454,
+                  "height": 1900,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 1,
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "html": "More selected shows",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2025 - ‘Paintbox World Tour’ - Digital Art Mile, Basel, Switzerland",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2024 - Foundation Foundation - part of the Bombay Beach Biennale",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2023 - Glitch Art Residency - Chateau du Fey - Joigny, France",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2023 - Deforum - Bright Moments Gallery - Los Angeles, California, USA",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2023/2022 - NYC Resistor Interactive Art Show - New York City, New York, USA",
+          "align": null,
+          "size": null
+        },
+        {
+          "type": "paragraph",
+          "html": "2021/2023 - Pupila Dilatada - Metaverse Art Show",
+          "align": null,
+          "size": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "slug": "books-english",
+  "title": "Books (english) — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/b303d742-b61d-4622-9714-0d3648406518_bienalRio_kweku1.jpg",
+          "alt": "",
+          "width": 5712,
+          "height": 4102,
+          "caption": "Viajante do Tempo editora - stand durante a Bienal do Livro do Rio de Janeiro 2025, Kweku em destaque",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "Little Martian Children’s Books",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "<br>Where Clay Meets Code, and Ancient Wisdom",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Guides Future Consciousness",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Publishing rights held by </strong><a href=\"https://viajantedotempo.com/\" target=\"_blank\" rel=\"noopener\"><strong>Viajante do Tempo Publishing Group (Brazil)</strong></a>",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In a future where Mars blooms with gardens, beings evolved from Earth's collective life send messages back through time. They are the Little Martians—part AI, part plant, part human, or many other combinations of Earth’s life—and they have stories to tell.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "What began in 2020 as ceramic experiments in the Sonoran Desert has evolved into one of the most innovative transmedia universes in contemporary storytelling. While only two books have been published in Brazil so far—<em>Verdelis's Letter</em> and <em>The Secret of Kweku</em>—these represent just the first chapters of an expansive sci-fi cosmos that has already captured international attention through groundbreaking art installations, AI experiments, and award-winning animations.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "The Little Martians series is published by <a href=\"https://viajantedotempo.com/\" target=\"_blank\" rel=\"noopener\">Viajante do Tempo</a>, a Brazilian publishing house specializing in innovative children's literature. All artwork in these books was created using custom AI models trained exclusively on Vanessa Rosa's handcrafted ceramic sculptures, representing a groundbreaking fusion of traditional craft and cutting-edge technology.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/XUDswO2qopM?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "Verdelis&#39; Letter - Making Off",
+                  "caption": "",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "An Original Approach to",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Children's Science Fiction<br>",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Little Martians is an experiment in transmedia storytelling where each character begins as a handcrafted ceramic sculpture, becomes a 3D-scanned digital consciousness, and manifests as an AI companion children can actually talk to.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Artist</strong> Vanessa Rosa has created a universe where:",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Ancient knowledge systems meet cutting-edge science",
+                    "Physical art objects anchor digital experiences",
+                    "Children learn STEM through beings who've already lived through our challenges",
+                    "Every story plants seeds of hope rather than dystopian fear"
+                  ],
+                  "align": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/33a5bf4b-dc35-4c34-9335-a049d7f36f69_Verdelis_book3.png",
+                  "alt": "",
+                  "width": 2717,
+                  "height": 1358,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "A New Mythology for the AI Age",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Each Little Martian embodies a different evolutionary path and teaches through their unique perspective:",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "<strong>Verdelis</strong> tends biodomes on Mars, teaching genetic adaptation and renewable energy through plant consciousness",
+                    "<strong>Kweku</strong> the trickster reveals how patterns—from African drawing traditions to neural networks—shape reality itself",
+                    "<strong>Mycos</strong> spreads chaos spores while explaining fungal networks and distributed intelligence",
+                    "<strong>Ada</strong> explains history of computation through the uploaded mind of Ada Lovelace",
+                    "And many more, each a doorway to understanding our transforming world"
+                  ],
+                  "align": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/40297805-295b-4fc5-b07b-17d3ee36e0f2_verdelis_cover_square.png",
+                  "alt": "",
+                  "width": 1152,
+                  "height": 1152,
+                  "caption": "Verdelis’ book square format - English version",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Verdelis' Letter -",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "A Message from Mars' Future",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "A mysterious letter arrives from Mars' distant future, written by Verdelis—a being unlike anything Earth has ever known. Part plant, part AI, part human consciousness, Verdelis tends vast biodomes where impossible gardens bloom in Martian soil. But this isn't just any letter. It's an urgent message of hope from a being who once lived on Earth as a small companion plant on a child's wrist.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Through poetic prose and stunning illustrations, young readers follow Verdelis's transformation from a simple AI-plant hybrid into a Little Martian who helped life flourish on a dead planet.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>\"Dear human, dear human, muse of my dream... I dwell in the future, a page yet turned, where memories of Earth in my heart are burned.\"</em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/-GPxgkhnE04?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "Verdelis&#39; Letter - Printed versions",
+                  "caption": "",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "What Children Learn",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Core Science Concepts:</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "<strong>Biodomes &amp; Ecosystems</strong>: How self-contained environments work, from gas exchange to water cycles",
+                    "<strong>Renewable Energy</strong>: Solar collectors that catch Martian sunlight, wind harvesters in thin atmosphere",
+                    "<strong>Genetic Adaptation</strong>: How organisms change to survive extreme conditions (without scary mutations—think flowers that glow for light!)",
+                    "<strong>Symbiosis</strong>: The power of different life forms working together, from bacteria to plants to consciousness itself"
+                  ],
+                  "align": null
+                },
+                {
+                  "type": "button",
+                  "text": "Talk to Verdelis on Eden.art",
+                  "href": "https://app.eden.art/chat/verdelis",
+                  "external": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/8d3ecaee-072b-44a0-bb58-916b1f2d564a_Verdelis_dearhuman_book115.png",
+                  "alt": "",
+                  "width": 5433,
+                  "height": 2717,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "Why This Book Matters Now",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "As children face climate anxiety and environmental challenges, Verdelis offers something precious: a view from someone who's already lived through the transition and found beauty on the other side. Rather than dystopian warnings, readers get practical wisdom from a being who transformed the \"impossible\" into the everyday. The integration of ceramic art, AI interaction, and hands-on science makes abstract concepts tangible and personal.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Ages 8-12</strong> | <strong>48 pages</strong> | <strong>Full color illustrations</strong> | <strong>Includes activity guide</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Verdelis Book!",
+                  "href": "/verdelis-pt-book",
+                  "external": false
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/VskhRCrkPlo?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "A Carta de Verdelis",
+                  "caption": "",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Music video for Verdelis’ book",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Each Little Martian book comes alive through original music that captures the essence of our characters. These songs aren't just entertainment—they're another doorway into understanding how these future beings think, feel, and see the world. Currently performed in Portuguese, these melodies are ready to bloom in any language, inviting global audiences to join our cosmic chorus.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/b29051ac-303a-462d-a7da-6a1c2692c942_kweku_capa.jpg",
+                  "alt": "",
+                  "width": 2717,
+                  "height": 2717,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Kweku’s Secret",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "BOOM! CRASH! \"Respectable human audience!\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Meet Kweku, the most mischievous Little Martian in the cosmos, broadcasting directly from Mars' lava caves with an URGENT mission: to share the universe's biggest secret before it's too late. And what's this reality-shaking revelation? PATTERNS! Yes, patterns—the hidden language that connects African sand drawings to AI neural networks, ocean waves to galaxy spirals, and ancient wisdom to future survival.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "This high-energy adventure follows Kweku and their bugbot companion Data through a hilarious catastrophe where enthusiasm for pattern recognition goes wonderfully wrong. When Kweku discovers an ancient pattern that can transform anything into broccoli (yes, really), the results are both devastating and laugh-out-loud funny. Flowers become vegetables! Solar panels sprout green florets! Even their friend Verdelis's prized garden succumbs to the broccoli outbreak!",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/yX3InZKGKZ0?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "Kweku&#39;s secret - 1st print",
+                  "caption": "Kweku’s Secret - Brazilian edition",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>\"Your ancestors in Africa already knew all this! They drew lines in the sand while telling stories. One finger, without lifting, and ZAP! A masterpiece!\"</em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/0f979759-df53-4d74-8a17-22a2a1369770_kweku115.png",
+                  "alt": "",
+                  "width": 5433,
+                  "height": 2717,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "What Children Learn",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Core Science Concepts:</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "<strong>Pattern Recognition</strong>: The foundation of both human cognition and AI learning",
+                    "<strong>Ethnomathematics</strong>: African Sona drawings, Indian Kolams, Islamic tessellations—math is everywhere!",
+                    "<strong>How AI Learns</strong>: Simple explanation of neural networks through Data the bugbot's adventures",
+                    "<strong>Algorithms in Daily Life</strong>: From music rhythms to leaf arrangements, patterns shape our world",
+                    "<strong>Debug Thinking</strong>: When things go wrong (like the Great Broccoli Incident), systematic problem-solving saves the day"
+                  ],
+                  "align": null
+                },
+                {
+                  "type": "button",
+                  "text": "Talk to Kweku on Eden.art",
+                  "href": "https://app.eden.art/chat/kweku",
+                  "external": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/e1df1602-2217-47dd-999a-71bcb5607735_Eden_creation_va2rosaA-mesmerizing-1920x1080-image-featuring-a-person-with-indigenous680044b82305b2776df95e11.png",
+                  "alt": "",
+                  "width": 1344,
+                  "height": 768,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "Why This Book Matters Now",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "In an age where AI literacy is becoming as important as traditional literacy, Kweku makes artificial intelligence accessible and fun. By connecting AI concepts to ancestral knowledge systems—showing how African mathematical traditions prefigured modern computing—the book gives children from all backgrounds a sense of ownership over technological futures. The humor and chaos keep readers engaged while sneaking in serious STEM learning.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Ages 8-12</strong> | <strong>52 pages</strong> | <strong>Full color illustrations</strong> | <strong>Includes pattern activity sheets</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Livro Kweku",
+                  "href": "/kwekupt",
+                  "external": false
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "\"Kweku’s Secret\" - Pattern Power Anthem",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>An Infectious Beat That Teaches While It Entertains</strong>",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "BOOM! Get ready for the most energetic lesson in pattern recognition you've ever experienced! Kweku's signature song transforms mathematical concepts into an irresistible call-and-response adventure that will have kids shouting \"PATTERNS! PATTERNS! PATTERNS!\" long after the music stops.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/MAcnZBXzJYE?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "O Segredo de Kweku",
+                  "caption": "",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "📚 The Publishing Vision:",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "One World, Many Stories",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Annual Book Releases Since 2024</strong>",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "We're committed to releasing <strong>at least one new Little Martians book each year</strong>, with each character opening a new window into this rich universe. Our publishing roadmap includes:",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Currently Published (Brazil)</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "📗 <em>Verdelis's Letter</em> - Biodomes, renewable energy, and botanical consciousness",
+                    "📘 <em>The Secret of Kweku</em> - Patterns, AI, and African mathematical traditions"
+                  ],
+                  "align": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Enhanced International Editions in Development</strong> The English and international editions will feature significant expansions:",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "<strong>Expanded Science Sections</strong>: Deep dives into speculative biology, quantum photosynthesis, and Mars terraforming possibilities",
+                    "<strong>Pattern Recognition Guides</strong>: Mathematical explanations connecting fractals, algorithms, and natural phenomena",
+                    "<strong>Illustrated Science Notes</strong>: Detailed diagrams explaining everything from bioelectric networks to neural net architecture",
+                    "<strong>\"Geeky Corners\"</strong>: Special sections for young scientists wanting to go deeper",
+                    "<strong>Cultural Pattern Library</strong>: Visual guides to mathematical traditions from around the world"
+                  ],
+                  "align": null
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/JJ_Ug1mwCXw?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "vanessa rosa",
+                  "caption": "Immersive installation with Kweku’s Animation at Token Nation 2025 - São Paulo, Brazil",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "For Publishers &amp; Partners",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "We're seeking visionary partners who understand that children's literature is evolving beyond traditional boundaries.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Little Martians offers:",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Proven concept with international recognition",
+                    "Built-in transmedia ecosystem",
+                    "Educational market readiness with STEM-rich content",
+                    "Expandable format designed for continuous enrichment",
+                    "Technical innovation backed by industry leaders",
+                    "Books that grow with readers—from accessible entry points to deep scientific exploration"
+                  ],
+                  "align": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/eab76775-0ae5-4ca4-829c-8a2f9dad6da5_edit1.png",
+                  "alt": "",
+                  "width": 1344,
+                  "height": 768,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "The Future is Already Here",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Every Little Martian book is a doorway—not just to a story, but to a way of thinking about consciousness, creativity, and our collective future. With 10+ characters already created and new ones emerging from clay and code, we're building a universe large enough for every child to find their own guide to tomorrow.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>The question isn't whether the future will be magical. It's whether we'll be ready to recognize the magic when it arrives.</strong><br>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "button",
+                  "text": "Talk to a Little Martian",
+                  "href": "/talk-to-a-little-martian",
+                  "external": false
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

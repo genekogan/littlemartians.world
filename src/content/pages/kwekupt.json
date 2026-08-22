@@ -1,0 +1,253 @@
+{
+  "slug": "kwekupt",
+  "title": "Kweku-pt — Little Martians",
+  "description": "",
+  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+  "sections": [
+    {
+      "id": "section-1",
+      "background": null,
+      "backgroundVideo": null,
+      "hasImage": false,
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/c3ebc24e-c69d-4748-9652-5f7664624197_banner.jpg",
+          "alt": "",
+          "width": 2220,
+          "height": 1018,
+          "caption": "",
+          "title": null,
+          "subtitle": null,
+          "button": null,
+          "link": null
+        },
+        {
+          "type": "row",
+          "cols": [
+            {
+              "span": 3,
+              "content": []
+            },
+            {
+              "span": 6,
+              "content": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "html": "O Explorador de Padrões",
+                  "align": "center",
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Bem-vindos ao mundo de Kweku, o Pequeno Marciano mais curioso da galáxia!",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<br>Kweku vive nas intrincadas cavernas de lava de Marte, onde cada túnel e formação rochosa revela novos padrões fascinantes. Como um verdadeiro explorador do caos, ele é obcecado por descobrir as regras secretas que governam o universo - desde os desenhos ancestrais traçados na areia até os algoritmos mais complexos da inteligência artificial.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/264a92cc-127a-479b-b08e-710894dcb17c_kweku13.png",
+                  "alt": "",
+                  "width": 5433,
+                  "height": 2717,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"Padrões, padrões, padrões! Tudo é feito de padrões!\" - é o mantra de Kweku, que viajou pelo tempo para compartilhar este conhecimento vital com as crianças da Terra.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/2b3dd469-117e-45a0-8d1a-e2ec14e86c62_kweku-front.jpg",
+                  "alt": "",
+                  "width": 2204,
+                  "height": 1530,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "button",
+                  "text": "Pagina Principal de Kweku!",
+                  "href": "/kweku-1",
+                  "external": false
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "html": "Sobre o Universo dos Pequenos Marcianos",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Os Pequenos Marcianos habitam um futuro onde a tecnologia e a natureza dançam em perfeita harmonia. Criado tanto para crianças quanto para adultos, este universo tem uma missão especial: <strong>ajudar os humanos a compreender a inteligência artificial e imaginar futuros otimistas onde a vida floresce por toda a galáxia</strong>.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Através de histórias, arte e tecnologia, os Pequenos Marcianos nos mostram que é possível um amanhã onde a sabedoria ancestral e a inovação tecnológica trabalham juntas para criar um mundo melhor. Eles são guardiões tanto da memória da Terra quanto dos sonhos de um futuro sustentável entre as estrelas.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/d8b44d33-33ec-4520-b232-828fd164ac5a_kweku_capa.png",
+                  "alt": "",
+                  "width": 2717,
+                  "height": 2717,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "O Livro: \"O Segredo de Kweku\"",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Em sua primeira aventura literária, Kweku embarca numa missão para ensinar às crianças brasileiras o poder transformador dos padrões. Quando seu amigo Bugbot Data acidentalmente transforma todo Marte em brócolis, Kweku precisa usar seu conhecimento sobre padrões - desde as tradições matemáticas africanas até as redes neurais mais avançadas - para restaurar a ordem.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Uma história divertida que introduz conceitos fundamentais sobre como as IAs funcionam, sempre lembrando que compreender padrões é tanto uma habilidade ancestral quanto uma ferramenta para moldar o futuro.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>Ideal para crianças a partir de 9 anos e educadores interessados em introduzir conceitos de IA, matemática e diversidade cultural.</strong>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Experimente o Agente de IA do Kweku",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Converse diretamente com Kweku através do nosso agente de IA personalizado na plataforma Eden.art! Treinado com base na personalidade e conhecimentos do personagem, você pode fazer perguntas sobre padrões, aprender sobre culturas ancestrais, ou simplesmente bater um papo sobre a vida nas cavernas de lava de Marte.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<a href=\"https://app.eden.art/agents/kweku\" target=\"_blank\" rel=\"noopener\"><strong>🤖 Converse com Kweku no Eden.art →</strong></a>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Assista ao Trailer",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Mergulhe no mundo visual de Kweku e descubra como padrões conectam tradições milenares às tecnologias do futuro.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/Ru6cpVJ_a2c?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "O Segredo de Kweku",
+                  "caption": "",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "html": "Adquira o Livro",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "\"O Segredo de Kweku\" está disponível através da Editora Arte do Tempo, nossa parceira editorial que compartilha a visão de uma educação transformadora através da arte e da tecnologia.",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<a href=\"https://viajantedotempo.com/\" target=\"_blank\" rel=\"noopener\"><strong>📚 Comprar na Editora Arte do Tempo →</strong></a>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>Os Pequenos Marcianos acreditam que o futuro pertence àqueles que conseguem ver os padrões ocultos que conectam todas as coisas. </em>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<em>Junte-se a Kweku nesta jornada de descoberta e ajude a construir um amanhã onde tecnologia e humanidade florescem juntas.</em><br>",
+                  "align": null,
+                  "size": null
+                },
+                {
+                  "type": "video",
+                  "kind": "embed",
+                  "src": "https://www.youtube.com/embed/JJ_Ug1mwCXw?feature=oembed",
+                  "provider": "YouTube",
+                  "poster": null,
+                  "title": "vanessa rosa",
+                  "caption": "Kweku na sala imersiva do <a href=\"https://tokennation.com.br/\" target=\"_blank\" rel=\"noopener\">TokenNation</a> 2025 na Bienal de São Paulo!",
+                  "ratio": 56.49999999999999
+                },
+                {
+                  "type": "image",
+                  "src": "assets/32a20ffd-7dc9-44e3-80ed-98585a48a800_kweku_nftbrasil_40-1.png",
+                  "alt": "",
+                  "width": 1920,
+                  "height": 1072,
+                  "caption": "",
+                  "title": null,
+                  "subtitle": null,
+                  "button": null,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "span": 3,
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
