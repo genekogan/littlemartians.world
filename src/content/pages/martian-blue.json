@@ -1,261 +1,338 @@
 {
-  "slug": "martian-blue",
-  "title": "Martian Blue — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "martian-blue",
+ "title": "Martian Blue — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/4eadb6b2-02cf-4dfa-8278-22f14103afce_29.jpg",
-                  "alt": "",
-                  "width": 1024,
-                  "height": 1024,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/1648776060219-X0HHOBL80FZGK8SMRC8J_31.jpg",
-                  "alt": "",
-                  "width": 1024,
-                  "height": 1024,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/f45d17e0-ad6e-4d74-a75d-d05daa1eb0e0_2021-11-23_16.33.17.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/efaf60bc-c0d2-4ac6-92d9-04073b934792_Sequence_010576.jpg",
-                  "alt": "",
-                  "width": 1004,
-                  "height": 1004,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/820bf61e-fe0e-41e2-aa45-00aaa01582e5_2021-11-23_16.35.22.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/547f1c6a-62ea-4d24-ba8d-2c0323a02280_Sequence_010985.jpg",
-                  "alt": "",
-                  "width": 925,
-                  "height": 925,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/928f2b74-f81f-4c3d-a76a-ea1eb4effa45_Sequence_010006.jpg",
-                  "alt": "",
-                  "width": 880,
-                  "height": 880,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/935ff971-46da-472a-a5e2-001f4672b35c_Sequence_010281.jpg",
-                  "alt": "",
-                  "width": 884,
-                  "height": 884,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/dcebbbd0-3658-4612-a360-a6a0473f9c25_Sequence_011373.jpg",
-                  "alt": "",
-                  "width": 871,
-                  "height": 871,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/e19ea9b8-931c-4add-9c07-0edc7796de7a_Sequence_010261.jpg",
-                  "alt": "",
-                  "width": 892,
-                  "height": 892,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/0ea9747c-060b-4cf4-9b97-6c201c08feb5_Sequence_011287.jpg",
-                  "alt": "",
-                  "width": 893,
-                  "height": 893,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "row",
-                  "cols": [
-                    {
-                      "span": 3,
-                      "content": [
-                        {
-                          "type": "image",
-                          "src": "assets/22fd71bd-3ac1-4c24-a885-ea7e23a91417_2021-11-23_16.35.46.jpg",
-                          "alt": "",
-                          "width": 2048,
-                          "height": 2048,
-                          "caption": "",
-                          "title": null,
-                          "subtitle": null,
-                          "button": null,
-                          "link": null
-                        },
-                        {
-                          "type": "image",
-                          "src": "assets/7b4fc496-6976-4ca4-a58d-b518d2a202eb_Sequence_010221.jpg",
-                          "alt": "",
-                          "width": 950,
-                          "height": 950,
-                          "caption": "",
-                          "title": null,
-                          "subtitle": null,
-                          "button": null,
-                          "link": null
-                        }
-                      ]
-                    },
-                    {
-                      "span": 3,
-                      "content": [
-                        {
-                          "type": "image",
-                          "src": "assets/aa4d753b-e401-4095-a0e4-fb97afc8d486_2021-11-23_16.37.17.jpg",
-                          "alt": "",
-                          "width": 2048,
-                          "height": 2048,
-                          "caption": "",
-                          "title": null,
-                          "subtitle": null,
-                          "button": null,
-                          "link": null
-                        },
-                        {
-                          "type": "image",
-                          "src": "assets/10bc8b67-948e-469a-b8de-96edf406a583_Sequence_010466.jpg",
-                          "alt": "",
-                          "width": 1027,
-                          "height": 1027,
-                          "caption": "",
-                          "title": null,
-                          "subtitle": null,
-                          "button": null,
-                          "link": null
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+         "type": "image",
+         "src": "assets/4eadb6b2-02cf-4dfa-8278-22f14103afce_29.jpg",
+         "alt": "",
+         "width": 1024,
+         "height": 1024,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/1648776060219-X0HHOBL80FZGK8SMRC8J_31.jpg",
+         "alt": "",
+         "width": 1024,
+         "height": 1024,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/f45d17e0-ad6e-4d74-a75d-d05daa1eb0e0_2021-11-23_16.33.17.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        },
+        {
+         "type": "image",
+         "src": "assets/efaf60bc-c0d2-4ac6-92d9-04073b934792_Sequence_010576.jpg",
+         "alt": "",
+         "width": 1004,
+         "height": 1004,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/820bf61e-fe0e-41e2-aa45-00aaa01582e5_2021-11-23_16.35.22.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        },
+        {
+         "type": "image",
+         "src": "assets/547f1c6a-62ea-4d24-ba8d-2c0323a02280_Sequence_010985.jpg",
+         "alt": "",
+         "width": 925,
+         "height": 925,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/928f2b74-f81f-4c3d-a76a-ea1eb4effa45_Sequence_010006.jpg",
+         "alt": "",
+         "width": 880,
+         "height": 880,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        },
+        {
+         "type": "image",
+         "src": "assets/935ff971-46da-472a-a5e2-001f4672b35c_Sequence_010281.jpg",
+         "alt": "",
+         "width": 884,
+         "height": 884,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/dcebbbd0-3658-4612-a360-a6a0473f9c25_Sequence_011373.jpg",
+         "alt": "",
+         "width": 871,
+         "height": 871,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        },
+        {
+         "type": "image",
+         "src": "assets/e19ea9b8-931c-4add-9c07-0edc7796de7a_Sequence_010261.jpg",
+         "alt": "",
+         "width": 892,
+         "height": 892,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/0ea9747c-060b-4cf4-9b97-6c201c08feb5_Sequence_011287.jpg",
+         "alt": "",
+         "width": 893,
+         "height": 893,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        },
+        {
+         "type": "row",
+         "cols": [
+          {
+           "span": 3,
+           "content": [
+            {
+             "type": "image",
+             "src": "assets/22fd71bd-3ac1-4c24-a885-ea7e23a91417_2021-11-23_16.35.46.jpg",
+             "alt": "",
+             "width": 2048,
+             "height": 2048,
+             "caption": "",
+             "title": null,
+             "subtitle": null,
+             "button": null,
+             "link": null,
+             "layout": "inline",
+             "position": "left",
+             "description": null,
+             "aspect": null,
+             "mask": null
+            },
+            {
+             "type": "image",
+             "src": "assets/7b4fc496-6976-4ca4-a58d-b518d2a202eb_Sequence_010221.jpg",
+             "alt": "",
+             "width": 950,
+             "height": 950,
+             "caption": "",
+             "title": null,
+             "subtitle": null,
+             "button": null,
+             "link": null,
+             "layout": "inline",
+             "position": "left",
+             "description": null,
+             "aspect": null,
+             "mask": null
+            }
+           ]
+          },
+          {
+           "span": 3,
+           "content": [
+            {
+             "type": "image",
+             "src": "assets/aa4d753b-e401-4095-a0e4-fb97afc8d486_2021-11-23_16.37.17.jpg",
+             "alt": "",
+             "width": 2048,
+             "height": 2048,
+             "caption": "",
+             "title": null,
+             "subtitle": null,
+             "button": null,
+             "link": null,
+             "layout": "inline",
+             "position": "left",
+             "description": null,
+             "aspect": null,
+             "mask": null
+            },
+            {
+             "type": "image",
+             "src": "assets/10bc8b67-948e-469a-b8de-96edf406a583_Sequence_010466.jpg",
+             "alt": "",
+             "width": 1027,
+             "height": 1027,
+             "caption": "",
+             "title": null,
+             "subtitle": null,
+             "button": null,
+             "link": null,
+             "layout": "inline",
+             "position": "left",
+             "description": null,
+             "aspect": null,
+             "mask": null
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

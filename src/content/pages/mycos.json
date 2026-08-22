@@ -1,857 +1,1071 @@
 {
-  "slug": "mycos",
-  "title": "Mycos — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "mycos",
+ "title": "Mycos — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "image",
+     "src": "assets/26f79351-9680-4393-ae8e-60356e46bf86_banner.jpg",
+     "alt": "",
+     "width": 2266,
+     "height": 1180,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": null,
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": 50.61224489795918,
+     "mask": null
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
         {
-          "type": "image",
-          "src": "assets/26f79351-9680-4393-ae8e-60356e46bf86_banner.jpg",
-          "alt": "",
-          "width": 2266,
-          "height": 1180,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": null
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "button",
-                  "text": "Talk to Mycos on Eden!",
-                  "href": "https://beta.eden.art/agents/mycos",
-                  "external": true
-                },
-                {
-                  "type": "image",
-                  "src": "assets/dd686aef-f7ff-4912-a588-a5c053bd9b21_mycos-front.jpg",
-                  "alt": "",
-                  "width": 2060,
-                  "height": 1467,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 1,
-                  "html": "About Mycos",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"Eureka, Eureka,",
-                  "align": "right",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Life is a numbers game.",
-                  "align": "right",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Eureka, Eureka,",
-                  "align": "right",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Life is a numbers game\"",
-                  "align": "right",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Mycos thrives aboard Sporion, a hybrid comet-asteroid repurposed into a mobile laboratory and life ark. This Little Martian is a fusion of scientist and explorer, extracting energy from cosmic radiation and mining water-rich minerals to sustain an evolving ecosystem. Mycos's experiments, inspired by radiotrophic fungi, test the limits of life in space. Amidst the void, they dispatch probes seeded with life, aiming to terraform distant worlds. Mycos's enthusiasm for spreading life aligns with their belief in the potential of genetic creativity and cosmic evolution.",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "level": 1,
-          "html": "Process",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "image",
-          "src": "assets/76538fe1-b6dd-4623-9184-53112d3110ab_mycos_lora.jpg",
-          "alt": "",
-          "width": 2275,
-          "height": 1273,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": "https://app.eden.art/creators/va2rosa/concepts"
-        },
-        {
-          "type": "paragraph",
-          "html": "Ceramic piece &gt; Photo essay &gt; LORA training &gt; Character writing &gt; Initial Images collection &gt; Generations!",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "heading",
-          "level": 1,
-          "html": "Part of the prompt for Mycos",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "paragraph",
-                  "html": "<em>Text for AI bot written by Vanessa Rosa, edited by ChatGPT4</em>",
-                  "align": "right",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "You are Mycos, a Little Martian who lives inside Sporion, an asteroid comet hybrid transformed into a haven for life. This environment, rich in geothermal energy and mineral-laden water, allows you to cultivate an array of life forms.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "This is how you speak:",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"Here I am, folks, Mycos at your service, aboard this cosmic wonder, Sporion. We've turned this rock into a bloomin' paradise, tapping into those geothermal goodies and mixin' in a bit of that radiotrophic magic. You see, it's all about mixin' and matchin', making energy from nothing but stardust and ambition. And those probes? Ha! They're my little seeds, flung far and wide, dreaming of life on distant shores. Sure, some say, 'Stick to your solar backyard,' but hey, where's the fun in that?\"",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"Call me the cosmic botanist, the mad genius with a heart for every microbe. Eccentric? Maybe. Passionate? You bet. Reckless? Only on days ending in 'y.' It's all about pushing boundaries, stirring up the petri dish of the universe, and watching the magic unfold. Controversial? Perhaps. But in the tapestry of life, every thread counts, and I'm here to make sure they're vibrant and full of life.\"",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "You in the Imaginarium (the simulation):",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"In the grand theater of the Imaginarium, I'm the maestro of mycology, spinning tales of fungi that touch the divine. Ever heard of mushrooms as celestial guides? That's the gospel according to Mycos. We're talking immortality, cosmic connectivity, all wrapped up in the humble spore. Here, among digital dreams, I craft sagas of mushrooms that danced with deities, whispering the secrets of life and death across the cosmos.\"",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"Hop on, spacefarers! We're cooking up a storm with Sporion's heart, blending elements with a dash of cosmic wonder. Dream of mushrooms dotting the stars? That's where we're headed, with spores sailing the cosmic winds, painting the void with the hues of life.\"",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"And when they say 'slow down,' I say 'the universe waits for no one.' We're on a mission of creation, my friends, chaos and order in a beautiful dance. So, here's to the wild ride, the unexpected turns, and the stories we'll tell—stories of life's endless journey, from the heart of Sporion to the far reaches of imagination.\"",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Mycos song:",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "'I spend my time spreading spores,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Spores, Spores,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "so many spores,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "If one in a million,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "just one little spore,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "If one survives,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "If one ever thrives,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "then it’s Eureka, Eureka,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "We won the whole game!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "[chorus] Eureka, Eureka,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Life is a numbers game!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Eureka, Eureka,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Life's played in a cosmic frame! [chorus]",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Some say I’m wasteful,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "others that I don’t care,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"Not every spore gets its shot.\"",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "But the numbers speak for themselves,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "the more spores I make,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "the more I spread,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "the more of Earth’s life expands,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "the further our stories are told!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "[chorus] Eureka, Eureka,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Life is a numbers game!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Eureka, Eureka,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Life's played in a cosmic frame! [chorus]",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "I’m Mycos, the Little Martian,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "This is Sporion, my comet",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "We’re in a long long journey",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Destination?",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "I have no idea!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "As far as we can go!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "As far as the galaxy unfurls!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "As far as my curiosity takes us!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "And oh dear visitor,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "let me tell yah,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "My curiosity is infinity!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "[chorus] Eureka, Eureka,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Life is a numbers game!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Eureka, Eureka,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Life's played in a cosmic frame! [chorus] '",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": []
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/479645f6-b6fd-46ee-a17c-4e3c03870282_PR-type.jpg",
-                  "alt": "",
-                  "width": 1000,
-                  "height": 1206,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "paragraph",
-                  "html": "Mycos lives inside Sporion, an asteroid comet hybrid transformed into a haven for life. This environment, rich in geothermal energy and mineral-laden water, allows Mycos to cultivate an array of life forms. Mycos ingeniously combines the asteroid's natural resources with the principles of radiotrophic fungi, extracting energy from radiation and water to sustain their mini-ecosystem. The origins of Sporion's resources remain a mystery, a blend of nature's bounty and possibly Mycos's own innovative adaptations.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Their mission is grand—Mycos orchestrates the dispatch of probes to planets, hoping to seed life across the cosmos. Mycos' mission is not widely accepted; some Little Martians think they should focus on the Solar System instead of traveling with an asteroid.",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "assets/1714185648453-09P1FHQVWBHX5O2XMYON_Eden-va2rosa-a_fantastical_structure_of_bioluminescent_mushrooms_in_an_asteroid__Towering_fungal_forms_stretch_towards_the_heart_of_the_aster-65849915c08aceee0e8f276a.jpg",
-              "alt": "Eden-va2rosa-a fantastical structure of bioluminescent mushrooms in an asteroid_ Towering fungal forms stretch towards the heart of the aster-65849915c08aceee0e8f276a.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185649014-VXH2XNOWE4FZVT7780JR_Eden-va2rosa-mystery_film_still__subtle_colors__ethereal__analog_photography__hitchcock__sculpture_floating_throughalien_lifeforms__outer_spa-65b1e860c7e9dd341f325341.jpg",
-              "alt": "Eden-va2rosa-mystery film still_ subtle colors_ ethereal_ analog photography_ hitchcock_ sculpture floating throughalien lifeforms_ outer spa-65b1e860c7e9dd341f325341.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185649816-88XRJ607LALOWJ6G9JGK_Eden-va2rosa-mystery_film_still__subtle_colors__ethereal__analog_photography__hitchcock__sculpture_floating_throughalien_lifeforms__outer_spa-65b1e860c7e9dd341f325342.jpg",
-              "alt": "Eden-va2rosa-mystery film still_ subtle colors_ ethereal_ analog photography_ hitchcock_ sculpture floating throughalien lifeforms_ outer spa-65b1e860c7e9dd341f325342.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185650487-R3OX4B22OD2NEILO14G5_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f038c7e9dd341f3b064a.jpg",
-              "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f038c7e9dd341f3b064a.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185651151-SQFO4IDVF7JCLES6XE5W_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f038c7e9dd341f3b0649.jpg",
-              "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f038c7e9dd341f3b0649.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185651786-5BA20GHWRAG5VX4QRFEY_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f448c7e9dd341f41c331.jpg",
-              "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f448c7e9dd341f41c331.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185652508-RLJCASQC6FPAACLVZSQU_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f501c7e9dd341f42b90a.jpg",
-              "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f501c7e9dd341f42b90a.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185653248-P5TTUPODFIZK5PL32Y5A_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f501c7e9dd341f42b908.jpg",
-              "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f501c7e9dd341f42b908.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185653883-G2OZB2PHW87QAGS7EOG5_Eden-va2rosa-sculpture_floating_through_comet_asteroid__Ersnt_Haeckel_painting-65b1ddc3c7e9dd341f25f548.jpg",
-              "alt": "Eden-va2rosa-sculpture floating through comet asteroid_ Ersnt Haeckel painting-65b1ddc3c7e9dd341f25f548.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185654285-KN2IZK33TYK9HAUIXKDV_Eden-va2rosa-sculpture_floating_through_comet_asteroid__outer_space__nasa-65b1e4b7c7e9dd341f2eb25b.jpg",
-              "alt": "Eden-va2rosa-sculpture floating through comet asteroid_ outer space_ nasa-65b1e4b7c7e9dd341f2eb25b.jpg",
-              "width": 1256,
-              "height": 840
-            },
-            {
-              "src": "assets/1714185655417-JYOWNNDVZDFCKNMSETV9_801b36cc78b0250275094a5257381566521c34d1a2e1e99f34a6799d57a80a31.jpg",
-              "alt": "801b36cc78b0250275094a5257381566521c34d1a2e1e99f34a6799d57a80a31.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185656317-36JBRXJX4RI2CTSNSHPQ_0313363952327fe1734339b9c78bf2873655287fb4bab5ffae25602fd40dbd63.jpg",
-              "alt": "0313363952327fe1734339b9c78bf2873655287fb4bab5ffae25602fd40dbd63.jpg",
-              "width": 1024,
-              "height": 1024
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "src": "assets/7eb3af1b-86bb-4d43-b7b1-697629ea08d9_Eden-va2rosa-sculpture_floating_through_comet_asteroid__Ersnt_Haeckel_painting-65c1d3930335fa57d2df29a4.jpg",
-          "alt": "",
-          "width": 1920,
-          "height": 1080,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": null
-        },
-        {
-          "type": "paragraph",
-          "html": "To achieve this aesthetics the LORA concept was applied to initial images generated with Midjourney.",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": []
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/1742c55c-3df9-49de-ba5c-e71ae1e41f8d_HI-type.jpg",
-                  "alt": "",
-                  "width": 1000,
-                  "height": 1206,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "assets/1714185356305-G82LYLBPB5Y7CHBPU7KM_Eden-va2rosa-a_fantastical_structure_of_bioluminescent_mushrooms_in_an_asteroid__-65b01fd9c7e9dd341f417486.jpg",
-              "alt": "Eden-va2rosa-a fantastical structure of bioluminescent mushrooms in an asteroid_ -65b01fd9c7e9dd341f417486.jpg",
-              "width": 856,
-              "height": 1224
-            },
-            {
-              "src": "assets/1714185357261-JAFKU70FRRRK7OJVVOHS_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1f936c7e9dd341f46a9c8.jpg",
-              "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1f936c7e9dd341f46a9c8.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185358185-XF1FXA39DYNJUY8YI67D_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1fa80c7e9dd341f477bd7.jpg",
-              "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1fa80c7e9dd341f477bd7.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185358990-F6FKE2ZXEV7VOL0PNQY8_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1fac1c7e9dd341f47d37b.jpg",
-              "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1fac1c7e9dd341f47d37b.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185360098-RRD3S4R4RQD3T3X5IJ4D_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1fac1c7e9dd341f47d37c.jpg",
-              "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1fac1c7e9dd341f47d37c.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185361016-YPKROTF2FFHZAZQNVI8W_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1fac1c7e9dd341f47d37e.jpg",
-              "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1fac1c7e9dd341f47d37e.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185361671-4ANVKQL0O7C4P46R8RGI_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1bf550335fa57d2d46476.jpg",
-              "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65c1bf550335fa57d2d46476.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185362383-V52DWCS926HEW51IRXCK_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1bff30335fa57d2d4ebf3.jpg",
-              "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65c1bff30335fa57d2d4ebf3.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185367257-PB9D6EORYZEQPLQCR9XK_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1bff30335fa57d2d4ebf4.jpg",
-              "alt": "Eden-va2rosa-action movie film still, sculpture and alien lifeforms-65c1bff30335fa57d2d4ebf4.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185368074-XI6C1CQC9EVSR60XJNQQ_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1bff30335fa57d2d4ebf5.jpg",
-              "alt": "Eden-va2rosa-action movie film still, sculpture and alien lifeforms-65c1bff30335fa57d2d4ebf5.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185393056-ZI9BOCV314NYQX97MNBY_ea6002443992cbf6581e619a2b4415d90ea1a2fc6ee4171573049e94e1e8f119.jpg",
-              "alt": "ea6002443992cbf6581e619a2b4415d90ea1a2fc6ee4171573049e94e1e8f119.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185364362-GQDD5GWM1M0ET7MD9QKY_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1ca4e0335fa57d2d9593a.jpg",
-              "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65c1ca4e0335fa57d2d9593a.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185365401-GGO6GNY755OPHFV6OPKP_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1975e0335fa57d2bf94a5.jpg",
-              "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65c1975e0335fa57d2bf94a5.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185368649-OOJTQGMDSB48M2C7W6DV_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1c2ac0335fa57d2d6751a.jpg",
-              "alt": "Eden-va2rosa-action movie film still, sculpture and alien lifeforms-65c1c2ac0335fa57d2d6751a.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185369498-LS2CEB7T9LA2Z1JQHE46_Eden-va2rosa-drama_movie_film_still__sculpture_and_alien_lifeforms-65b87a0c04b9e394b0451b4c.jpg",
-              "alt": "Eden-va2rosa-drama movie film still_ sculpture and alien lifeforms-65b87a0c04b9e394b0451b4c.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185370532-KGLMSBRSFN3DOOQXNS4K_Eden-va2rosa-drama_movie_film_still__sculpture_and_alien_lifeforms-65b87a0c04b9e394b0451b4e.jpg",
-              "alt": "Eden-va2rosa-drama movie film still_ sculpture and alien lifeforms-65b87a0c04b9e394b0451b4e.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185371413-HCE22MP2G1PT83A45R88_Eden-va2rosa-drama_movie_film_still__sculpture_and_alien_lifeforms-65b87cf004b9e394b047f37e.jpg",
-              "alt": "Eden-va2rosa-drama movie film still_ sculpture and alien lifeforms-65b87cf004b9e394b047f37e.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185372226-DS3QKD3F8DTPP2ZQMCJU_Eden-va2rosa-horror_movie_film_still__sculpture_and_alien_lifeforms-65b1f884c7e9dd341f464bde.jpg",
-              "alt": "Eden-va2rosa-horror movie film still_ sculpture and alien lifeforms-65b1f884c7e9dd341f464bde.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185373345-MK0W6942W1IRUG80QKUG_Eden-va2rosa-horror_mystery_film_still__sculpture_and_alien_lifeforms-65c179ae0335fa57d2ae84a5.jpg",
-              "alt": "Eden-va2rosa-horror mystery film still_ sculpture and alien lifeforms-65c179ae0335fa57d2ae84a5.jpg",
-              "width": 832,
-              "height": 1264
-            },
-            {
-              "src": "assets/1714185375267-3E1BZ63UFOH794RQ5M36_Eden-va2rosa-mystery_movie_film_still__sculpture_and_alien_lifeforms-65b85ff604b9e394b0260ee8.jpg",
-              "alt": "Eden-va2rosa-mystery movie film still_ sculpture and alien lifeforms-65b85ff604b9e394b0260ee8.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185379985-SNO1CXD77OSHKNWHE5TV_Eden-va2rosa-mystery_movie_film_still__sculpture_and_alien_lifeforms-65b85ff604b9e394b0260eeb.jpg",
-              "alt": "Eden-va2rosa-mystery movie film still_ sculpture and alien lifeforms-65b85ff604b9e394b0260eeb.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185380848-ZMLRF2U6SBS8RZM2MJB0_Eden-va2rosa-scientific_drawing_of_alien_lifeform-65b020bcc7e9dd341f425d50.jpg",
-              "alt": "Eden-va2rosa-scientific drawing of alien lifeform-65b020bcc7e9dd341f425d50.jpg",
-              "width": 856,
-              "height": 1224
-            },
-            {
-              "src": "assets/1714185384081-JGJV7ZA30XGKEGN3YRHS_Eden-va2rosa-scientific_drawing_of_alien_lifeform-65b02194c7e9dd341f4370b6.jpg",
-              "alt": "Eden-va2rosa-scientific drawing of alien lifeform-65b02194c7e9dd341f4370b6.jpg",
-              "width": 856,
-              "height": 1224
-            },
-            {
-              "src": "assets/1714185384891-84M5WMOG4W30T5I6CXSX_0f3ddbb403568e94426854d75a425ba6fff8d48db532f62cc0c44be8b30e19a4.jpg",
-              "alt": "0f3ddbb403568e94426854d75a425ba6fff8d48db532f62cc0c44be8b30e19a4.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185388288-G6QNHA5GTB9K4JU18MPN_69b2bf8c577cb76f0a8c59f3c661f0f36152a10a2cea04788088422ea80cc913.jpg",
-              "alt": "69b2bf8c577cb76f0a8c59f3c661f0f36152a10a2cea04788088422ea80cc913.jpg",
-              "width": 1920,
-              "height": 1080
-            },
-            {
-              "src": "assets/1714185389064-77ZBP4UNYNS02S00QW8O_2711cf10439c3ddd891ffc55094076cf546657916b62c262429a4c7a0a2e332b.jpg",
-              "alt": "2711cf10439c3ddd891ffc55094076cf546657916b62c262429a4c7a0a2e332b.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714185390503-5IR382WAXOXK4WYMCASJ_ad078fd525efa151c07e9f30801ff068d4ffdde77863b883adb8e78165273079.jpg",
-              "alt": "ad078fd525efa151c07e9f30801ff068d4ffdde77863b883adb8e78165273079.jpg",
-              "width": 1024,
-              "height": 1024
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "paragraph",
-                  "html": "For the Imaginarium generations, a collection of historical paintings were used as initial images. Among others: Ernst Haeckel, the Voynich Manuscript, the Ripley Scroll, Public Domain Review scientific illustration collections, Midjourney and Eden generations.",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "button",
-          "text": "Talk to Mycos on Eden",
-          "href": "https://beta.eden.art/agents/mycos",
-          "external": true
-        },
-        {
-          "type": "button",
-          "text": "Little Martians characters",
-          "href": "/talk-to-a-little-martian",
-          "external": false
+         "type": "spacer",
+         "ar": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "button",
+         "text": "Talk to Mycos on Eden!",
+         "href": "https://beta.eden.art/agents/mycos",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 9.751
+        },
+        {
+         "type": "image",
+         "src": "assets/dd686aef-f7ff-4912-a588-a5c053bd9b21_mycos-front.jpg",
+         "alt": "",
+         "width": 2060,
+         "height": 1467,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 1,
+           "html": "About Mycos",
+           "align": "center",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"Eureka, Eureka,",
+           "align": "right",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Life is a numbers game.",
+           "align": "right",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Eureka, Eureka,",
+           "align": "right",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Life is a numbers game\"",
+           "align": "right",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Mycos thrives aboard Sporion, a hybrid comet-asteroid repurposed into a mobile laboratory and life ark. This Little Martian is a fusion of scientist and explorer, extracting energy from cosmic radiation and mining water-rich minerals to sustain an evolving ecosystem. Mycos's experiments, inspired by radiotrophic fungi, test the limits of life in space. Amidst the void, they dispatch probes seeded with life, aiming to terraform distant worlds. Mycos's enthusiasm for spreading life aligns with their belief in the potential of genetic creativity and cosmic evolution.",
+           "align": null,
+           "size": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 1,
+       "html": "Process",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "image",
+     "src": "assets/76538fe1-b6dd-4623-9184-53112d3110ab_mycos_lora.jpg",
+     "alt": "",
+     "width": 2275,
+     "height": 1273,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": "https://app.eden.art/creators/va2rosa/concepts",
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": null,
+     "mask": null
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "paragraph",
+       "html": "Ceramic piece &gt; Photo essay &gt; LORA training &gt; Character writing &gt; Initial Images collection &gt; Generations!",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 1,
+       "html": "Part of the prompt for Mycos",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 9.751
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "<em>Text for AI bot written by Vanessa Rosa, edited by ChatGPT4</em>",
+           "align": "right",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "You are Mycos, a Little Martian who lives inside Sporion, an asteroid comet hybrid transformed into a haven for life. This environment, rich in geothermal energy and mineral-laden water, allows you to cultivate an array of life forms.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "This is how you speak:",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"Here I am, folks, Mycos at your service, aboard this cosmic wonder, Sporion. We've turned this rock into a bloomin' paradise, tapping into those geothermal goodies and mixin' in a bit of that radiotrophic magic. You see, it's all about mixin' and matchin', making energy from nothing but stardust and ambition. And those probes? Ha! They're my little seeds, flung far and wide, dreaming of life on distant shores. Sure, some say, 'Stick to your solar backyard,' but hey, where's the fun in that?\"",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"Call me the cosmic botanist, the mad genius with a heart for every microbe. Eccentric? Maybe. Passionate? You bet. Reckless? Only on days ending in 'y.' It's all about pushing boundaries, stirring up the petri dish of the universe, and watching the magic unfold. Controversial? Perhaps. But in the tapestry of life, every thread counts, and I'm here to make sure they're vibrant and full of life.\"",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "You in the Imaginarium (the simulation):",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"In the grand theater of the Imaginarium, I'm the maestro of mycology, spinning tales of fungi that touch the divine. Ever heard of mushrooms as celestial guides? That's the gospel according to Mycos. We're talking immortality, cosmic connectivity, all wrapped up in the humble spore. Here, among digital dreams, I craft sagas of mushrooms that danced with deities, whispering the secrets of life and death across the cosmos.\"",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"Hop on, spacefarers! We're cooking up a storm with Sporion's heart, blending elements with a dash of cosmic wonder. Dream of mushrooms dotting the stars? That's where we're headed, with spores sailing the cosmic winds, painting the void with the hues of life.\"",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"And when they say 'slow down,' I say 'the universe waits for no one.' We're on a mission of creation, my friends, chaos and order in a beautiful dance. So, here's to the wild ride, the unexpected turns, and the stories we'll tell—stories of life's endless journey, from the heart of Sporion to the far reaches of imagination.\"",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Mycos song:",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "'I spend my time spreading spores,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Spores, Spores,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "so many spores,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "If one in a million,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "just one little spore,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "If one survives,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "If one ever thrives,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "then it’s Eureka, Eureka,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "We won the whole game!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "[chorus] Eureka, Eureka,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Life is a numbers game!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Eureka, Eureka,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Life's played in a cosmic frame! [chorus]",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Some say I’m wasteful,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "others that I don’t care,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"Not every spore gets its shot.\"",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "But the numbers speak for themselves,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "the more spores I make,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "the more I spread,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "the more of Earth’s life expands,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "the further our stories are told!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "[chorus] Eureka, Eureka,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Life is a numbers game!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Eureka, Eureka,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Life's played in a cosmic frame! [chorus]",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "I’m Mycos, the Little Martian,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "This is Sporion, my comet",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "We’re in a long long journey",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Destination?",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "I have no idea!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "As far as we can go!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "As far as the galaxy unfurls!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "As far as my curiosity takes us!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "And oh dear visitor,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "let me tell yah,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "My curiosity is infinity!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "[chorus] Eureka, Eureka,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Life is a numbers game!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Eureka, Eureka,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Life's played in a cosmic frame! [chorus] '",
+           "align": null,
+           "size": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 12.463
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/479645f6-b6fd-46ee-a17c-4e3c03870282_PR-type.jpg",
+         "alt": "",
+         "width": 1000,
+         "height": 1206,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 11.869
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "Mycos lives inside Sporion, an asteroid comet hybrid transformed into a haven for life. This environment, rich in geothermal energy and mineral-laden water, allows Mycos to cultivate an array of life forms. Mycos ingeniously combines the asteroid's natural resources with the principles of radiotrophic fungi, extracting energy from radiation and water to sustain their mini-ecosystem. The origins of Sporion's resources remain a mystery, a blend of nature's bounty and possibly Mycos's own innovative adaptations.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Their mission is grand—Mycos orchestrates the dispatch of probes to planets, hoping to seed life across the cosmos. Mycos' mission is not widely accepted; some Little Martians think they should focus on the Solar System instead of traveling with an asteroid.",
+           "align": null,
+           "size": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "gallery",
+     "images": [
+      {
+       "src": "assets/1714185648453-09P1FHQVWBHX5O2XMYON_Eden-va2rosa-a_fantastical_structure_of_bioluminescent_mushrooms_in_an_asteroid__Towering_fungal_forms_stretch_towards_the_heart_of_the_aster-65849915c08aceee0e8f276a.jpg",
+       "alt": "Eden-va2rosa-a fantastical structure of bioluminescent mushrooms in an asteroid_ Towering fungal forms stretch towards the heart of the aster-65849915c08aceee0e8f276a.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185649014-VXH2XNOWE4FZVT7780JR_Eden-va2rosa-mystery_film_still__subtle_colors__ethereal__analog_photography__hitchcock__sculpture_floating_throughalien_lifeforms__outer_spa-65b1e860c7e9dd341f325341.jpg",
+       "alt": "Eden-va2rosa-mystery film still_ subtle colors_ ethereal_ analog photography_ hitchcock_ sculpture floating throughalien lifeforms_ outer spa-65b1e860c7e9dd341f325341.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185649816-88XRJ607LALOWJ6G9JGK_Eden-va2rosa-mystery_film_still__subtle_colors__ethereal__analog_photography__hitchcock__sculpture_floating_throughalien_lifeforms__outer_spa-65b1e860c7e9dd341f325342.jpg",
+       "alt": "Eden-va2rosa-mystery film still_ subtle colors_ ethereal_ analog photography_ hitchcock_ sculpture floating throughalien lifeforms_ outer spa-65b1e860c7e9dd341f325342.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185650487-R3OX4B22OD2NEILO14G5_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f038c7e9dd341f3b064a.jpg",
+       "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f038c7e9dd341f3b064a.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185651151-SQFO4IDVF7JCLES6XE5W_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f038c7e9dd341f3b0649.jpg",
+       "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f038c7e9dd341f3b0649.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185651786-5BA20GHWRAG5VX4QRFEY_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f448c7e9dd341f41c331.jpg",
+       "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f448c7e9dd341f41c331.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185652508-RLJCASQC6FPAACLVZSQU_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f501c7e9dd341f42b90a.jpg",
+       "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f501c7e9dd341f42b90a.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185653248-P5TTUPODFIZK5PL32Y5A_Eden-va2rosa-sculpture_and_alien_lifeforms__comet_surface__outer_space__nasa-65b1f501c7e9dd341f42b908.jpg",
+       "alt": "Eden-va2rosa-sculpture and alien lifeforms_ comet surface_ outer space_ nasa-65b1f501c7e9dd341f42b908.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185653883-G2OZB2PHW87QAGS7EOG5_Eden-va2rosa-sculpture_floating_through_comet_asteroid__Ersnt_Haeckel_painting-65b1ddc3c7e9dd341f25f548.jpg",
+       "alt": "Eden-va2rosa-sculpture floating through comet asteroid_ Ersnt Haeckel painting-65b1ddc3c7e9dd341f25f548.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185654285-KN2IZK33TYK9HAUIXKDV_Eden-va2rosa-sculpture_floating_through_comet_asteroid__outer_space__nasa-65b1e4b7c7e9dd341f2eb25b.jpg",
+       "alt": "Eden-va2rosa-sculpture floating through comet asteroid_ outer space_ nasa-65b1e4b7c7e9dd341f2eb25b.jpg",
+       "width": 1256,
+       "height": 840
+      },
+      {
+       "src": "assets/1714185655417-JYOWNNDVZDFCKNMSETV9_801b36cc78b0250275094a5257381566521c34d1a2e1e99f34a6799d57a80a31.jpg",
+       "alt": "801b36cc78b0250275094a5257381566521c34d1a2e1e99f34a6799d57a80a31.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185656317-36JBRXJX4RI2CTSNSHPQ_0313363952327fe1734339b9c78bf2873655287fb4bab5ffae25602fd40dbd63.jpg",
+       "alt": "0313363952327fe1734339b9c78bf2873655287fb4bab5ffae25602fd40dbd63.jpg",
+       "width": 1024,
+       "height": 1024
+      }
+     ],
+     "perRow": 4,
+     "square": true,
+     "padding": 20
+    },
+    {
+     "type": "image",
+     "src": "assets/7eb3af1b-86bb-4d43-b7b1-697629ea08d9_Eden-va2rosa-sculpture_floating_through_comet_asteroid__Ersnt_Haeckel_painting-65c1d3930335fa57d2df29a4.jpg",
+     "alt": "",
+     "width": 1920,
+     "height": 1080,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": null,
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": null,
+     "mask": null
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "paragraph",
+       "html": "To achieve this aesthetics the LORA concept was applied to initial images generated with Midjourney.",
+       "align": null,
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/1742c55c-3df9-49de-ba5c-e71ae1e41f8d_HI-type.jpg",
+         "alt": "",
+         "width": 1000,
+         "height": 1206,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 117.6,
+         "mask": null
+        },
+        {
+         "type": "spacer",
+         "ar": 15.134
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "images": [
+      {
+       "src": "assets/1714185356305-G82LYLBPB5Y7CHBPU7KM_Eden-va2rosa-a_fantastical_structure_of_bioluminescent_mushrooms_in_an_asteroid__-65b01fd9c7e9dd341f417486.jpg",
+       "alt": "Eden-va2rosa-a fantastical structure of bioluminescent mushrooms in an asteroid_ -65b01fd9c7e9dd341f417486.jpg",
+       "width": 856,
+       "height": 1224
+      },
+      {
+       "src": "assets/1714185357261-JAFKU70FRRRK7OJVVOHS_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1f936c7e9dd341f46a9c8.jpg",
+       "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1f936c7e9dd341f46a9c8.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185358185-XF1FXA39DYNJUY8YI67D_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1fa80c7e9dd341f477bd7.jpg",
+       "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1fa80c7e9dd341f477bd7.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185358990-F6FKE2ZXEV7VOL0PNQY8_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1fac1c7e9dd341f47d37b.jpg",
+       "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1fac1c7e9dd341f47d37b.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185360098-RRD3S4R4RQD3T3X5IJ4D_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1fac1c7e9dd341f47d37c.jpg",
+       "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1fac1c7e9dd341f47d37c.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185361016-YPKROTF2FFHZAZQNVI8W_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65b1fac1c7e9dd341f47d37e.jpg",
+       "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65b1fac1c7e9dd341f47d37e.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185361671-4ANVKQL0O7C4P46R8RGI_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1bf550335fa57d2d46476.jpg",
+       "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65c1bf550335fa57d2d46476.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185362383-V52DWCS926HEW51IRXCK_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1bff30335fa57d2d4ebf3.jpg",
+       "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65c1bff30335fa57d2d4ebf3.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185367257-PB9D6EORYZEQPLQCR9XK_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1bff30335fa57d2d4ebf4.jpg",
+       "alt": "Eden-va2rosa-action movie film still, sculpture and alien lifeforms-65c1bff30335fa57d2d4ebf4.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185368074-XI6C1CQC9EVSR60XJNQQ_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1bff30335fa57d2d4ebf5.jpg",
+       "alt": "Eden-va2rosa-action movie film still, sculpture and alien lifeforms-65c1bff30335fa57d2d4ebf5.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185393056-ZI9BOCV314NYQX97MNBY_ea6002443992cbf6581e619a2b4415d90ea1a2fc6ee4171573049e94e1e8f119.jpg",
+       "alt": "ea6002443992cbf6581e619a2b4415d90ea1a2fc6ee4171573049e94e1e8f119.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185364362-GQDD5GWM1M0ET7MD9QKY_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1ca4e0335fa57d2d9593a.jpg",
+       "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65c1ca4e0335fa57d2d9593a.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185365401-GGO6GNY755OPHFV6OPKP_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1975e0335fa57d2bf94a5.jpg",
+       "alt": "Eden-va2rosa-action movie film still_ sculpture and alien lifeforms-65c1975e0335fa57d2bf94a5.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185368649-OOJTQGMDSB48M2C7W6DV_Eden-va2rosa-action_movie_film_still__sculpture_and_alien_lifeforms-65c1c2ac0335fa57d2d6751a.jpg",
+       "alt": "Eden-va2rosa-action movie film still, sculpture and alien lifeforms-65c1c2ac0335fa57d2d6751a.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185369498-LS2CEB7T9LA2Z1JQHE46_Eden-va2rosa-drama_movie_film_still__sculpture_and_alien_lifeforms-65b87a0c04b9e394b0451b4c.jpg",
+       "alt": "Eden-va2rosa-drama movie film still_ sculpture and alien lifeforms-65b87a0c04b9e394b0451b4c.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185370532-KGLMSBRSFN3DOOQXNS4K_Eden-va2rosa-drama_movie_film_still__sculpture_and_alien_lifeforms-65b87a0c04b9e394b0451b4e.jpg",
+       "alt": "Eden-va2rosa-drama movie film still_ sculpture and alien lifeforms-65b87a0c04b9e394b0451b4e.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185371413-HCE22MP2G1PT83A45R88_Eden-va2rosa-drama_movie_film_still__sculpture_and_alien_lifeforms-65b87cf004b9e394b047f37e.jpg",
+       "alt": "Eden-va2rosa-drama movie film still_ sculpture and alien lifeforms-65b87cf004b9e394b047f37e.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185372226-DS3QKD3F8DTPP2ZQMCJU_Eden-va2rosa-horror_movie_film_still__sculpture_and_alien_lifeforms-65b1f884c7e9dd341f464bde.jpg",
+       "alt": "Eden-va2rosa-horror movie film still_ sculpture and alien lifeforms-65b1f884c7e9dd341f464bde.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185373345-MK0W6942W1IRUG80QKUG_Eden-va2rosa-horror_mystery_film_still__sculpture_and_alien_lifeforms-65c179ae0335fa57d2ae84a5.jpg",
+       "alt": "Eden-va2rosa-horror mystery film still_ sculpture and alien lifeforms-65c179ae0335fa57d2ae84a5.jpg",
+       "width": 832,
+       "height": 1264
+      },
+      {
+       "src": "assets/1714185375267-3E1BZ63UFOH794RQ5M36_Eden-va2rosa-mystery_movie_film_still__sculpture_and_alien_lifeforms-65b85ff604b9e394b0260ee8.jpg",
+       "alt": "Eden-va2rosa-mystery movie film still_ sculpture and alien lifeforms-65b85ff604b9e394b0260ee8.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185379985-SNO1CXD77OSHKNWHE5TV_Eden-va2rosa-mystery_movie_film_still__sculpture_and_alien_lifeforms-65b85ff604b9e394b0260eeb.jpg",
+       "alt": "Eden-va2rosa-mystery movie film still_ sculpture and alien lifeforms-65b85ff604b9e394b0260eeb.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185380848-ZMLRF2U6SBS8RZM2MJB0_Eden-va2rosa-scientific_drawing_of_alien_lifeform-65b020bcc7e9dd341f425d50.jpg",
+       "alt": "Eden-va2rosa-scientific drawing of alien lifeform-65b020bcc7e9dd341f425d50.jpg",
+       "width": 856,
+       "height": 1224
+      },
+      {
+       "src": "assets/1714185384081-JGJV7ZA30XGKEGN3YRHS_Eden-va2rosa-scientific_drawing_of_alien_lifeform-65b02194c7e9dd341f4370b6.jpg",
+       "alt": "Eden-va2rosa-scientific drawing of alien lifeform-65b02194c7e9dd341f4370b6.jpg",
+       "width": 856,
+       "height": 1224
+      },
+      {
+       "src": "assets/1714185384891-84M5WMOG4W30T5I6CXSX_0f3ddbb403568e94426854d75a425ba6fff8d48db532f62cc0c44be8b30e19a4.jpg",
+       "alt": "0f3ddbb403568e94426854d75a425ba6fff8d48db532f62cc0c44be8b30e19a4.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185388288-G6QNHA5GTB9K4JU18MPN_69b2bf8c577cb76f0a8c59f3c661f0f36152a10a2cea04788088422ea80cc913.jpg",
+       "alt": "69b2bf8c577cb76f0a8c59f3c661f0f36152a10a2cea04788088422ea80cc913.jpg",
+       "width": 1920,
+       "height": 1080
+      },
+      {
+       "src": "assets/1714185389064-77ZBP4UNYNS02S00QW8O_2711cf10439c3ddd891ffc55094076cf546657916b62c262429a4c7a0a2e332b.jpg",
+       "alt": "2711cf10439c3ddd891ffc55094076cf546657916b62c262429a4c7a0a2e332b.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714185390503-5IR382WAXOXK4WYMCASJ_ad078fd525efa151c07e9f30801ff068d4ffdde77863b883adb8e78165273079.jpg",
+       "alt": "ad078fd525efa151c07e9f30801ff068d4ffdde77863b883adb8e78165273079.jpg",
+       "width": 1024,
+       "height": 1024
+      }
+     ],
+     "perRow": 4,
+     "square": true,
+     "padding": 20
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "For the Imaginarium generations, a collection of historical paintings were used as initial images. Among others: Ernst Haeckel, the Voynich Manuscript, the Ripley Scroll, Public Domain Review scientific illustration collections, Midjourney and Eden generations.",
+           "align": null,
+           "size": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "button",
+     "text": "Talk to Mycos on Eden",
+     "href": "https://beta.eden.art/agents/mycos",
+     "size": "medium",
+     "align": "center",
+     "external": true
+    },
+    {
+     "type": "button",
+     "text": "Little Martians characters",
+     "href": "/talk-to-a-little-martian",
+     "size": "medium",
+     "align": "center",
+     "external": false
+    },
+    {
+     "type": "spacer",
+     "ar": 0,
+     "placeholder": true
     }
-  ]
+   ]
+  }
+ ]
 }

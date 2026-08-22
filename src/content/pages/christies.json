@@ -1,218 +1,283 @@
 {
-  "slug": "christies",
-  "title": "Christie's — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "christies",
+ "title": "Christie's — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "row",
+     "cols": [
+      {
+       "span": 1,
+       "content": [
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 1,
-              "content": []
-            },
-            {
-              "span": 10,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 1,
-                  "html": "Christie’s (2025)",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Verdelia, Little Martian, at Christie’s ‘Augmented Intelligence’</strong> - 20th February to March 5th at the Rockefeller Center, NYC.",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "https://onlineonly.christies.com/s/augmented-intelligence/lots/3837",
-                  "external": true
-                },
-                {
-                  "type": "image",
-                  "src": "assets/bda68ea7-b76e-42e9-8493-27123d4b3e64_IMG_1133.jpg",
-                  "alt": "",
-                  "width": 3024,
-                  "height": 3024,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Augmented Intelligence is a groundbreaking auction highlighting the breadth and quality of AI Art. The sale includes remarkable works from some of the most innovative minds — from early AI pioneers of the 1960s such as Harold Cohen to contemporary artists such as <a href=\"https://www.christies.com/en/artists/refik-anadol?lotavailability=All&amp;sortby=relevance\" target=\"_blank\" rel=\"noopener\"><span><strong>Refik Anadol</strong></span></a>, Pindar Van Arman, Holly Herdnon &amp; Mat Dryhusrt, Alexander Reben, Claire Silver, Sasha Stiles, Vanessa Rosa and more.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The auction redefines the evolution of art and technology, exploring human agency in the age of AI within fine art. From robotics to GANs to interactive experiences, artists incorporate and collaborate with artificial intelligence in a variety of mediums including paintings, sculptures, prints, digital art and more. Collectors will have the opportunity to experience a truly captivating exhibition at Rockefeller Center for the duration of the online sale, 20 February – 5 March.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Show documentation",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/5w1JrowPvjo?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "Little Martians at Christie&#39;s &#39;Augmented Intelligence&#39;",
-                  "caption": "",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "gallery",
-                  "images": [
-                    {
-                      "src": "assets/1750621601111-FALZ00EQQ5AHTNMOTJTX_IMG_1036.jpg",
-                      "alt": "IMG_1036.jpg",
-                      "width": 2977,
-                      "height": 2977
-                    },
-                    {
-                      "src": "assets/1750621601072-LBWM38N66R1WA9FU2WQI_IMG_1038.jpg",
-                      "alt": "IMG_1038.jpg",
-                      "width": 2980,
-                      "height": 2980
-                    },
-                    {
-                      "src": "assets/1750621639508-D6C7YJVFSA408AYGUXY9_IMG_1127.jpg",
-                      "alt": "IMG_1127.jpg",
-                      "width": 4284,
-                      "height": 5712
-                    },
-                    {
-                      "src": "assets/1750621618612-GY8G8HLF3OT9T8SKKS95_IMG_1145.jpg",
-                      "alt": "IMG_1145.jpg",
-                      "width": 2939,
-                      "height": 2939
-                    },
-                    {
-                      "src": "assets/1750621650120-8ZTQEROQML60CODXKTVM_IMG_1203.jpg",
-                      "alt": "IMG_1203.jpg",
-                      "width": 4242,
-                      "height": 4242
-                    },
-                    {
-                      "src": "assets/1750621697678-BM9EBJLLCCBRUY0P4NQG_Verdelia1.png",
-                      "alt": "Verdelia1.png",
-                      "width": 2923,
-                      "height": 3648
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Little Martians &amp; Abraham - short film",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/yWZLU5njSbk?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "Little Martians & Abraham",
-                  "caption": "",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Press about the show featuring Little Martians",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "International",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://www.euronews.com/video/2025/02/22/christies-ai-art-auction-sparks-controversy-amid-artist-protests\" target=\"_blank\" rel=\"noopener\">Euronews - <strong>Christie’s AI art auction sparks controversy </strong></a><strong>- </strong>22/02/2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://www.leparisien.fr/high-tech/du-vol-une-premiere-vente-doeuvres-creees-avec-lintelligence-artificielle-chez-christies-tres-critiquee-21-02-2025-YGNAPQHZ4BHZBLGBPW5D7YKV64.php\" target=\"_blank\" rel=\"noopener\">Le Parisien - <strong>«&nbsp;Du vol&nbsp;»&nbsp;: une première vente d’œuvres créées avec l’intelligence artificielle chez Christie’s très critiquée</strong></a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://theconversation.com/creative-progress-or-mass-theft-why-a-major-ai-art-auction-is-provoking-wonder-and-outrage-250157\" target=\"_blank\" rel=\"noopener\">The conversation - <strong>Creative progress or mass theft? Why a major AI art auction is provoking wonder – and&nbsp;outrage</strong></a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Brazil<br>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://veja.abril.com.br/coluna/veja-gente/artista-brasileira-inova-com-obra-de-ia-em-leilao-de-nova-york/\" target=\"_blank\" rel=\"noopener\">Veja - Artista brasileira inova com obra de IA em leilão de Nova York - 22 fev 2025</a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://epocanegocios.globo.com/inteligencia-artificial/noticia/2025/02/artista-brasileira-vanessa-rosa-participa-de-primeiro-leilao-da-christies-dedicado-a-arte-feita-com-ia.ghtml\" target=\"_blank\" rel=\"noopener\">Época - <strong>Artista brasileira Vanessa Rosa participa de primeiro leilão da Christie’s dedicado à arte feita com IA</strong></a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://www.portaltela.com/entretenimento/arte/2025/02/22/artista-brasileira-brilha-em-leilao-da-christies-com-obra-inovadora-de-inteligencia-artificial\" target=\"_blank\" rel=\"noopener\">Portal Tela - Artista brasileira brilha em leilão da Christie’s com obra inovadora de inteligência artificial</a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "divider"
-                }
-              ]
-            },
-            {
-              "span": 1,
-              "content": []
-            }
-          ]
+         "type": "spacer",
+         "ar": 0
         }
-      ]
+       ]
+      },
+      {
+       "span": 10,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 1,
+           "html": "Christie’s (2025)",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "<strong>Verdelia, Little Martian, at Christie’s ‘Augmented Intelligence’</strong> - 20th February to March 5th at the Rockefeller Center, NYC.",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "https://onlineonly.christies.com/s/augmented-intelligence/lots/3837",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "image",
+         "src": "assets/bda68ea7-b76e-42e9-8493-27123d4b3e64_IMG_1133.jpg",
+         "alt": "",
+         "width": 3024,
+         "height": 3024,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "Augmented Intelligence is a groundbreaking auction highlighting the breadth and quality of AI Art. The sale includes remarkable works from some of the most innovative minds — from early AI pioneers of the 1960s such as Harold Cohen to contemporary artists such as <a href=\"https://www.christies.com/en/artists/refik-anadol?lotavailability=All&amp;sortby=relevance\" target=\"_blank\" rel=\"noopener\"><span><strong>Refik Anadol</strong></span></a>, Pindar Van Arman, Holly Herdnon &amp; Mat Dryhusrt, Alexander Reben, Claire Silver, Sasha Stiles, Vanessa Rosa and more.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The auction redefines the evolution of art and technology, exploring human agency in the age of AI within fine art. From robotics to GANs to interactive experiences, artists incorporate and collaborate with artificial intelligence in a variety of mediums including paintings, sculptures, prints, digital art and more. Collectors will have the opportunity to experience a truly captivating exhibition at Rockefeller Center for the duration of the online sale, 20 February – 5 March.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "divider"
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Show documentation",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/5w1JrowPvjo?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "Little Martians at Christie&#39;s &#39;Augmented Intelligence&#39;",
+         "caption": "",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "gallery",
+         "images": [
+          {
+           "src": "assets/1750621601111-FALZ00EQQ5AHTNMOTJTX_IMG_1036.jpg",
+           "alt": "IMG_1036.jpg",
+           "width": 2977,
+           "height": 2977
+          },
+          {
+           "src": "assets/1750621601072-LBWM38N66R1WA9FU2WQI_IMG_1038.jpg",
+           "alt": "IMG_1038.jpg",
+           "width": 2980,
+           "height": 2980
+          },
+          {
+           "src": "assets/1750621639508-D6C7YJVFSA408AYGUXY9_IMG_1127.jpg",
+           "alt": "IMG_1127.jpg",
+           "width": 4284,
+           "height": 5712
+          },
+          {
+           "src": "assets/1750621618612-GY8G8HLF3OT9T8SKKS95_IMG_1145.jpg",
+           "alt": "IMG_1145.jpg",
+           "width": 2939,
+           "height": 2939
+          },
+          {
+           "src": "assets/1750621650120-8ZTQEROQML60CODXKTVM_IMG_1203.jpg",
+           "alt": "IMG_1203.jpg",
+           "width": 4242,
+           "height": 4242
+          },
+          {
+           "src": "assets/1750621697678-BM9EBJLLCCBRUY0P4NQG_Verdelia1.png",
+           "alt": "Verdelia1.png",
+           "width": 2923,
+           "height": 3648
+          }
+         ],
+         "perRow": 4,
+         "square": true,
+         "padding": 20
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Little Martians &amp; Abraham - short film",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/yWZLU5njSbk?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "Little Martians & Abraham",
+         "caption": "",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "divider"
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Press about the show featuring Little Martians",
+           "align": "center",
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "International",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://www.euronews.com/video/2025/02/22/christies-ai-art-auction-sparks-controversy-amid-artist-protests\" target=\"_blank\" rel=\"noopener\">Euronews - <strong>Christie’s AI art auction sparks controversy </strong></a><strong>- </strong>22/02/2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://www.leparisien.fr/high-tech/du-vol-une-premiere-vente-doeuvres-creees-avec-lintelligence-artificielle-chez-christies-tres-critiquee-21-02-2025-YGNAPQHZ4BHZBLGBPW5D7YKV64.php\" target=\"_blank\" rel=\"noopener\">Le Parisien - <strong>«&nbsp;Du vol&nbsp;»&nbsp;: une première vente d’œuvres créées avec l’intelligence artificielle chez Christie’s très critiquée</strong></a>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://theconversation.com/creative-progress-or-mass-theft-why-a-major-ai-art-auction-is-provoking-wonder-and-outrage-250157\" target=\"_blank\" rel=\"noopener\">The conversation - <strong>Creative progress or mass theft? Why a major AI art auction is provoking wonder – and&nbsp;outrage</strong></a>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Brazil",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://veja.abril.com.br/coluna/veja-gente/artista-brasileira-inova-com-obra-de-ia-em-leilao-de-nova-york/\" target=\"_blank\" rel=\"noopener\">Veja - Artista brasileira inova com obra de IA em leilão de Nova York - 22 fev 2025</a>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://epocanegocios.globo.com/inteligencia-artificial/noticia/2025/02/artista-brasileira-vanessa-rosa-participa-de-primeiro-leilao-da-christies-dedicado-a-arte-feita-com-ia.ghtml\" target=\"_blank\" rel=\"noopener\">Época - <strong>Artista brasileira Vanessa Rosa participa de primeiro leilão da Christie’s dedicado à arte feita com IA</strong></a>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://www.portaltela.com/entretenimento/arte/2025/02/22/artista-brasileira-brilha-em-leilao-da-christies-com-obra-inovadora-de-inteligencia-artificial\" target=\"_blank\" rel=\"noopener\">Portal Tela - Artista brasileira brilha em leilão da Christie’s com obra inovadora de inteligência artificial</a>",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "divider"
+        }
+       ]
+      },
+      {
+       "span": 1,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 0
+        }
+       ]
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

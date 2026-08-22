@@ -1,22 +1,37 @@
 {
-  "slug": "location-social-maple",
-  "title": "Location + Social — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "location-social-maple",
+ "title": "Location + Social — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
-        {
-          "type": "paragraph",
-          "html": "<a href=\"https://www.instagram.com/squarespace/?hl=en\" target=\"_blank\" rel=\"noopener\">Instagram</a>&nbsp; / &nbsp;<a href=\"https://www.facebook.com/squarespace/?hc_ref=PAGES_TIMELINE\" target=\"_blank\" rel=\"noopener\">Facebook</a>&nbsp; / &nbsp;<a href=\"https://twitter.com/squarespace?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\" target=\"_blank\" rel=\"noopener\">Twitter</a>",
-          "align": "center",
-          "size": null
-        }
-      ]
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "paragraph",
+       "html": "<a href=\"https://www.instagram.com/squarespace/?hl=en\" target=\"_blank\" rel=\"noopener\">Instagram</a>&nbsp; / &nbsp;<a href=\"https://www.facebook.com/squarespace/?hc_ref=PAGES_TIMELINE\" target=\"_blank\" rel=\"noopener\">Facebook</a>&nbsp; / &nbsp;<a href=\"https://twitter.com/squarespace?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\" target=\"_blank\" rel=\"noopener\">Twitter</a>",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": null
     }
-  ]
+   ]
+  }
+ ]
 }

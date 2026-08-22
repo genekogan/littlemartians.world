@@ -1,157 +1,199 @@
 {
-  "slug": "martianssociety",
-  "title": "Martianssociety — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "martianssociety",
+ "title": "Martianssociety — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/d7e0d373-da1a-466f-9d1b-18f65eb026a1_2021-08-24_16.48.59.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1536,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/78c85de7-3821-4959-9c25-a5dea31e60f3_2021-10-11_21.12.09.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1536,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/b680077b-3679-4311-96a3-7b255b0bbeda_2021-10-11_21.16.21.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1536,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/741daaa4-b635-435c-a853-df5ea6cb53b1_2021-10-11_21.16.13.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1536,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/3fd5b770-3fbb-4b32-99df-57ba09d76e78_2021-10-11_21.25.02.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1536,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/7bf3db26-1de7-405d-86ef-2af84b623744_2021-10-11_21.23.41.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1536,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/b933d887-e592-464b-bb58-7137bb0ab517_2021-10-11_22.26.36.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1536,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "src": "assets/7063f656-436d-45fe-ab4d-037e0e8c7d9e_2021-10-11_22.25.27.jpg",
-          "alt": "",
-          "width": 2048,
-          "height": 1536,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": null
+         "type": "image",
+         "src": "assets/d7e0d373-da1a-466f-9d1b-18f65eb026a1_2021-08-24_16.48.59.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1536,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 74.66442953020133,
+         "mask": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/78c85de7-3821-4959-9c25-a5dea31e60f3_2021-10-11_21.12.09.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1536,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 74.66442953020133,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/b680077b-3679-4311-96a3-7b255b0bbeda_2021-10-11_21.16.21.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1536,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/741daaa4-b635-435c-a853-df5ea6cb53b1_2021-10-11_21.16.13.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1536,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        },
+        {
+         "type": "image",
+         "src": "assets/3fd5b770-3fbb-4b32-99df-57ba09d76e78_2021-10-11_21.25.02.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1536,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/7bf3db26-1de7-405d-86ef-2af84b623744_2021-10-11_21.23.41.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1536,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/b933d887-e592-464b-bb58-7137bb0ab517_2021-10-11_22.26.36.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1536,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "src": "assets/7063f656-436d-45fe-ab4d-037e0e8c7d9e_2021-10-11_22.25.27.jpg",
+     "alt": "",
+     "width": 2048,
+     "height": 1536,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": null,
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": null,
+     "mask": null
     }
-  ]
+   ]
+  }
+ ]
 }

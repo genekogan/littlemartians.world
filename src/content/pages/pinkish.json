@@ -1,145 +1,182 @@
 {
-  "slug": "pinkish",
-  "title": "Pinkish — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "pinkish",
+ "title": "Pinkish — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/a842ac6f-391d-4f80-afdd-8cbdb68ce3dd_2021-12-02_22.47.51.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/37693fa3-b696-443f-b09b-ad78d123f1a4_2021-12-02_22.46.28.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/04183bbe-d482-47d9-8af0-b76d2f46cca1_2021-12-02_22.58.03.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/ec1894ae-b567-4584-9c26-20f0cd1b70a8_2021-12-02_22.46.32.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/ae30b2cb-3707-4208-9ac3-c7abe8af847b_2021-12-02_22.51.13.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/38ee8acf-0e4a-4f53-a876-bc8ea6f4b6d7_2021-12-02_22.57.45.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/df7887fc-661b-447d-a7a6-1f914742c56c_2021-12-02_22.49.03.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
+         "type": "image",
+         "src": "assets/a842ac6f-391d-4f80-afdd-8cbdb68ce3dd_2021-12-02_22.47.51.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 92.28187919463086,
+         "mask": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/37693fa3-b696-443f-b09b-ad78d123f1a4_2021-12-02_22.46.28.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 92.28187919463086,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/04183bbe-d482-47d9-8af0-b76d2f46cca1_2021-12-02_22.58.03.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100.24844720496895,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/ec1894ae-b567-4584-9c26-20f0cd1b70a8_2021-12-02_22.46.32.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 103.10880829015545,
+         "mask": null
+        },
+        {
+         "type": "image",
+         "src": "assets/ae30b2cb-3707-4208-9ac3-c7abe8af847b_2021-12-02_22.51.13.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 97.66839378238342,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/38ee8acf-0e4a-4f53-a876-bc8ea6f4b6d7_2021-12-02_22.57.45.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 99.32885906040269,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/df7887fc-661b-447d-a7a6-1f914742c56c_2021-12-02_22.49.03.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 99.16107382550335,
+         "mask": null
+        }
+       ]
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

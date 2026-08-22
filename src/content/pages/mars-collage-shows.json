@@ -1,391 +1,509 @@
 {
-  "slug": "mars-collage-shows",
-  "title": "Mars Collage Shows — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "mars-collage-shows",
+ "title": "Mars Collage Shows — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "row",
+     "cols": [
+      {
+       "span": 1,
+       "content": [
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 1,
-              "content": []
-            },
-            {
-              "span": 10,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 1,
-                  "html": "Art Shows",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "A selection of art shows Little Martians have participated.",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Christie’s (2025)",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Verdelia, Little Martian, at Christie’s ‘Augmented Intelligence’</strong> - 20th February to March 5th at the Rockefeller Center, NYC.",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "#",
-                  "external": false
-                },
-                {
-                  "type": "image",
-                  "src": "assets/bda68ea7-b76e-42e9-8493-27123d4b3e64_IMG_1133.jpg",
-                  "alt": "",
-                  "width": 3024,
-                  "height": 3024,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Immersive Exhibitions at Fundação Bienal São Paulo (2024 &amp; 2025)",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "#",
-                  "external": false
-                },
-                {
-                  "type": "image",
-                  "src": "assets/4faa7b69-ae33-4706-9630-c82cc7d302a8_243675b5-3bce-434c-8c0a-a435d4115dc1.JPG",
-                  "alt": "",
-                  "width": 1280,
-                  "height": 720,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Foresight Institute Vision Weekend | Schloss Bückeburg (2024)",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "#",
-                  "external": false
-                },
-                {
-                  "type": "image",
-                  "src": "assets/104ff075-d0ee-4a7d-a617-430817b1dd6c_IMG_8152.jpg",
-                  "alt": "",
-                  "width": 1414,
-                  "height": 942,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Metaverse Shows on Arium (2022&amp;2023)",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "#",
-                  "external": false
-                },
-                {
-                  "type": "row",
-                  "cols": [
-                    {
-                      "span": 5,
-                      "content": [
-                        {
-                          "type": "image",
-                          "src": "assets/f8189e46-d18b-4a6d-9c09-154d01dbb4b4_arium-screenshot-littlemartians-5ngj.jpg",
-                          "alt": "",
-                          "width": 1888,
-                          "height": 889,
-                          "caption": "Little Martians Metaverse 1 - Part of Untitled Frontier Logged Universe Collection",
-                          "title": null,
-                          "subtitle": null,
-                          "button": null,
-                          "link": "https://arium.xyz/spaces/littlemartians"
-                        }
-                      ]
-                    },
-                    {
-                      "span": 5,
-                      "content": [
-                        {
-                          "type": "image",
-                          "src": "assets/616fd2b5-3269-4e8e-9176-0875a48553e3_arium-screenshot-peqmarcianos-dyoi.jpg",
-                          "alt": "",
-                          "width": 3456,
-                          "height": 1716,
-                          "caption": "Little Martians Metaverse 2 - part of Pupila Dilatada 3",
-                          "title": null,
-                          "subtitle": null,
-                          "button": null,
-                          "link": null
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Bombay Beach Biennale 2024",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "#",
-                  "external": false
-                },
-                {
-                  "type": "gallery",
-                  "images": [
-                    {
-                      "src": "assets/1714426618069-PBDWS81914QCM2GDOOFP_IMG_7404-2.jpg",
-                      "alt": "IMG_7404-2.jpg",
-                      "width": 4032,
-                      "height": 3024
-                    },
-                    {
-                      "src": "assets/1714426618069-JEX8B8RBZSY6R30VZJFO_IMG_7382.jpg",
-                      "alt": "IMG_7382.jpg",
-                      "width": 2809,
-                      "height": 3392
-                    },
-                    {
-                      "src": "assets/1714426622962-VZEF9ZJF7FBEKU3W8LML_IMG_7407-2.jpg",
-                      "alt": "IMG_7407-2.jpg",
-                      "width": 3798,
-                      "height": 2848
-                    },
-                    {
-                      "src": "assets/1714426623236-N3MYK6VT3GH4SGC61NTQ_IMG_7408-2.jpg",
-                      "alt": "IMG_7408-2.jpg",
-                      "width": 2415,
-                      "height": 2797
-                    },
-                    {
-                      "src": "assets/1714426625243-UWL2W0BM9YIH95YWEWZX_IMG_7434.jpg",
-                      "alt": "IMG_7434.jpg",
-                      "width": 1807,
-                      "height": 2918
-                    },
-                    {
-                      "src": "assets/1714426628982-HUNDQULFEOVW1JY7Y86C_IMG_7470.jpg",
-                      "alt": "IMG_7470.jpg",
-                      "width": 2817,
-                      "height": 3747
-                    },
-                    {
-                      "src": "assets/1714426631026-TV0N7WIC8AZWOOXN5J0Y_IMG_7505.jpg",
-                      "alt": "IMG_7505.jpg",
-                      "width": 2863,
-                      "height": 3676
-                    },
-                    {
-                      "src": "assets/1714426637251-NXCNJXPYYMT2YTBD3URC_IMG_7490.jpg",
-                      "alt": "IMG_7490.jpg",
-                      "width": 2974,
-                      "height": 3965
-                    },
-                    {
-                      "src": "assets/1714426638135-YTJY5P5CAXS2HXDKFJTL_IMG_7492.jpg",
-                      "alt": "IMG_7492.jpg",
-                      "width": 2684,
-                      "height": 3823
-                    },
-                    {
-                      "src": "assets/1714426642888-WHTIMGEM08GFIMIT454Z_IMG_7407.jpg",
-                      "alt": "IMG_7407.jpg",
-                      "width": 2048,
-                      "height": 1536
-                    },
-                    {
-                      "src": "assets/1714426646213-SY61PSUWOIMW6H3DTZ65_IMG_7408.jpg",
-                      "alt": "IMG_7408.jpg",
-                      "width": 1768,
-                      "height": 2048
-                    }
-                  ]
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Re:Gen:Cy 2023",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "#",
-                  "external": false
-                },
-                {
-                  "type": "gallery",
-                  "images": [
-                    {
-                      "src": "assets/1714426960989-Y8R0175U0AE02VDIMQ71_regency_july_littlemartians1.jpg",
-                      "alt": "regency_july_littlemartians1.jpg",
-                      "width": 2764,
-                      "height": 3685
-                    },
-                    {
-                      "src": "assets/1714426960289-JVH8DB0HQJ43HDWG9ZAE_regency_july_littlemartians0.jpg",
-                      "alt": "regency_july_littlemartians0.jpg",
-                      "width": 2770,
-                      "height": 3661
-                    },
-                    {
-                      "src": "assets/1714426972133-CWXU2Q5FQTNBKRUJ05GZ_regency_july_littlemartians2.jpg",
-                      "alt": "regency_july_littlemartians2.jpg",
-                      "width": 3024,
-                      "height": 4032
-                    },
-                    {
-                      "src": "assets/1714426968331-27U2IB9F2BJ4RFWEZ98R_regency_july_littlemartians3.jpg",
-                      "alt": "regency_july_littlemartians3.jpg",
-                      "width": 3434,
-                      "height": 1918
-                    }
-                  ]
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Gray Area 2022",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "#",
-                  "external": false
-                },
-                {
-                  "type": "gallery",
-                  "images": [
-                    {
-                      "src": "assets/1714427048969-9KNPNR9GB578OFABZBOS_PXL_20221203_034408653.jpg",
-                      "alt": "PXL_20221203_034408653.jpg",
-                      "width": 3840,
-                      "height": 2160
-                    },
-                    {
-                      "src": "assets/1714427065274-WL0LHHR9B0NPHA6669ZZ_PXL_20221203_035348428.jpg",
-                      "alt": "PXL_20221203_035348428.jpg",
-                      "width": 3840,
-                      "height": 2160
-                    },
-                    {
-                      "src": "assets/1714427331384-B6LX68MFLVDOCQWLDQ3E_PXL_20221203_040228424.jpg",
-                      "alt": "PXL_20221203_040228424.jpg",
-                      "width": 3840,
-                      "height": 2160
-                    },
-                    {
-                      "src": "assets/1714427340506-YK9NV3NY1H815ZBNM9Y1_Photo_Dec_02_2022__8_19_48_PM.jpg",
-                      "alt": "Photo Dec 02 2022, 8 19 48 PM.jpg",
-                      "width": 4032,
-                      "height": 3024
-                    },
-                    {
-                      "src": "assets/1714427400236-H2KG297W93XFBZ7ZPQUH_PXL_20221203_044855796.jpg",
-                      "alt": "PXL_20221203_044855796.jpg",
-                      "width": 3840,
-                      "height": 2160
-                    },
-                    {
-                      "src": "assets/1714427349405-936VGWAH1B9QGLEJ9MSZ_Photo_Dec_02_2022__8_14_13_PM.jpg",
-                      "alt": "Photo Dec 02 2022, 8 14 13 PM.jpg",
-                      "width": 4032,
-                      "height": 3024
-                    }
-                  ]
-                },
-                {
-                  "type": "divider"
-                }
-              ]
-            },
-            {
-              "span": 1,
-              "content": []
-            }
-          ]
+         "type": "spacer",
+         "ar": 0
+        }
+       ]
+      },
+      {
+       "span": 10,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 1,
+           "html": "Art Shows",
+           "align": "center",
+           "size": null
+          }
+         ]
         },
         {
-          "type": "heading",
-          "level": 2,
-          "html": "Mars College 2022-2025",
-          "align": "center",
-          "size": null
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "A selection of art shows Little Martians have participated.",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "divider"
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Christie’s (2025)",
+           "align": "center",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Verdelia, Little Martian, at Christie’s ‘Augmented Intelligence’</strong> - 20th February to March 5th at the Rockefeller Center, NYC.",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "#",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "image",
+         "src": "assets/bda68ea7-b76e-42e9-8493-27123d4b3e64_IMG_1133.jpg",
+         "alt": "",
+         "width": 3024,
+         "height": 3024,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "divider"
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Immersive Exhibitions at Fundação Bienal São Paulo (2024 &amp; 2025)",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "#",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "image",
+         "src": "assets/4faa7b69-ae33-4706-9630-c82cc7d302a8_243675b5-3bce-434c-8c0a-a435d4115dc1.JPG",
+         "alt": "",
+         "width": 1280,
+         "height": 720,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "divider"
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Foresight Institute Vision Weekend | Schloss Bückeburg (2024)",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "#",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "image",
+         "src": "assets/104ff075-d0ee-4a7d-a617-430817b1dd6c_IMG_8152.jpg",
+         "alt": "",
+         "width": 1414,
+         "height": 942,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "divider"
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Metaverse Shows on Arium (2022&amp;2023)",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "#",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "row",
+         "cols": [
+          {
+           "span": 5,
+           "content": [
+            {
+             "type": "image",
+             "src": "assets/f8189e46-d18b-4a6d-9c09-154d01dbb4b4_arium-screenshot-littlemartians-5ngj.jpg",
+             "alt": "",
+             "width": 1888,
+             "height": 889,
+             "caption": "Little Martians Metaverse 1 - Part of Untitled Frontier Logged Universe Collection",
+             "title": null,
+             "subtitle": null,
+             "button": null,
+             "link": "https://arium.xyz/spaces/littlemartians",
+             "layout": "inline",
+             "position": "left",
+             "description": null,
+             "aspect": null,
+             "mask": null
+            }
+           ]
+          },
+          {
+           "span": 5,
+           "content": [
+            {
+             "type": "image",
+             "src": "assets/616fd2b5-3269-4e8e-9176-0875a48553e3_arium-screenshot-peqmarcianos-dyoi.jpg",
+             "alt": "",
+             "width": 3456,
+             "height": 1716,
+             "caption": "Little Martians Metaverse 2 - part of Pupila Dilatada 3",
+             "title": null,
+             "subtitle": null,
+             "button": null,
+             "link": null,
+             "layout": "inline",
+             "position": "left",
+             "description": null,
+             "aspect": null,
+             "mask": null
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "divider"
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Bombay Beach Biennale 2024",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "#",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "gallery",
+         "images": [
+          {
+           "src": "assets/1714426618069-PBDWS81914QCM2GDOOFP_IMG_7404-2.jpg",
+           "alt": "IMG_7404-2.jpg",
+           "width": 4032,
+           "height": 3024
+          },
+          {
+           "src": "assets/1714426618069-JEX8B8RBZSY6R30VZJFO_IMG_7382.jpg",
+           "alt": "IMG_7382.jpg",
+           "width": 2809,
+           "height": 3392
+          },
+          {
+           "src": "assets/1714426622962-VZEF9ZJF7FBEKU3W8LML_IMG_7407-2.jpg",
+           "alt": "IMG_7407-2.jpg",
+           "width": 3798,
+           "height": 2848
+          },
+          {
+           "src": "assets/1714426623236-N3MYK6VT3GH4SGC61NTQ_IMG_7408-2.jpg",
+           "alt": "IMG_7408-2.jpg",
+           "width": 2415,
+           "height": 2797
+          },
+          {
+           "src": "assets/1714426625243-UWL2W0BM9YIH95YWEWZX_IMG_7434.jpg",
+           "alt": "IMG_7434.jpg",
+           "width": 1807,
+           "height": 2918
+          },
+          {
+           "src": "assets/1714426628982-HUNDQULFEOVW1JY7Y86C_IMG_7470.jpg",
+           "alt": "IMG_7470.jpg",
+           "width": 2817,
+           "height": 3747
+          },
+          {
+           "src": "assets/1714426631026-TV0N7WIC8AZWOOXN5J0Y_IMG_7505.jpg",
+           "alt": "IMG_7505.jpg",
+           "width": 2863,
+           "height": 3676
+          },
+          {
+           "src": "assets/1714426637251-NXCNJXPYYMT2YTBD3URC_IMG_7490.jpg",
+           "alt": "IMG_7490.jpg",
+           "width": 2974,
+           "height": 3965
+          },
+          {
+           "src": "assets/1714426638135-YTJY5P5CAXS2HXDKFJTL_IMG_7492.jpg",
+           "alt": "IMG_7492.jpg",
+           "width": 2684,
+           "height": 3823
+          },
+          {
+           "src": "assets/1714426642888-WHTIMGEM08GFIMIT454Z_IMG_7407.jpg",
+           "alt": "IMG_7407.jpg",
+           "width": 2048,
+           "height": 1536
+          },
+          {
+           "src": "assets/1714426646213-SY61PSUWOIMW6H3DTZ65_IMG_7408.jpg",
+           "alt": "IMG_7408.jpg",
+           "width": 1768,
+           "height": 2048
+          }
+         ],
+         "perRow": 4,
+         "square": true,
+         "padding": 20
+        },
+        {
+         "type": "divider"
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Re:Gen:Cy 2023",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "#",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "gallery",
+         "images": [
+          {
+           "src": "assets/1714426960989-Y8R0175U0AE02VDIMQ71_regency_july_littlemartians1.jpg",
+           "alt": "regency_july_littlemartians1.jpg",
+           "width": 2764,
+           "height": 3685
+          },
+          {
+           "src": "assets/1714426960289-JVH8DB0HQJ43HDWG9ZAE_regency_july_littlemartians0.jpg",
+           "alt": "regency_july_littlemartians0.jpg",
+           "width": 2770,
+           "height": 3661
+          },
+          {
+           "src": "assets/1714426972133-CWXU2Q5FQTNBKRUJ05GZ_regency_july_littlemartians2.jpg",
+           "alt": "regency_july_littlemartians2.jpg",
+           "width": 3024,
+           "height": 4032
+          },
+          {
+           "src": "assets/1714426968331-27U2IB9F2BJ4RFWEZ98R_regency_july_littlemartians3.jpg",
+           "alt": "regency_july_littlemartians3.jpg",
+           "width": 3434,
+           "height": 1918
+          }
+         ],
+         "perRow": 4,
+         "square": true,
+         "padding": 20
+        },
+        {
+         "type": "divider"
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Gray Area 2022",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "#",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "gallery",
+         "images": [
+          {
+           "src": "assets/1714427048969-9KNPNR9GB578OFABZBOS_PXL_20221203_034408653.jpg",
+           "alt": "PXL_20221203_034408653.jpg",
+           "width": 3840,
+           "height": 2160
+          },
+          {
+           "src": "assets/1714427065274-WL0LHHR9B0NPHA6669ZZ_PXL_20221203_035348428.jpg",
+           "alt": "PXL_20221203_035348428.jpg",
+           "width": 3840,
+           "height": 2160
+          },
+          {
+           "src": "assets/1714427331384-B6LX68MFLVDOCQWLDQ3E_PXL_20221203_040228424.jpg",
+           "alt": "PXL_20221203_040228424.jpg",
+           "width": 3840,
+           "height": 2160
+          },
+          {
+           "src": "assets/1714427340506-YK9NV3NY1H815ZBNM9Y1_Photo_Dec_02_2022__8_19_48_PM.jpg",
+           "alt": "Photo Dec 02 2022, 8 19 48 PM.jpg",
+           "width": 4032,
+           "height": 3024
+          },
+          {
+           "src": "assets/1714427400236-H2KG297W93XFBZ7ZPQUH_PXL_20221203_044855796.jpg",
+           "alt": "PXL_20221203_044855796.jpg",
+           "width": 3840,
+           "height": 2160
+          },
+          {
+           "src": "assets/1714427349405-936VGWAH1B9QGLEJ9MSZ_Photo_Dec_02_2022__8_14_13_PM.jpg",
+           "alt": "Photo Dec 02 2022, 8 14 13 PM.jpg",
+           "width": 4032,
+           "height": 3024
+          }
+         ],
+         "perRow": 4,
+         "square": true,
+         "padding": 20
+        },
+        {
+         "type": "divider"
         }
-      ]
+       ]
+      },
+      {
+       "span": 1,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 2,
+       "html": "Mars College 2022-2025",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": null
     }
-  ]
+   ]
+  }
+ ]
 }

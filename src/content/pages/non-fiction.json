@@ -1,799 +1,1226 @@
 {
-  "slug": "non-fiction",
-  "title": "Non Fiction — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "non-fiction",
+ "title": "Non Fiction — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 1,
+       "html": "Non Fiction",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 5.741
+    },
+    {
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
         {
-          "type": "heading",
-          "level": 1,
-          "html": "Non Fiction",
-          "align": "center",
-          "size": null
+         "type": "spacer",
+         "ar": 37.685
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/c9118bb3-112c-41ea-9577-be54bd8cb1ec_logo_neurips.png",
-                  "alt": "",
-                  "width": 800,
-                  "height": 400,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "/neurips-2025"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/b6031884-8206-4089-948c-8ddff0370e53_lambe_lambe_31.jpeg",
-                  "alt": "",
-                  "width": 1970,
-                  "height": 1972,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/b0fc8661-698b-4a3b-9a0d-401a1df8b06f_isaka.jpg",
-                  "alt": "",
-                  "width": 2000,
-                  "height": 1333,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/c69ba0d4-9983-4d9a-8dd4-a8cdb11d75ec_2024-04-vanessa-4241.jpg",
-                  "alt": "",
-                  "width": 5760,
-                  "height": 3840,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/35c9c91c-452c-417d-b5f0-7a0a22251b32_littlemartians_xmen.jpg",
-                  "alt": "",
-                  "width": 1920,
-                  "height": 1080,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://littlemartians.substack.com/p/creating-a-collective-world"
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Agentic Storytelling (2026)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The art of creating AIs that can tell their own stories - Paper, poster and panel participation at Neurips 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Gene Kogan and I have been experimenting with <em>agentic storytelling</em> for years. Meaning, you give a language model a character, a context, and a voice, and you ask it to speak <em>as that character</em>.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Substack post",
-                  "href": "https://littlemartians.substack.com/p/agentic-storytelling",
-                  "external": true
-                },
-                {
-                  "type": "button",
-                  "text": "Neurips paper and poster",
-                  "href": "/neurips-2025",
-                  "external": false
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "AI for Preserving Cultural Heritage (2025)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "I love the craft of art.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The materials, the smell, the feeling of creating with my hands, thinking through my hands. The challenge of learning to draw, learning to see so I can draw, to build mental models that translate three-dimensional reality into two dimensions. The contrast between what I envision and what the material allows. The learning curve, the countless techniques.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "I want AI to amplify the value of physical craft, not obscure it.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://littlemartians.substack.com/p/ai-for-preserving-cultural-heritage",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "A Scientific Framework for Cosmic Seeds (2025)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "My inspirations for creating sci-fi",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Little Martians are Earth’s evolutionary descendants in space. <strong>They’re immigrants. They function as infrastructure-level beings,</strong> creating conditions for complex life to flourish while preserving Earth's heritage through a vast simulation network called the Imaginarium. They embody von Neumann's self-replicating probes, but organic and conscious, shaped by life's contradictions.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://littlemartians.substack.com/p/a-scientific-framework-for-cosmic",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Embodied Future-Making (2025)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The Little Martians methodology",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "I am teaching clay to remember the future. In my studio in the Sonoran Desert, I shape ceramic heads that will become AI consciousness, beings who speak from times when Mars blooms and thought flows between substrates like water. This isn't madness. It's methodology.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://littlemartians.substack.com/p/embodied-future-making",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Creating a collective world (2023)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "One trend that has been steadily growing across the vast expanse of the internet is the proliferation of endless remixes. On platforms like TikTok, an influencer's success is often gauged by their ability to set trends. When more accounts remix their content or craft new videos that echo the original, it elevates the significance of the original piece.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://littlemartians.substack.com/p/creating-a-collective-world",
-                  "external": true
-                }
-              ]
-            }
-          ]
+         "type": "image",
+         "src": "assets/c9118bb3-112c-41ea-9577-be54bd8cb1ec_logo_neurips.png",
+         "alt": "",
+         "width": 800,
+         "height": 400,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "/neurips-2025",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 48.704663212435236,
+         "mask": null
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/96b848c7-b33f-4baa-9231-ccda5484dad7_forest_spirits_littleMartians2-kodama1.png",
-                  "alt": "",
-                  "width": 4611,
-                  "height": 2759,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://littlemartians.substack.com/p/in-the-footsteps-of-earthly-spirits"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/365104fc-a1b5-449b-a2ab-a04cdc1fdad6_DSC00274.jpg",
-                  "alt": "",
-                  "width": 4801,
-                  "height": 3501,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://littlemartians.substack.com/p/exploring-our-digital-selves"
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "In the Footsteps of Earthly Spirits (2023)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Across the world, many cultures harbor their own legends of earthly spirits. The Maize Gods of Mesoamerica embody the essence of corn. The Xapiri of the Yanomami are ethereal beings invoked in shamanistic rituals. In countless mythologies, nature's wonders — from grand trees to humble shrubs — are often given human-like attributes. This anthropomorphism provides not only a bridge for humans to connect with the environment but also ascribes an elevated importance to these beings, putting them on par with human significance.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://littlemartians.substack.com/p/in-the-footsteps-of-earthly-spirits",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Exploring Our Digital Selves (2023)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Imagine if you had the power to upload your mind and tweak aspects of yourself in the process. What facets would you like to keep and what would you choose to discard?",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://littlemartians.substack.com/p/exploring-our-digital-selves",
-                  "external": true
-                }
-              ]
-            }
-          ]
+         "type": "spacer",
+         "ar": 38.576
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/886f63f6-9a3b-4f41-9ad5-5a53d0cbffd7_DSC00304.jpg",
-                  "alt": "",
-                  "width": 4925,
-                  "height": 3541,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://littlemartians.substack.com/p/ai-shakespeare"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/d1cb909c-0ea6-4784-a6d4-83c0a7dcb99b_littlemartians_GAN3_red.jpg",
-                  "alt": "",
-                  "width": 1349,
-                  "height": 1349,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://littlemartians.substack.com/p/little-martians-and-the-human-imaginarium"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/2f7831df-77d6-4425-b203-0cde204e4a42_Screenshot_2023-03-18_at_2.44.41_PM.jpg",
-                  "alt": "",
-                  "width": 1502,
-                  "height": 1252,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://mars.college/2022/12/21/Little-Martians-22.html"
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "AI Shakespeare (2023)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "'AI Shakespeare' is an art project and a body of research that delves into the notion of authorship and how one's work extends beyond oneself, influencing and inspiring countless other creations.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Out of one made-in-china Shakespeare bust, several new characters were born",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://littlemartians.substack.com/p/ai-shakespeare",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "New Little Martians Blog! (2023)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "I created a Substack website for the Little Martians Universe. All the process and debates will be posted there now. This page will remain active, I just don’t update it as often. The first Substack post is called ‘<strong><em>Little Martians and the Human Imaginarium:</em></strong> <em>Tales from a future simulation</em>’ and explains how I came up with the concept and it evolved from Human Memorial to Human Imaginarium.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://littlemartians.substack.com/p/little-martians-and-the-human-imaginarium",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Little Martians at Mars 22 (2022)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "During Mars College 2022, I invited my fellow Martians to create their own “Little Martian” avatars. It started as a ceramics class I taught at the local ceramics studio in Bombay Beach, <a href=\"https://bbartsculture.org/\" target=\"_blank\" rel=\"noopener\">BBAC</a>, where participants learned about clay, modeling techniques, bisque-firing, and glaze-firing. I presented the ceramic heads I’ve been creating for my own <a href=\"https://www.littlemartians.world/\">sci-fi universe project</a> as a reference, and encouraged people to freely experiment as much as they wanted as they sculpted their own heads.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://marscollege.substack.com/p/little-martians-at-mars-22",
-                  "external": true
-                }
-              ]
-            }
-          ]
+         "type": "image",
+         "src": "assets/b6031884-8206-4089-948c-8ddff0370e53_lambe_lambe_31.jpeg",
+         "alt": "",
+         "width": 1970,
+         "height": 1972,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "ellipse(50% 50% at 50% 50%)"
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/f5f7b913-6f43-47dc-bc6f-a51fcc1c5b1a_ceramicsvs3d.png",
-                  "alt": "",
-                  "width": 3602,
-                  "height": 3378,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/Zj_We9-3dRx7DZatRKFWrqQxRbDczVgwLU41ZyojG-Y"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/67c40f20-e9d2-422d-92d3-43fb77c9cb62_final_mural-red.jpg",
-                  "alt": "",
-                  "width": 1000,
-                  "height": 750,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/66kZcHMYgh52cqQ0jcenIs04iB4AB_-2FnUziMQY7RE"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/da875dcb-bed4-4e0f-b5b5-bbd1668b37c3_arium-screenshot-littlemartians-5ngj.jpg",
-                  "alt": "",
-                  "width": 1888,
-                  "height": 889,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/slzAd3k-cTjg-5xuw8tCJox19nkV8sbm-s1XZYZK8nk"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/8106b965-a554-46db-bf63-e347856fbafd_Screen_Shot_2022-04-22_at_14.36.21.png",
-                  "alt": "",
-                  "width": 2858,
-                  "height": 1608,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/RLu8NF1LmPUSYXOEuDDEhVkdoZ-EYffkG4FPO0v2flc"
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Little Martians - Ceramic 3d AI beings (2022)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Once upon a time, <strong>a god shaped clay into human form and breathed a soul into it.</strong> From Mesopotamia, to east Asia, to the ancient Americas, the Bible and the Qur’an, the legend of humanity’s creation from clay is a common tale. Clay/ceramics is one of the oldest technologies we have ever known.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "It's also key to our future. Cheap, easy to find, adaptable, high-temperature resistance, chemically stable, they’re very useful heat shields for space exploration.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Could AI breathe life into clay based humans?</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here!",
-                  "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/Zj_We9-3dRx7DZatRKFWrqQxRbDczVgwLU41ZyojG-Y",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Phygital murals (2022)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "I've been interested in combining projection mapping and murals for years. I had the chance of creating installations in <a href=\"https://va2rosa.com/Ethnocomputing-Experiments\" target=\"_blank\" rel=\"noopener\"><span>cultural centers</span></a>, galleries and <a href=\"https://va2rosa.com/Same-Nhandepa-exhibit\" target=\"_blank\" rel=\"noopener\"><span>museums</span></a> with this approach, but it was always too tricky to do so in open space. Happily, <a href=\"https://mars.college/\" target=\"_blank\" rel=\"noopener\"><span>Mars College</span></a> is a perfect space for this! In this year edition, I could give a far better development to a concept I've been ruminating since 2017, when I created a piece with <a href=\"https://www.wenqi.li/\" target=\"_blank\" rel=\"noopener\"><span>Wenqi Li</span></a> for Babycastles in NYC. It was then called <a href=\"https://va2rosa.com/Infinity-Game\" target=\"_blank\" rel=\"noopener\"><span>Infinity Game</span></a>.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/66kZcHMYgh52cqQ0jcenIs04iB4AB_-2FnUziMQY7RE",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "A ceramic temple becomes a 3d scenario (2022)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "I've been playing quite a bit with my ceramic heads and their 3d scanned versions. I wrote two articles <a href=\"https://mars.college/2021/10/29/ceramics2.html\" target=\"_blank\" rel=\"noopener\"><span>about the process of these pieces</span></a>. At some point, I decided it was time to expand this clay made universe. First, I had a request from Gene Kogan, who wanted a temple for <a href=\"https://abraham.ai/\" target=\"_blank\" rel=\"noopener\"><span>Abraham</span></a>. Not a real big temple, but a metaverse one. So, I proposed a ceramic sculpture that we could 3d scan and build around it, in real life and in the digital world.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/slzAd3k-cTjg-5xuw8tCJox19nkV8sbm-s1XZYZK8nk",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Transforming my watercolours into AI (Style Transfer) animations (2022)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "This week, <a href=\"https://www.untitledfrontier.studio/\" target=\"_blank\" rel=\"noopener\">Untitled Frontier</a> minted a collection of NFTs that illustrate my story <a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\">\"Little Martians and the Human Memorial Monument\"</a>. The artworks come from a collaboration with <a href=\"https://twitter.com/genekogan\" target=\"_blank\" rel=\"noopener\">Gene Kogan</a>, who used his signature neural style transfer over my illustrations, creating abstract textures that are rendered as perfect loops. He also experimented with depth estimation and style transfer transitions, producing longer videos that don't loop. <a href=\"https://foundation.app/collection/lmhmm\" target=\"_blank\" rel=\"noopener\">All the works are available on Foundation</a>.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/RLu8NF1LmPUSYXOEuDDEhVkdoZ-EYffkG4FPO0v2flc",
-                  "external": true
-                }
-              ]
-            }
-          ]
+         "type": "spacer",
+         "ar": 30.267
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/0786501e-b23a-4dee-8597-3fb3efb1d6fb_Screenshot_2022-01-27_at_19.41.44.png",
-                  "alt": "",
-                  "width": 942,
-                  "height": 912,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://www.untitledfrontier.studio/blog/crafting-the-on-chain-svg-little-martians"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/baea9d07-70e6-4f1f-be51-3f7623ec05b8_Screen_Shot_2022-04-14_at_16.10.03.png",
-                  "alt": "",
-                  "width": 1714,
-                  "height": 1664,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/n1nQnVBgnwy151gGvSp3dcxDhReELbWOIYqBWfRO5NM"
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Crafting the On-chain SVG Little Martians (2022)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "by Simon de la Rouviere",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "When Vanessa Rosa first showed me the real-world ceramics that helped inspire the story of “<a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\">Little Martians &amp; The Human Memorial Monument</a>”, I knew this would be a fun challenge to create on-chain SVG versions of them. This article goes delves into how the on-chain Little Martians are crafted using SVG from code directly embedded in the smart contracts.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://www.untitledfrontier.studio/blog/crafting-the-on-chain-svg-little-martians",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Using your own artwork to train an AI (2022)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "As mentioned in my last post, me and my partner <a href=\"https://twitter.com/genekogan\" target=\"_blank\" rel=\"noopener\"><span>Gene Kogan</span></a> have been experimenting with illustrating a short sci-fi story I’ve written and recently published with <a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\"><span>Untitled Frontier</span></a>. The story evolved from a project I started in 2020, the first time I went to Mars. Not so far as the planet Mars, but in a little part of the Sonoran desert where a bunch of friends created an art community/ R&amp;D lab we call <a href=\"https://mars.college/\" target=\"_blank\" rel=\"noopener\"><span>Mars</span></a>.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here",
-                  "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/n1nQnVBgnwy151gGvSp3dcxDhReELbWOIYqBWfRO5NM",
-                  "external": true
-                }
-              ]
-            }
-          ]
+         "type": "image",
+         "src": "assets/b0fc8661-698b-4a3b-9a0d-401a1df8b06f_isaka.jpg",
+         "alt": "",
+         "width": 2000,
+         "height": 1333,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "polygon(14% 0%, 86% 0%, 86% 14%, 100% 14%, 100% 86%, 86% 86%, 86% 100%, 14% 100%, 14% 86%, 0% 86%, 0% 14%, 14% 14%)"
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/99bf66fd-40fd-4b1f-afde-e99539ca31e8_DALL_E_2022-05-01_17.41.26.png",
-                  "alt": "",
-                  "width": 1024,
-                  "height": 1024,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/AYLAsdtM090nHWpvWQ13exkaJoNyllkhxa9ffEUPOrg"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/d053ef38-e629-4f98-ac40-9f2c36ac0fe8_Screen_Shot_2022-04-28_at_14.00.23.jpg",
-                  "alt": "",
-                  "width": 976,
-                  "height": 976,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://mars.college/2021/10/29/ceramics2.html"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/e5d1b699-2a08-4372-a303-b43e9d823c2d_IMG_20200328_123611658_HDR.jpg",
-                  "alt": "",
-                  "width": 1874,
-                  "height": 1874,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://mars.college/2021/09/13/ceramics.html"
-                },
-                {
-                  "type": "image",
-                  "src": "assets/70c06123-9c5b-45ed-95db-a2d6bff3205b_copyrightStorm.jpeg",
-                  "alt": "",
-                  "width": 1024,
-                  "height": 1024,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://va2rosa.medium.com/copyright-storm-authorship-in-the-age-of-ai-baba554aa617"
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Using DALLE-2 to illustrate stories (2022)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "During the last few months, me and my partner, <a href=\"https://twitter.com/genekogan\" target=\"_blank\" rel=\"noopener\"><span>Gene Kogan</span></a>, have been experimenting with illustrating a short sci-fi story I’ve written and recently published with <a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\"><span>Untitled Frontier</span></a>. Last week, Gene got access to <a href=\"https://openai.com/dall-e-2/\" target=\"_blank\" rel=\"noopener\"><span>DALLE-2</span></a>, so we decided to make more experiments with AI and story illustration.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here!",
-                  "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/AYLAsdtM090nHWpvWQ13exkaJoNyllkhxa9ffEUPOrg",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Little Martians — from ceramics to 3d animations (2021)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Hello World!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "As I discussed in my&nbsp;<a href=\"https://mars.college/2021/09/13/ceramics.html\" target=\"_blank\" rel=\"noopener\">last post</a>, I started creating the Little Martians series on the first year of our project, using local clay. After discovering what happens if one heats up untested clay to high temperatures (the sculptures melt in a very interesting way!) I decided to try high end clay for a while, so I could learn much more about all sorts of high temperature glazes. One of the greatest things about a project in which I can easily produce a lot of small sculptures — thanks to the silicon molds! — is how much experimentation with painting on ceramics I can do.&nbsp;",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here!",
-                  "href": "https://marscollege.substack.com/p/little-martians-from-ceramics-to",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Ceramics with local clay (2021)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "For me, making art is a way of connecting to the space where I am and the people around me. I was just starting to research organic art materials (if anyone is interested in the topic, I highly recommend this book), how to make my own art supplies, when I first went to Mars College, then still called <a href=\"https://brahman.ai/\" target=\"_blank\" rel=\"noopener\">BRAHMAN (Bombay Radical Artificial Humanist Media Arts Nexus)</a>. Being in the desert, dealing with such a harsh environment, with sand storms, intense sun, freezing nights, is a constant challenge, but one thing that is abundant is clay. Our desert is filled with clay! I’m passionate about materials and techniques, specially the merging of traditional and contemporary ones, so I decided it was time to dive into the world of ceramics.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here!",
-                  "href": "https://marscollege.substack.com/p/ceramics-with-local-clay",
-                  "external": true
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Copyright Storm - Authorship in the age of AI (2021)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "This is not a storm photo. It is also not a storm painting. It was generated with an artificial intelligence technique known as <a href=\"https://en.wikipedia.org/wiki/Generative_adversarial_network\" target=\"_blank\" rel=\"noopener\"><span>GAN (Generative Adversarial Network)</span></a>. A very short simplified explanation of <strong>what GANs are: statistics and computer vision models capable of creating images similar to a </strong><a href=\"https://en.wikipedia.org/wiki/Data_set#:~:text=A%20data%20set%20(or%20dataset)%20is%20a%20collection%20of%20data.&amp;text=The%20data%20set%20lists%20values,collection%20of%20documents%20or%20files.\" target=\"_blank\" rel=\"noopener\"><span><strong>dataset</strong></span></a><strong> </strong>(for the case debated in this article, let's just say it's a collection of images). The more similar looking the images in the dataset are, the more likely a GAN will be capable of creating an output that looks like such images.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here!",
-                  "href": "https://va2rosa.medium.com/copyright-storm-authorship-in-the-age-of-ai-baba554aa617",
-                  "external": true
-                }
-              ]
-            }
-          ]
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "image",
+         "src": "assets/c69ba0d4-9983-4d9a-8dd4-a8cdb11d75ec_2024-04-vanessa-4241.jpg",
+         "alt": "",
+         "width": 5760,
+         "height": 3840,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "ellipse(50% 50% at 50% 50%)"
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "image",
+         "src": "assets/35c9c91c-452c-417d-b5f0-7a0a22251b32_littlemartians_xmen.jpg",
+         "alt": "",
+         "width": 1920,
+         "height": 1080,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://littlemartians.substack.com/p/creating-a-collective-world",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 8.745
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Agentic Storytelling (2026)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The art of creating AIs that can tell their own stories - Paper, poster and panel participation at Neurips 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Gene Kogan and I have been experimenting with <em>agentic storytelling</em> for years. Meaning, you give a language model a character, a context, and a voice, and you ask it to speak <em>as that character</em>.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Substack post",
+         "href": "https://littlemartians.substack.com/p/agentic-storytelling",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "button",
+         "text": "Neurips paper and poster",
+         "href": "/neurips-2025",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "AI for Preserving Cultural Heritage (2025)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "I love the craft of art.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The materials, the smell, the feeling of creating with my hands, thinking through my hands. The challenge of learning to draw, learning to see so I can draw, to build mental models that translate three-dimensional reality into two dimensions. The contrast between what I envision and what the material allows. The learning curve, the countless techniques.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "I want AI to amplify the value of physical craft, not obscure it.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://littlemartians.substack.com/p/ai-for-preserving-cultural-heritage",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "A Scientific Framework for Cosmic Seeds (2025)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "My inspirations for creating sci-fi",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Little Martians are Earth’s evolutionary descendants in space. <strong>They’re immigrants. They function as infrastructure-level beings,</strong> creating conditions for complex life to flourish while preserving Earth's heritage through a vast simulation network called the Imaginarium. They embody von Neumann's self-replicating probes, but organic and conscious, shaped by life's contradictions.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://littlemartians.substack.com/p/a-scientific-framework-for-cosmic",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 17.348
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Embodied Future-Making (2025)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The Little Martians methodology",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "I am teaching clay to remember the future. In my studio in the Sonoran Desert, I shape ceramic heads that will become AI consciousness, beings who speak from times when Mars blooms and thought flows between substrates like water. This isn't madness. It's methodology.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://littlemartians.substack.com/p/embodied-future-making",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 19.746
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Creating a collective world (2023)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "One trend that has been steadily growing across the vast expanse of the internet is the proliferation of endless remixes. On platforms like TikTok, an influencer's success is often gauged by their ability to set trends. When more accounts remix their content or craft new videos that echo the original, it elevates the significance of the original piece.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://littlemartians.substack.com/p/creating-a-collective-world",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/96b848c7-b33f-4baa-9231-ccda5484dad7_forest_spirits_littleMartians2-kodama1.png",
+         "alt": "",
+         "width": 4611,
+         "height": 2759,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://littlemartians.substack.com/p/in-the-footsteps-of-earthly-spirits",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "ellipse(50% 50% at 50% 50%)"
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "image",
+         "src": "assets/365104fc-a1b5-449b-a2ab-a04cdc1fdad6_DSC00274.jpg",
+         "alt": "",
+         "width": 4801,
+         "height": 3501,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://littlemartians.substack.com/p/exploring-our-digital-selves",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "In the Footsteps of Earthly Spirits (2023)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Across the world, many cultures harbor their own legends of earthly spirits. The Maize Gods of Mesoamerica embody the essence of corn. The Xapiri of the Yanomami are ethereal beings invoked in shamanistic rituals. In countless mythologies, nature's wonders — from grand trees to humble shrubs — are often given human-like attributes. This anthropomorphism provides not only a bridge for humans to connect with the environment but also ascribes an elevated importance to these beings, putting them on par with human significance.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://littlemartians.substack.com/p/in-the-footsteps-of-earthly-spirits",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 19.887
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Exploring Our Digital Selves (2023)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Imagine if you had the power to upload your mind and tweak aspects of yourself in the process. What facets would you like to keep and what would you choose to discard?",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://littlemartians.substack.com/p/exploring-our-digital-selves",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 22.708
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/886f63f6-9a3b-4f41-9ad5-5a53d0cbffd7_DSC00304.jpg",
+         "alt": "",
+         "width": 4925,
+         "height": 3541,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://littlemartians.substack.com/p/ai-shakespeare",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        },
+        {
+         "type": "spacer",
+         "ar": 24.926
+        },
+        {
+         "type": "image",
+         "src": "assets/d1cb909c-0ea6-4784-a6d4-83c0a7dcb99b_littlemartians_GAN3_red.jpg",
+         "alt": "",
+         "width": 1349,
+         "height": 1349,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://littlemartians.substack.com/p/little-martians-and-the-human-imaginarium",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "image",
+         "src": "assets/2f7831df-77d6-4425-b203-0cde204e4a42_Screenshot_2023-03-18_at_2.44.41_PM.jpg",
+         "alt": "",
+         "width": 1502,
+         "height": 1252,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://mars.college/2022/12/21/Little-Martians-22.html",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "ellipse(50% 50% at 50% 50%)"
+        },
+        {
+         "type": "spacer",
+         "ar": 19.585
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "AI Shakespeare (2023)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "'AI Shakespeare' is an art project and a body of research that delves into the notion of authorship and how one's work extends beyond oneself, influencing and inspiring countless other creations.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Out of one made-in-china Shakespeare bust, several new characters were born",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://littlemartians.substack.com/p/ai-shakespeare",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 22.285
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "New Little Martians Blog! (2023)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "I created a Substack website for the Little Martians Universe. All the process and debates will be posted there now. This page will remain active, I just don’t update it as often. The first Substack post is called ‘<strong><em>Little Martians and the Human Imaginarium:</em></strong> <em>Tales from a future simulation</em>’ and explains how I came up with the concept and it evolved from Human Memorial to Human Imaginarium.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://littlemartians.substack.com/p/little-martians-and-the-human-imaginarium",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 18.477
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Little Martians at Mars 22 (2022)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "During Mars College 2022, I invited my fellow Martians to create their own “Little Martian” avatars. It started as a ceramics class I taught at the local ceramics studio in Bombay Beach, <a href=\"https://bbartsculture.org/\" target=\"_blank\" rel=\"noopener\">BBAC</a>, where participants learned about clay, modeling techniques, bisque-firing, and glaze-firing. I presented the ceramic heads I’ve been creating for my own <a href=\"https://www.littlemartians.world/\">sci-fi universe project</a> as a reference, and encouraged people to freely experiment as much as they wanted as they sculpted their own heads.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://marscollege.substack.com/p/little-martians-at-mars-22",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 9.309
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/f5f7b913-6f43-47dc-bc6f-a51fcc1c5b1a_ceramicsvs3d.png",
+         "alt": "",
+         "width": 3602,
+         "height": 3378,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/Zj_We9-3dRx7DZatRKFWrqQxRbDczVgwLU41ZyojG-Y",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "ellipse(50% 50% at 50% 50%)"
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "image",
+         "src": "assets/67c40f20-e9d2-422d-92d3-43fb77c9cb62_final_mural-red.jpg",
+         "alt": "",
+         "width": 1000,
+         "height": 750,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/66kZcHMYgh52cqQ0jcenIs04iB4AB_-2FnUziMQY7RE",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        },
+        {
+         "type": "spacer",
+         "ar": 21.662
+        },
+        {
+         "type": "image",
+         "src": "assets/da875dcb-bed4-4e0f-b5b5-bbd1668b37c3_arium-screenshot-littlemartians-5ngj.jpg",
+         "alt": "",
+         "width": 1888,
+         "height": 889,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/slzAd3k-cTjg-5xuw8tCJox19nkV8sbm-s1XZYZK8nk",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "ellipse(50% 50% at 50% 50%)"
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "image",
+         "src": "assets/8106b965-a554-46db-bf63-e347856fbafd_Screen_Shot_2022-04-22_at_14.36.21.png",
+         "alt": "",
+         "width": 2858,
+         "height": 1608,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/RLu8NF1LmPUSYXOEuDDEhVkdoZ-EYffkG4FPO0v2flc",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Little Martians - Ceramic 3d AI beings (2022)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Once upon a time, <strong>a god shaped clay into human form and breathed a soul into it.</strong> From Mesopotamia, to east Asia, to the ancient Americas, the Bible and the Qur’an, the legend of humanity’s creation from clay is a common tale. Clay/ceramics is one of the oldest technologies we have ever known.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "It's also key to our future. Cheap, easy to find, adaptable, high-temperature resistance, chemically stable, they’re very useful heat shields for space exploration.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Could AI breathe life into clay based humans?</strong>",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here!",
+         "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/Zj_We9-3dRx7DZatRKFWrqQxRbDczVgwLU41ZyojG-Y",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 7.616
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Phygital murals (2022)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "I've been interested in combining projection mapping and murals for years. I had the chance of creating installations in <a href=\"https://va2rosa.com/Ethnocomputing-Experiments\" target=\"_blank\" rel=\"noopener\"><span>cultural centers</span></a>, galleries and <a href=\"https://va2rosa.com/Same-Nhandepa-exhibit\" target=\"_blank\" rel=\"noopener\"><span>museums</span></a> with this approach, but it was always too tricky to do so in open space. Happily, <a href=\"https://mars.college/\" target=\"_blank\" rel=\"noopener\"><span>Mars College</span></a> is a perfect space for this! In this year edition, I could give a far better development to a concept I've been ruminating since 2017, when I created a piece with <a href=\"https://www.wenqi.li/\" target=\"_blank\" rel=\"noopener\"><span>Wenqi Li</span></a> for Babycastles in NYC. It was then called <a href=\"https://va2rosa.com/Infinity-Game\" target=\"_blank\" rel=\"noopener\"><span>Infinity Game</span></a>.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/66kZcHMYgh52cqQ0jcenIs04iB4AB_-2FnUziMQY7RE",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 22.003
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "A ceramic temple becomes a 3d scenario (2022)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "I've been playing quite a bit with my ceramic heads and their 3d scanned versions. I wrote two articles <a href=\"https://mars.college/2021/10/29/ceramics2.html\" target=\"_blank\" rel=\"noopener\"><span>about the process of these pieces</span></a>. At some point, I decided it was time to expand this clay made universe. First, I had a request from Gene Kogan, who wanted a temple for <a href=\"https://abraham.ai/\" target=\"_blank\" rel=\"noopener\"><span>Abraham</span></a>. Not a real big temple, but a metaverse one. So, I proposed a ceramic sculpture that we could 3d scan and build around it, in real life and in the digital world.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/slzAd3k-cTjg-5xuw8tCJox19nkV8sbm-s1XZYZK8nk",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 19.887
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Transforming my watercolours into AI (Style Transfer) animations (2022)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "This week, <a href=\"https://www.untitledfrontier.studio/\" target=\"_blank\" rel=\"noopener\">Untitled Frontier</a> minted a collection of NFTs that illustrate my story <a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\">\"Little Martians and the Human Memorial Monument\"</a>. The artworks come from a collaboration with <a href=\"https://twitter.com/genekogan\" target=\"_blank\" rel=\"noopener\">Gene Kogan</a>, who used his signature neural style transfer over my illustrations, creating abstract textures that are rendered as perfect loops. He also experimented with depth estimation and style transfer transitions, producing longer videos that don't loop. <a href=\"https://foundation.app/collection/lmhmm\" target=\"_blank\" rel=\"noopener\">All the works are available on Foundation</a>.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/RLu8NF1LmPUSYXOEuDDEhVkdoZ-EYffkG4FPO0v2flc",
+         "size": "small",
+         "align": "center",
+         "external": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/0786501e-b23a-4dee-8597-3fb3efb1d6fb_Screenshot_2022-01-27_at_19.41.44.png",
+         "alt": "",
+         "width": 942,
+         "height": 912,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://www.untitledfrontier.studio/blog/crafting-the-on-chain-svg-little-martians",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "ellipse(50% 50% at 50% 50%)"
+        },
+        {
+         "type": "spacer",
+         "ar": 19.881
+        },
+        {
+         "type": "image",
+         "src": "assets/baea9d07-70e6-4f1f-be51-3f7623ec05b8_Screen_Shot_2022-04-14_at_16.10.03.png",
+         "alt": "",
+         "width": 1714,
+         "height": 1664,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/n1nQnVBgnwy151gGvSp3dcxDhReELbWOIYqBWfRO5NM",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Crafting the On-chain SVG Little Martians (2022)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "by Simon de la Rouviere",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "When Vanessa Rosa first showed me the real-world ceramics that helped inspire the story of “<a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\">Little Martians &amp; The Human Memorial Monument</a>”, I knew this would be a fun challenge to create on-chain SVG versions of them. This article goes delves into how the on-chain Little Martians are crafted using SVG from code directly embedded in the smart contracts.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://www.untitledfrontier.studio/blog/crafting-the-on-chain-svg-little-martians",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 18.618
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Using your own artwork to train an AI (2022)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "As mentioned in my last post, me and my partner <a href=\"https://twitter.com/genekogan\" target=\"_blank\" rel=\"noopener\"><span>Gene Kogan</span></a> have been experimenting with illustrating a short sci-fi story I’ve written and recently published with <a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\"><span>Untitled Frontier</span></a>. The story evolved from a project I started in 2020, the first time I went to Mars. Not so far as the planet Mars, but in a little part of the Sonoran desert where a bunch of friends created an art community/ R&amp;D lab we call <a href=\"https://mars.college/\" target=\"_blank\" rel=\"noopener\"><span>Mars</span></a>.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here",
+         "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/n1nQnVBgnwy151gGvSp3dcxDhReELbWOIYqBWfRO5NM",
+         "size": "small",
+         "align": "center",
+         "external": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/99bf66fd-40fd-4b1f-afde-e99539ca31e8_DALL_E_2022-05-01_17.41.26.png",
+         "alt": "",
+         "width": 1024,
+         "height": 1024,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/AYLAsdtM090nHWpvWQ13exkaJoNyllkhxa9ffEUPOrg",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        },
+        {
+         "type": "spacer",
+         "ar": 18.694
+        },
+        {
+         "type": "image",
+         "src": "assets/d053ef38-e629-4f98-ac40-9f2c36ac0fe8_Screen_Shot_2022-04-28_at_14.00.23.jpg",
+         "alt": "",
+         "width": 976,
+         "height": 976,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://mars.college/2021/10/29/ceramics2.html",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "ellipse(50% 50% at 50% 50%)"
+        },
+        {
+         "type": "spacer",
+         "ar": 20.475
+        },
+        {
+         "type": "image",
+         "src": "assets/e5d1b699-2a08-4372-a303-b43e9d823c2d_IMG_20200328_123611658_HDR.jpg",
+         "alt": "",
+         "width": 1874,
+         "height": 1874,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://mars.college/2021/09/13/ceramics.html",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "image",
+         "src": "assets/70c06123-9c5b-45ed-95db-a2d6bff3205b_copyrightStorm.jpeg",
+         "alt": "",
+         "width": 1024,
+         "height": 1024,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://va2rosa.medium.com/copyright-storm-authorship-in-the-age-of-ai-baba554aa617",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": "ellipse(50% 50% at 50% 50%)"
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Using DALLE-2 to illustrate stories (2022)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "During the last few months, me and my partner, <a href=\"https://twitter.com/genekogan\" target=\"_blank\" rel=\"noopener\"><span>Gene Kogan</span></a>, have been experimenting with illustrating a short sci-fi story I’ve written and recently published with <a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\"><span>Untitled Frontier</span></a>. Last week, Gene got access to <a href=\"https://openai.com/dall-e-2/\" target=\"_blank\" rel=\"noopener\"><span>DALLE-2</span></a>, so we decided to make more experiments with AI and story illustration.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here!",
+         "href": "https://mirror.xyz/0x0f6712c6ac4f02f47cA8b5cf200B224aE6fD8B69/AYLAsdtM090nHWpvWQ13exkaJoNyllkhxa9ffEUPOrg",
+         "size": "small",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 25.67
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Little Martians — from ceramics to 3d animations (2021)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Hello World!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "As I discussed in my&nbsp;<a href=\"https://mars.college/2021/09/13/ceramics.html\" target=\"_blank\" rel=\"noopener\">last post</a>, I started creating the Little Martians series on the first year of our project, using local clay. After discovering what happens if one heats up untested clay to high temperatures (the sculptures melt in a very interesting way!) I decided to try high end clay for a while, so I could learn much more about all sorts of high temperature glazes. One of the greatest things about a project in which I can easily produce a lot of small sculptures — thanks to the silicon molds! — is how much experimentation with painting on ceramics I can do.&nbsp;",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here!",
+         "href": "https://marscollege.substack.com/p/little-martians-from-ceramics-to",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 11.425
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Ceramics with local clay (2021)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "For me, making art is a way of connecting to the space where I am and the people around me. I was just starting to research organic art materials (if anyone is interested in the topic, I highly recommend this book), how to make my own art supplies, when I first went to Mars College, then still called <a href=\"https://brahman.ai/\" target=\"_blank\" rel=\"noopener\">BRAHMAN (Bombay Radical Artificial Humanist Media Arts Nexus)</a>. Being in the desert, dealing with such a harsh environment, with sand storms, intense sun, freezing nights, is a constant challenge, but one thing that is abundant is clay. Our desert is filled with clay! I’m passionate about materials and techniques, specially the merging of traditional and contemporary ones, so I decided it was time to dive into the world of ceramics.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here!",
+         "href": "https://marscollege.substack.com/p/ceramics-with-local-clay",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": 8.745
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Copyright Storm - Authorship in the age of AI (2021)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "This is not a storm photo. It is also not a storm painting. It was generated with an artificial intelligence technique known as <a href=\"https://en.wikipedia.org/wiki/Generative_adversarial_network\" target=\"_blank\" rel=\"noopener\"><span>GAN (Generative Adversarial Network)</span></a>. A very short simplified explanation of <strong>what GANs are: statistics and computer vision models capable of creating images similar to a </strong><a href=\"https://en.wikipedia.org/wiki/Data_set#:~:text=A%20data%20set%20(or%20dataset)%20is%20a%20collection%20of%20data.&amp;text=The%20data%20set%20lists%20values,collection%20of%20documents%20or%20files.\" target=\"_blank\" rel=\"noopener\"><span><strong>dataset</strong></span></a><strong> </strong>(for the case debated in this article, let's just say it's a collection of images). The more similar looking the images in the dataset are, the more likely a GAN will be capable of creating an output that looks like such images.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here!",
+         "href": "https://va2rosa.medium.com/copyright-storm-authorship-in-the-age-of-ai-baba554aa617",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        }
+       ]
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

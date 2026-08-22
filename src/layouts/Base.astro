@@ -12,7 +12,7 @@ const PRIMARY_NAV = [
 ];
 const SECONDARY_NAV = [{ label: 'Crypto', href: '/nfts-1/' }];
 
-const { title, description, ogImage, path, hasHero = false } = Astro.props;
+const { title, description, ogImage, path, hasHero = false, intro = false } = Astro.props;
 const pageTitle = title === SITE_TITLE ? SITE_TITLE
   : title.includes(SITE_TITLE) ? title : `${title} — ${SITE_TITLE}`;
 const bare = title.replace(new RegExp(`\\s*[—-]\\s*${SITE_TITLE}$`), '').trim() || SITE_TITLE;
@@ -37,7 +37,7 @@ const here = Astro.url.pathname;
   <link rel="icon" href="/favicon.png" />
   <link rel="sitemap" href="/sitemap-index.xml" />
 </head>
-<body class={hasHero ? 'has-hero' : undefined}>
+<body class={hasHero || intro ? 'has-hero' : undefined}>
   <a class="skip" href="#main">Skip to content</a>
   <div class="site">
     <header class="header">
@@ -62,6 +62,7 @@ const here = Astro.url.pathname;
       </nav>
     </div>
 
+    {intro && <div class="intro-band" aria-hidden="true" />}
     <main id="main"><slot /></main>
 
     <footer class="footer">

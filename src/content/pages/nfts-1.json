@@ -1,341 +1,428 @@
 {
-  "slug": "nfts-1",
-  "title": "Crypto — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "nfts-1",
+ "title": "Crypto — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 1,
+       "html": "Provenance &amp; Crypto",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "paragraph",
+       "html": "An ongoing archival and provenance layer for Little Martians. Core videos and texts are stored on decentralized systems (IPFS / Arweave) and anchored on-chain — a permanent, timestamped record of what was made, when, and by whom. This is an evolving effort: I'm gradually moving more of the work into reliable, decentralized storage, building a lasting record of authorship in an age of synthetic media.",
+       "align": null,
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 5.926
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
         {
-          "type": "heading",
-          "level": 1,
-          "html": "Provenance &amp; Crypto",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "An ongoing archival and provenance layer for Little Martians. Core videos and texts are stored on decentralized systems (IPFS / Arweave) and anchored on-chain — a permanent, timestamped record of what was made, when, and by whom. This is an evolving effort: I'm gradually moving more of the work into reliable, decentralized storage, building a lasting record of authorship in an age of synthetic media.",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/b8c88307-1508-41ac-85e3-d472a9d07471_Eden-va2rosa-_concept__looks_at_the_camera__in_the_garden_of_Earthly_delights__with_alien_flora_and_mystical_creatures_in_the_background__mas-67536174f6337c9d93e25867.png",
-                  "alt": "",
-                  "width": 1920,
-                  "height": 1080,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Christie’s ‘Augmented Intelligence’",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "First major auction solely dedicated to AI art.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Augmented Intelligence is a groundbreaking auction highlighting the breadth and quality of AI Art. The sale includes remarkable works from some of the most innovative minds — from early AI pioneers of the 1960s such as Harold Cohen to contemporary artists",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The auction redefines the evolution of art and technology, exploring human agency in the age of AI within fine art. From robotics to GANs to interactive experiences, artists incorporate and collaborate with artificial intelligence in a variety of mediums including paintings, sculptures, prints, digital art and more. Collectors will have the opportunity to experience a truly captivating exhibition at Rockefeller Center for the duration of the online sale, 20 February – 5 March 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "row",
-                  "cols": [
-                    {
-                      "span": 4,
-                      "content": [
-                        {
-                          "type": "button",
-                          "text": "'Augmented Intelligence'",
-                          "href": "https://onlineonly.christies.com/s/augmented-intelligence/lots/3837",
-                          "external": true
-                        }
-                      ]
-                    },
-                    {
-                      "span": 4,
-                      "content": [
-                        {
-                          "type": "button",
-                          "text": "Little Martians & Abraham NFT",
-                          "href": "https://opensea.io/item/ethereum/0x9e3742bb02cb076242fc5f13b0869cef01db41b5/1",
-                          "external": true
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/78ee7b5e-ea8c-460b-8b56-ed9649e32329_Screenshot_2025-05-15_at_12.44.39_PM.png",
-                  "alt": "",
-                  "width": 690,
-                  "height": 514,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "<strong>Paint Box World Tour</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Paintboxed represents a revolutionary initiative that pays homage to the trailblazing heritage of the Quantel Paintbox—a legendary digital art device from the initial phase of the 80s that altered the artistic spectrum. Beyond merely an instrument, the Paintbox moulded visual culture, affecting everything from MTV productions to album designs like Nirvana’s Nevermind. <br><br>As a component of the exhibition, modern artists are prompted to craft fresh pieces employing one of the scarce operational Paintbox systems, furnished by Adrian Wilson. By utilising this seminal technology, they serve as a link between the past and the present, scrutinizing the apparatus's enduring influence on digital artistry and rejuvenating its inventive legacy for an emerging era. June 2025 during Art Basel as part of the Digital Art Mile.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "row",
-                  "cols": [
-                    {
-                      "span": 4,
-                      "content": [
-                        {
-                          "type": "button",
-                          "text": "The NFTs on Objkt.com",
-                          "href": "https://objkt.com/curations/objkt/featured-2025-06-16-0db8d48f",
-                          "external": true
-                        }
-                      ]
-                    },
-                    {
-                      "span": 4,
-                      "content": [
-                        {
-                          "type": "button",
-                          "text": "About PaintBoxed World Tour",
-                          "href": "https://www.artmeta.org/paintboxed",
-                          "external": true
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/6c733563-504a-48ef-9a45-c0cea8427348_Screenshot_2025-06-16_at_1.58.14_PM.png",
-                  "alt": "",
-                  "width": 1124,
-                  "height": 1228,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Glitch Collection",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Little Martians sculptures and NFTs gifted to members of the Glitch community as part of the Glitch at Residency at Chateau du Fey",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "View Collection",
-                  "href": "https://foundation.app/collection/lm-3d",
-                  "external": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/0dd72dca-bbd7-410c-8c87-2521a0dce130_littlemartians_GAN3_red.jpg",
-                  "alt": "",
-                  "width": 2362,
-                  "height": 1350,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Zeroone",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Little Martian collection on Zeroone",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "https://zeroone.art/profile/littlemartians",
-                  "external": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/15953c20-a153-4367-b601-d1f89ab235a6_layout4_m_copy.jpg",
-                  "alt": "",
-                  "width": 1080,
-                  "height": 1080,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Logged Universe #3",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Little Martians and the Human Memorial",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The story we’ll now present is called “Little Martians and the Human Memorial Monument”. It’s told by an ancient Martian, who simulated a human and played with it inside the Logged Universe. The Martian makes an effort of trying to explain this human where they came from and what is the nature of their reality. It’s quite touching, and we all know how this particular series of events sparked renewed interest in the human species across the galaxy.&nbsp;",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "For the creation of this story, we’d like to thank Simon de Rouviere, who is a very prominent researcher on the Logged Universe history and technology. We’d also like to thank Gene Kogan, for his AI collaboration expertise was key to simulate the narrated events in astonishing color and resolution.&nbsp;",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "/loggeduniverse",
-                  "external": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "divider"
+         "type": "image",
+         "src": "assets/b8c88307-1508-41ac-85e3-d472a9d07471_Eden-va2rosa-_concept__looks_at_the_camera__in_the_garden_of_Earthly_delights__with_alien_flora_and_mystical_creatures_in_the_background__mas-67536174f6337c9d93e25867.png",
+         "alt": "",
+         "width": 1920,
+         "height": 1080,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Christie’s ‘Augmented Intelligence’",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "First major auction solely dedicated to AI art.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Augmented Intelligence is a groundbreaking auction highlighting the breadth and quality of AI Art. The sale includes remarkable works from some of the most innovative minds — from early AI pioneers of the 1960s such as Harold Cohen to contemporary artists",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The auction redefines the evolution of art and technology, exploring human agency in the age of AI within fine art. From robotics to GANs to interactive experiences, artists incorporate and collaborate with artificial intelligence in a variety of mediums including paintings, sculptures, prints, digital art and more. Collectors will have the opportunity to experience a truly captivating exhibition at Rockefeller Center for the duration of the online sale, 20 February – 5 March 2025",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "row",
+         "cols": [
+          {
+           "span": 4,
+           "content": [
+            {
+             "type": "button",
+             "text": "'Augmented Intelligence'",
+             "href": "https://onlineonly.christies.com/s/augmented-intelligence/lots/3837",
+             "size": "medium",
+             "align": "center",
+             "external": true
+            }
+           ]
+          },
+          {
+           "span": 4,
+           "content": [
+            {
+             "type": "button",
+             "text": "Little Martians & Abraham NFT",
+             "href": "https://opensea.io/item/ethereum/0x9e3742bb02cb076242fc5f13b0869cef01db41b5/1",
+             "size": "medium",
+             "align": "center",
+             "external": true
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/78ee7b5e-ea8c-460b-8b56-ed9649e32329_Screenshot_2025-05-15_at_12.44.39_PM.png",
+         "alt": "",
+         "width": 690,
+         "height": 514,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "<strong>Paint Box World Tour</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Paintboxed represents a revolutionary initiative that pays homage to the trailblazing heritage of the Quantel Paintbox—a legendary digital art device from the initial phase of the 80s that altered the artistic spectrum. Beyond merely an instrument, the Paintbox moulded visual culture, affecting everything from MTV productions to album designs like Nirvana’s Nevermind. <br><br>As a component of the exhibition, modern artists are prompted to craft fresh pieces employing one of the scarce operational Paintbox systems, furnished by Adrian Wilson. By utilising this seminal technology, they serve as a link between the past and the present, scrutinizing the apparatus's enduring influence on digital artistry and rejuvenating its inventive legacy for an emerging era. June 2025 during Art Basel as part of the Digital Art Mile.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "row",
+         "cols": [
+          {
+           "span": 4,
+           "content": [
+            {
+             "type": "button",
+             "text": "The NFTs on Objkt.com",
+             "href": "https://objkt.com/curations/objkt/featured-2025-06-16-0db8d48f",
+             "size": "medium",
+             "align": "center",
+             "external": true
+            }
+           ]
+          },
+          {
+           "span": 4,
+           "content": [
+            {
+             "type": "button",
+             "text": "About PaintBoxed World Tour",
+             "href": "https://www.artmeta.org/paintboxed",
+             "size": "medium",
+             "align": "center",
+             "external": true
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/6c733563-504a-48ef-9a45-c0cea8427348_Screenshot_2025-06-16_at_1.58.14_PM.png",
+         "alt": "",
+         "width": 1124,
+         "height": 1228,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 93.26424870466322,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Glitch Collection",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Little Martians sculptures and NFTs gifted to members of the Glitch community as part of the Glitch at Residency at Chateau du Fey",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "View Collection",
+         "href": "https://foundation.app/collection/lm-3d",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/0dd72dca-bbd7-410c-8c87-2521a0dce130_littlemartians_GAN3_red.jpg",
+         "alt": "",
+         "width": 2362,
+         "height": 1350,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Zeroone",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Little Martian collection on Zeroone",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "https://zeroone.art/profile/littlemartians",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/15953c20-a153-4367-b601-d1f89ab235a6_layout4_m_copy.jpg",
+         "alt": "",
+         "width": 1080,
+         "height": 1080,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Logged Universe #3",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Little Martians and the Human Memorial",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The story we’ll now present is called “Little Martians and the Human Memorial Monument”. It’s told by an ancient Martian, who simulated a human and played with it inside the Logged Universe. The Martian makes an effort of trying to explain this human where they came from and what is the nature of their reality. It’s quite touching, and we all know how this particular series of events sparked renewed interest in the human species across the galaxy.&nbsp;",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "For the creation of this story, we’d like to thank Simon de Rouviere, who is a very prominent researcher on the Logged Universe history and technology. We’d also like to thank Gene Kogan, for his AI collaboration expertise was key to simulate the narrated events in astonishing color and resolution.&nbsp;",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "/loggeduniverse",
+         "size": "small",
+         "align": "left",
+         "external": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "divider"
     }
-  ]
+   ]
+  }
+ ]
 }

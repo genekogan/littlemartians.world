@@ -1,158 +1,212 @@
 {
-  "slug": "gallery",
-  "title": "Little Martians Gallery — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "gallery",
+ "title": "Little Martians Gallery — Little Martians",
+ "description": "",
+ "pageType": "index",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "new-page-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "new-page-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 1,
+       "html": "Gallery",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 8,
+       "content": [
         {
-          "type": "heading",
-          "level": 1,
-          "html": "Gallery",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "row",
-          "cols": [
+         "type": "row",
+         "cols": [
+          {
+           "span": 4,
+           "content": [
             {
-              "span": 8,
-              "content": [
-                {
-                  "type": "row",
-                  "cols": [
-                    {
-                      "span": 4,
-                      "content": [
-                        {
-                          "type": "image",
-                          "src": "assets/614f922f-d4aa-47fa-aadc-ff76e6366425_DSC04633.jpg",
-                          "alt": "",
-                          "width": 979,
-                          "height": 979,
-                          "caption": "",
-                          "title": null,
-                          "subtitle": null,
-                          "button": {
-                            "text": "Ceramics",
-                            "href": "/ceramics"
-                          },
-                          "link": null
-                        }
-                      ]
-                    },
-                    {
-                      "span": 4,
-                      "content": [
-                        {
-                          "type": "image",
-                          "src": "assets/8d33a967-a3f4-4878-b43d-483547367db3_gan0001.jpg",
-                          "alt": "",
-                          "width": 1047,
-                          "height": 1047,
-                          "caption": "",
-                          "title": null,
-                          "subtitle": null,
-                          "button": {
-                            "text": "Shows",
-                            "href": "/shows"
-                          },
-                          "link": null
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/1ad5d2b5-1fd6-40d4-8c4e-37f43151eda6_simon0417.jpg",
-                  "alt": "",
-                  "width": 1080,
-                  "height": 1080,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": {
-                    "text": "Animations",
-                    "href": "/animations"
-                  },
-                  "link": null
-                }
-              ]
+             "type": "image",
+             "src": "assets/614f922f-d4aa-47fa-aadc-ff76e6366425_DSC04633.jpg",
+             "alt": "",
+             "width": 979,
+             "height": 979,
+             "caption": "",
+             "title": null,
+             "subtitle": null,
+             "button": {
+              "text": "Ceramics",
+              "href": "/ceramics"
+             },
+             "link": null,
+             "layout": "poster",
+             "position": "left",
+             "description": "Ceramics",
+             "aspect": 100,
+             "mask": "polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%)"
             }
-          ]
-        },
-        {
-          "type": "heading",
-          "level": 1,
-          "html": "Process",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "video",
-          "kind": "embed",
-          "src": "https://www.youtube.com/embed/TG16nfIx66o?feature=oembed",
-          "provider": "YouTube",
-          "poster": null,
-          "title": "Little Martians - building an AI powered sci-fi world",
-          "caption": "Litle Martians Process",
-          "ratio": 56.49999999999999
-        },
-        {
-          "type": "row",
-          "cols": [
+           ]
+          },
+          {
+           "span": 4,
+           "content": [
             {
-              "span": 4,
-              "content": []
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/8cf62808-f688-4fef-8ec0-d1a6eb8092e1_Screenshot_2024-04-15_at_4.30.27_PM.png",
-                  "alt": "",
-                  "width": 1299,
-                  "height": 904,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://www.nvidia.com/en-us/research/ai-art-gallery/artists/vanessa-rosa/"
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": []
+             "type": "image",
+             "src": "assets/8d33a967-a3f4-4878-b43d-483547367db3_gan0001.jpg",
+             "alt": "",
+             "width": 1047,
+             "height": 1047,
+             "caption": "",
+             "title": null,
+             "subtitle": null,
+             "button": {
+              "text": "Shows",
+              "href": "/shows"
+             },
+             "link": null,
+             "layout": "poster",
+             "position": "left",
+             "description": "AI",
+             "aspect": 100,
+             "mask": "polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%)"
             }
-          ]
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "html": "Little Martians in the Nvidia AI Art Gallery",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "button",
-          "text": "link",
-          "href": "https://www.nvidia.com/en-us/research/ai-art-gallery/artists/vanessa-rosa/",
-          "external": true
+           ]
+          }
+         ]
         }
-      ]
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/1ad5d2b5-1fd6-40d4-8c4e-37f43151eda6_simon0417.jpg",
+         "alt": "",
+         "width": 1080,
+         "height": 1080,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": {
+          "text": "Animations",
+          "href": "/animations"
+         },
+         "link": null,
+         "layout": "poster",
+         "position": "left",
+         "description": "3D software",
+         "aspect": 100,
+         "mask": "polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 6.574
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 1,
+       "html": "Process",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "video",
+     "kind": "embed",
+     "src": "https://www.youtube.com/embed/TG16nfIx66o?feature=oembed",
+     "provider": "YouTube",
+     "maxWidth": null,
+     "poster": null,
+     "title": "Little Martians - building an AI powered sci-fi world",
+     "caption": "Litle Martians Process",
+     "ratio": 56.49999999999999
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/8cf62808-f688-4fef-8ec0-d1a6eb8092e1_Screenshot_2024-04-15_at_4.30.27_PM.png",
+         "alt": "",
+         "width": 1299,
+         "height": 904,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://www.nvidia.com/en-us/research/ai-art-gallery/artists/vanessa-rosa/",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 3,
+       "html": "Little Martians in the Nvidia AI Art Gallery",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "button",
+     "text": "link",
+     "href": "https://www.nvidia.com/en-us/research/ai-art-gallery/artists/vanessa-rosa/",
+     "size": "medium",
+     "align": "center",
+     "external": true
     }
-  ]
+   ]
+  }
+ ]
 }

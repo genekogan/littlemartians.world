@@ -1,234 +1,297 @@
 {
-  "slug": "fiction",
-  "title": "Fiction — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "fiction",
+ "title": "Fiction — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 1,
+       "html": "Fiction",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
         {
-          "type": "heading",
-          "level": 1,
-          "html": "Fiction",
-          "align": "center",
-          "size": null
+         "type": "image",
+         "src": "assets/1e793dd2-7f5f-4800-86e0-940fc7754b9e_IMG_2044.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/1e793dd2-7f5f-4800-86e0-940fc7754b9e_IMG_2044.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "divider"
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Little Martian Books!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Adult &amp; Children’s books! Portuguese and English",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "/books",
-                  "external": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 5,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Kojii.ai",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Interactive Generative Storytelling!",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "/kojii",
-                  "external": false
-                }
-              ]
-            },
-            {
-              "span": 7,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/af61674c-186a-4712-b6aa-f4aafb4502aa_LittleMartians_kojii0.png",
-                  "alt": "",
-                  "width": 1920,
-                  "height": 1080,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/f3f1c0c8-d35e-4b3b-8d49-6400aee03453_layout4_m_copy.jpg",
-                  "alt": "",
-                  "width": 1080,
-                  "height": 1080,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Little Martians and the Human Memorial Monument",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Published by <a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\">Untitled Frontier</a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"Dear Diana,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Please don’t be scared. The world and life you once knew is millions of your years and kilometres away. You are safe and a part of my collection. Humanity will continue to thrive thanks to you. I’ve made sure of it and I hope you will understand. Let me explain.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "I know that as a human, you have limitations in understanding my perception of reality, but I've put quite some effort into translating my experience. Even expressing myself as an “I” is a stretch for “me”. You see, humans are our ancestors… One of many.\"",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Read it here!",
-                  "href": "https://untitledfrontier.mirror.xyz/GlHHR5rlsUnFvDFNm3AfQ7v1p_XkCBZN9d5tDKEcrYA",
-                  "external": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/2492094a-81e8-44e0-bab1-6eb99d3ffea3_Screen_Shot_2022-04-14_at_16.06.34.png",
-                  "alt": "",
-                  "width": 1738,
-                  "height": 1742,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Little Martians - Mars College",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Experiments in collective storytelling",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Learn more",
-                  "href": "https://marscollege.substack.com/p/little-martians-at-mars-22",
-                  "external": true
-                }
-              ]
-            }
-          ]
+         "type": "divider"
         }
-      ]
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 23.901
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Little Martian Books!",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Adult &amp; Children’s books! Portuguese and English",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "/books",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 5,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Kojii.ai",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Interactive Generative Storytelling!",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "/kojii",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        }
+       ]
+      },
+      {
+       "span": 7,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/af61674c-186a-4712-b6aa-f4aafb4502aa_LittleMartians_kojii0.png",
+         "alt": "",
+         "width": 1920,
+         "height": 1080,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 54.78615071283096,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/f3f1c0c8-d35e-4b3b-8d49-6400aee03453_layout4_m_copy.jpg",
+         "alt": "",
+         "width": 1080,
+         "height": 1080,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Little Martians and the Human Memorial Monument",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Published by <a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\">Untitled Frontier</a>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"Dear Diana,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Please don’t be scared. The world and life you once knew is millions of your years and kilometres away. You are safe and a part of my collection. Humanity will continue to thrive thanks to you. I’ve made sure of it and I hope you will understand. Let me explain.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "I know that as a human, you have limitations in understanding my perception of reality, but I've put quite some effort into translating my experience. Even expressing myself as an “I” is a stretch for “me”. You see, humans are our ancestors… One of many.\"",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Read it here!",
+         "href": "https://untitledfrontier.mirror.xyz/GlHHR5rlsUnFvDFNm3AfQ7v1p_XkCBZN9d5tDKEcrYA",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "divider"
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/2492094a-81e8-44e0-bab1-6eb99d3ffea3_Screen_Shot_2022-04-14_at_16.06.34.png",
+         "alt": "",
+         "width": 1738,
+         "height": 1742,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Little Martians - Mars College",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Experiments in collective storytelling",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Learn more",
+         "href": "https://marscollege.substack.com/p/little-martians-at-mars-22",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        }
+       ]
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

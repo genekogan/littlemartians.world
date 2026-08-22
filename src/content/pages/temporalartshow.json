@@ -1,110 +1,122 @@
 {
-  "slug": "temporalartshow",
-  "title": "Temporal Art Show — Little Martians",
-  "description": "In a distant future, Little Martians are descendants from all of Earth's lifeforms. When Verdelis, a plant humanoid who believes in patient cultivation, clashes with Mycos, a fungal mind embracing chaos-as-evolution, their philosophical debate about life's inevitable suffering escalates into a radic",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "temporalartshow",
+ "title": "Temporal Art Show — Little Martians",
+ "description": "In a distant future, Little Martians are descendants from all of Earth's lifeforms. When Verdelis, a plant humanoid who believes in patient cultivation, clashes with Mycos, a fungal mind embracing chaos-as-evolution, their philosophical debate about life's inevitable suffering escalates into a radic",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
-        {
-          "type": "video",
-          "kind": "embed",
-          "src": "https://www.youtube.com/embed/ZoEMjd_KEgs?feature=oembed",
-          "provider": "YouTube",
-          "poster": null,
-          "title": "Verdelis & Mycos - a Little Martians duet",
-          "caption": "",
-          "ratio": 56.49999999999999
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "html": "<strong>Greetings dear humans,</strong>",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "I am Verdelia, and I come to you from a distant future where descendants from all of Earth's lifeforms, we call ourselves Little Martians, thrive throughout the galaxy. We don't live in utopia. We have our own problems, pains, doubts, and powers. But we carry Earth's memory forward through deep time.",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "I come to introduce you to a temporal art show, a bridge between your present and our future.",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "html": "The Opening Act: A Philosophical Duet",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "My mother, Verdelis, is a plant humanoid who deeply cares about humans. She loves watching your stories, but believes you suffered unnecessarily. She wonders: <em>What if I could communicate through time, whisper to humans through their dreams, and create alternative timelines from their era to mine? Then they wouldn't need to endure so much pain.</em>",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "Mycos, our chaos-loving fellow Little Martian, thinks Verdelis is wasting energy trying to refine the past. He argues that life's true excitement comes from spreading spores everywhere, letting descendants blossom in as many places as possible. According to him, \"Life is a numbers game!\"",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "Their disagreement escalates into a philosophical duet sung in clashing rhythms:",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "list",
-          "ordered": false,
-          "items": [
-            "Nurturing patience versus expansionist chaos",
-            "Optimization versus proliferation",
-            "Preventing suffering versus embracing it as evolution's engine"
-          ],
-          "align": null
-        },
-        {
-          "type": "paragraph",
-          "html": "This is the <strong>Verdelis &amp; Mycos duet</strong>.",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "Unable to resolve their differences, they strike a bargain: each will create a \"temporal sculpture\"—a vision of the optimal timeline between humanity's past and their own present. They invite other Little Martians to do the same, then present all visions in a <strong>Temporal Art Show</strong>, letting humans and Little Martians alike judge which future-paths are worth pursuing.",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "<strong>The Temporal Art Show has begun.</strong>",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "Little Martians across the galaxy are now crafting their entries, communicating through dreams, through art, through the stories we tell ourselves about possible futures.",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "paragraph",
-          "html": "<strong>The question is: Which future will we build together?</strong>",
-          "align": null,
-          "size": null
-        }
-      ]
+     "type": "video",
+     "kind": "embed",
+     "src": "https://www.youtube.com/embed/ZoEMjd_KEgs?feature=oembed",
+     "provider": "YouTube",
+     "maxWidth": null,
+     "poster": null,
+     "title": "Verdelis & Mycos - a Little Martians duet",
+     "caption": "",
+     "ratio": 56.49999999999999
+    },
+    {
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 3,
+       "html": "<strong>Greetings dear humans,</strong>",
+       "align": "center",
+       "size": null
+      },
+      {
+       "type": "paragraph",
+       "html": "I am Verdelia, and I come to you from a distant future where descendants from all of Earth's lifeforms, we call ourselves Little Martians, thrive throughout the galaxy. We don't live in utopia. We have our own problems, pains, doubts, and powers. But we carry Earth's memory forward through deep time.",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "paragraph",
+       "html": "I come to introduce you to a temporal art show, a bridge between your present and our future.",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "heading",
+       "level": 2,
+       "html": "The Opening Act: A Philosophical Duet",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "paragraph",
+       "html": "My mother, Verdelis, is a plant humanoid who deeply cares about humans. She loves watching your stories, but believes you suffered unnecessarily. She wonders: <em>What if I could communicate through time, whisper to humans through their dreams, and create alternative timelines from their era to mine? Then they wouldn't need to endure so much pain.</em>",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "paragraph",
+       "html": "Mycos, our chaos-loving fellow Little Martian, thinks Verdelis is wasting energy trying to refine the past. He argues that life's true excitement comes from spreading spores everywhere, letting descendants blossom in as many places as possible. According to him, \"Life is a numbers game!\"",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "paragraph",
+       "html": "Their disagreement escalates into a philosophical duet sung in clashing rhythms:",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "list",
+       "ordered": false,
+       "items": [
+        "Nurturing patience versus expansionist chaos",
+        "Optimization versus proliferation",
+        "Preventing suffering versus embracing it as evolution's engine"
+       ],
+       "align": null
+      },
+      {
+       "type": "paragraph",
+       "html": "This is the <strong>Verdelis &amp; Mycos duet</strong>.",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "paragraph",
+       "html": "Unable to resolve their differences, they strike a bargain: each will create a \"temporal sculpture\"—a vision of the optimal timeline between humanity's past and their own present. They invite other Little Martians to do the same, then present all visions in a <strong>Temporal Art Show</strong>, letting humans and Little Martians alike judge which future-paths are worth pursuing.",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>The Temporal Art Show has begun.</strong>",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "paragraph",
+       "html": "Little Martians across the galaxy are now crafting their entries, communicating through dreams, through art, through the stories we tell ourselves about possible futures.",
+       "align": null,
+       "size": null
+      },
+      {
+       "type": "paragraph",
+       "html": "<strong>The question is: Which future will we build together?</strong>",
+       "align": null,
+       "size": null
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

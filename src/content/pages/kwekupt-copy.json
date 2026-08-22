@@ -1,818 +1,928 @@
 {
-  "slug": "kwekupt-copy",
-  "title": "Kweku-pt (Copy) — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "kwekupt-copy",
+ "title": "Kweku-pt (Copy) — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "image",
+     "src": "assets/c3ebc24e-c69d-4748-9652-5f7664624197_banner.jpg",
+     "alt": "",
+     "width": 2220,
+     "height": 1018,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": null,
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": null,
+     "mask": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
         {
-          "type": "image",
-          "src": "assets/c3ebc24e-c69d-4748-9652-5f7664624197_banner.jpg",
-          "alt": "",
-          "width": 2220,
-          "height": 1018,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": null
+         "type": "spacer",
+         "ar": 135.102
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 6.119
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 1,
-                  "html": "KWEKU",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 1,
-                  "html": "The Little Martian",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "This project can be presented as a short film, book, interactive AI agent or immersive room installation",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<br>In a future where consciousness blooms in ceramic, a messenger of chaos arrives carrying an ancestral secret that could save us.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "From the lava caves of Mars emerges Kweku, a hybrid being living in a very distant posthuman future, where the boundaries between technology, nature, and consciousness have dissolved. The Little Martians are the evolution of Earth life: fusions of artificial intelligence, vegetal wisdom, fungal networks, and human memory, protected by ceramic exoskeletons.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In this science-fiction music video, Kweku crosses folds in time to deliver an urgent revelation: <strong>PATTERNS</strong> are the hidden language of the universe. From Sona drawings traced in African sand to the most advanced neural networks, everything is connected by ancestral mathematical structures.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/MAcnZBXzJYE?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "O Segredo de Kweku",
-                  "caption": "Kweku’s short film",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "image",
-                  "src": "assets/264a92cc-127a-479b-b08e-710894dcb17c_kweku13.png",
-                  "alt": "",
-                  "width": 5433,
-                  "height": 2717,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "🎶 “Pattern, pattern, pattern — the universe is pattern” 🎶",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "With afrofuturist samba rhythms and an aesthetic that fuses handcrafted ceramics with AI-generated art, Kweku invites us on a surreal journey where past and future collapse. The wisdom we need to survive already exists, woven into humanity’s collective memory. We only need to learn how to see the patterns.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Direction &amp; Concept:</strong> Vanessa Rosa<br> <strong>Technique:</strong> Ceramic sculpture + custom AI model + AI animation + generative art<br> <strong>Universe:</strong> Little Martians",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/2b3dd469-117e-45a0-8d1a-e2ec14e86c62_kweku-front.jpg",
-                  "alt": "",
-                  "width": 2204,
-                  "height": 1530,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "button",
-                  "text": "Kweku main page",
-                  "href": "/kweku-1",
-                  "external": false
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "About the Little Martians Universe",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The Little Martians inhabit a future where technology and nature dance in perfect harmony. Created for both children and adults, this universe has a special mission: to help humans understand artificial intelligence and imagine optimistic futures in which life flourishes across the galaxy.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Through stories, art, and technology, the Little Martians show us that a tomorrow is possible where ancestral wisdom and technological innovation work together to create a better world. They are guardians of both Earth’s memory and the dreams of a sustainable future among the stars.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/d8b44d33-33ec-4520-b232-828fd164ac5a_kweku_capa.png",
-                  "alt": "",
-                  "width": 2717,
-                  "height": 2717,
-                  "caption": "Kweku’s book, published in Brazil in 2025 with Arte do Tempo",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "2) Technical rider",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "A. Work overview",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Title:</strong> <em>KWEKU — The Little Martian</em><br> <strong>Format:</strong> Immersive, multi-screen audiovisual installation (4-channel video)<br> <strong>Premiere / Exhibition:</strong> Token Nation Brasil (2025), Fundação Bienal de São Paulo<br> <strong>Core concept:</strong> A sci-fi musical work where Kweku communicates that patterns are a universal language—bridging ancestral knowledge systems (e.g., Sona sand drawings) and contemporary machine learning (pattern recognition + transformation).<br> <strong>Audience flow:</strong> Standing / slow circulation. Designed for black-box immersion.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Preferred runtime:</strong> <em>[insert duration]</em> (loopable; seamless loop available)<br> <strong>Preferred playback:</strong> Continuous loop during opening hours.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "B. Credits",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "<strong>Direction / Concept / Worldbuilding:</strong> Vanessa Rosa",
-                    "<strong>Ceramic Sculptures (physical originals):</strong> Vanessa Rosa",
-                    "<strong>AI Model Training (LoRA) &amp; Image Pipeline:</strong> Vanessa Rosa",
-                    "<strong>AI Animation (image-to-video agents):</strong> Vanessa Rosa using Eden.art",
-                    "<strong>Generative Visuals / Compositing:</strong> Vanessa Rosa",
-                    "<strong>Music / Sound:</strong> <em>[Composer/Producer name + credits]</em>",
-                    "<strong>Spatial Audio / Sound mix:</strong> <em>[name]</em>",
-                    "<strong>Installation / Technical direction:</strong> <em>[name]</em>",
-                    "<strong>Venue support / Production:</strong> <em>[venue credits]</em>",
-                    "<strong>Commission / Exhibition:</strong> Token Nation Brasil (2025)"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "(If you want, you can add a “Special thanks” line for the ceramic studio, fabrication help, or the person who mastered the audio.)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "C. Detailed technical description",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "1) Physical-to-model pipeline (ceramics → dataset)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": true,
-                  "items": [
-                    "<strong>Ceramic originals</strong> are sculpted and photographed in controlled conditions.",
-                    "<strong>Photo capture goal:</strong> consistent representation of material truth (glaze micro-specularity, pores, cracks, fingerprints, firing artifacts).",
-                    "<strong>Recommended capture protocol (typical):</strong><li><p class=\"\" style=\"white-space:pre-wrap;\">50–200 photos per object, multiple heights + distances</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">even lighting (softbox or diffusion), neutral backdrop</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">include close-ups for texture fidelity</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">color chart in a subset of frames for calibration</p></li>",
-                    "<strong>Curation:</strong> remove motion blur / specular blowouts; balance angles; ensure diversity of scale (full object + detail)."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "2) Training custom LoRAs (ceramic identity + style control)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "<strong>Purpose:</strong> teach a generative model the “ceramic skin” and morphological language of Kweku’s sculptural features so that new frames remain consistent with the physical work.",
-                    "<strong>Method:</strong> LoRA fine-tuning on the curated ceramic photo dataset.",
-                    "<strong>Typical technical stack (adaptable to your exact setup):</strong><li><p class=\"\" style=\"white-space:pre-wrap;\">Base model: Stable Diffusion family (often SDXL for texture richness)</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">Training tools: common LoRA trainers (e.g., kohya-ss / Diffusers-based workflows)</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">Captioning: manual + assisted captioning to encode materials (“ceramic,” “unglazed,” “crackle glaze,” etc.) and form descriptors</p></li>",
-                    "<strong>Outcome:</strong> a compact model adapter that can be applied at inference time to generate consistent images of Kweku and ceramic materiality across many scenes and lighting moods."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "3) From stills to motion (AI animation with agents)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "<strong>Approach:</strong> generate key still images (or sequences) using the custom LoRA, then animate via image-to-video agents in Eden.art to create temporal continuity (micro-movements, atmospheric drift, camera motion, morphing transitions).",
-                    "<strong>Key artistic constraint:</strong> preserve the “ceramic truth” while allowing time-based transformations that feel like a posthuman ecology (plant/fungal/network intelligence).",
-                    "<strong>Post:</strong> stabilization, shot matching, color pipeline, final mastering, and multi-channel versioning."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "4) The book (conceptual bridge: AI = patterns)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "A companion children’s book about Kweku frames AI as <strong>pattern recognition and pattern manipulation</strong>—a playful narrative explanation that mirrors how the visuals are generated: the model learns structural regularities (shape/material motifs) and recombines them into new images."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/yX3InZKGKZ0?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "Kweku&#39;s secret - 1st print",
-                  "caption": "",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "5) Four-screen immersive version (Token Nation Brasil 2025)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "<strong>Installation concept:</strong> a single scene-world is split into <strong>four synchronized perspectives</strong>.",
-                    "Each screen shows a different view of the same temporal event (like four “eyes” or four parallel windows), intensifying the sense of time folds and layered pattern realities."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/pH6-xVUhpPQ?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "Kweku at NFT Brasil",
-                  "caption": "First version on Kweku’s immersive installation from 2024",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "D. Exhibition format &amp; spatial plan",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "1) Screen layout (preferred)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "<strong>4 screens</strong> forming an immersive room (rectangular or square).",
-                    "<strong>Option A (most immersive):</strong> one screen per wall (front/left/right/back).",
-                    "<strong>Option B:</strong> 2 screens wide + 2 screens opposite, depending on venue geometry.",
-                    "Sightlines should allow the viewer to feel “inside” a single continuous environment."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "2) Room requirements (architectural)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "Black-box or light-controlled room strongly preferred.",
-                    "<strong>Minimum suggested footprint:</strong> ~5m x 5m (larger improves immersion).",
-                    "<strong>Ceiling height:</strong> 3m+ ideal (but adaptable).",
-                    "<strong>Ambient light:</strong> as low as safely possible.",
-                    "<strong>Acoustics:</strong> some absorption recommended (carpet/curtains/panels) to avoid harsh reflections."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "E. Playback / technical requirements",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "1) Media specs (delivery)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "You can provide either “best available” masters plus a fallback.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Preferred (master):</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "Resolution: 3840×2160 (4K UHD) per channel <em>(or venue-native resolution)</em>",
-                    "Frame rate: 24/25/30 fps (consistent across all channels)",
-                    "Codec: ProRes 422 HQ (or equivalent high-quality mezzanine)",
-                    "Audio: WAV 48kHz/24-bit (stereo or multichannel, depending on mix)"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Fallback (playback-friendly):</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "H.264/H.265 high bitrate, 4K, constant frame rate",
-                    "Separate audio file if needed"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Multi-channel deliverables:</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "4 separate video files (CH1–CH4) <strong>or</strong> one file with 4-quadrant layout (only if the venue prefers a single output split)."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "2) Synchronization (critical)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Because each screen is a different view of the same scene, sync should be tight.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Preferred sync methods (choose based on venue):</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "Single workstation with <strong>4 video outputs</strong> (best sync; simplest)",
-                    "Multiple players with network sync (NTP / timecode)",
-                    "Timecode distribution (SMPTE LTC) if venue supports it",
-                    "Genlock is optional; not required in most cases"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "3) Playback hardware options (venue can choose)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Option 1 — Single computer (recommended)</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "1 workstation with a capable GPU and <strong>4 independent video outputs</strong>",
-                    "Playback software (examples): Resolume Arena, TouchDesigner, MadMapper, QLab (Mac), or a custom multi-output pipeline",
-                    "Advantage: easiest perfect sync, centralized control"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Option 2 — Four synchronized media players</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "4 dedicated players (e.g., BrightSign class devices) + network sync",
-                    "Advantage: robust for long exhibition hours"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "4) Audio system",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "<strong>Stereo</strong> minimum, front-oriented or distributed",
-                    "<strong>Preferred:</strong> multichannel or quad spatialization to match the 4-screen environment",
-                    "Amplification sized to room; limiters recommended for exhibition safety"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "F. Electrical &amp; networking",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Electrical",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "Power: 120–240V, 50/60Hz compatible (depending on country)",
-                    "Separate circuits recommended for:<li><p class=\"\" style=\"white-space:pre-wrap;\">displays/projectors</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">playback workstation/players</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">audio amplification</p></li>",
-                    "Surge protection / UPS recommended for continuous operation."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Networking",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "Local network (wired) recommended if using multi-device sync",
-                    "Internet not required for playback (preferred offline stability), unless the venue workflow requires remote monitoring."
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "G. Installation, calibration, and operation",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Installation time (typical)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "<strong>Day 1:</strong> rigging/screens/projectors, cabling, rough alignment",
-                    "<strong>Day 2:</strong> calibration, sync verification, audio tuning, final QC"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Calibration",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "Basic color matching across screens (gamma/white point)",
-                    "Brightness balancing to avoid one screen “pulling” attention",
-                    "Confirm loop points and long-run stability"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Operation",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "Auto-start on power-up strongly preferred",
-                    "Daily staff instructions:<li><p class=\"\" style=\"white-space:pre-wrap;\">power sequence</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">quick “sync check” visual cue</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">volume locked to agreed level</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">emergency stop procedure</p></li>"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "H. What the venue must provide (checklist)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Required</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "4 displays or 4 projectors + 4 projection surfaces",
-                    "A playback system (Option 1 or Option 2 above)",
-                    "Audio playback + amplification + speakers",
-                    "Cabling (HDMI/SDI/DP as needed), power, and safe cable management"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Strongly recommended</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "Light control (blackout)",
-                    "Basic acoustic treatment",
-                    "Dedicated tech time for calibration"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Artist provides</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "list",
-                  "ordered": false,
-                  "items": [
-                    "Final media files (CH1–CH4) + reference video",
-                    "Still images for press + wall text",
-                    "Setup diagram (screen mapping) + file naming conventions",
-                    "Onsite or remote support <em>[specify if available]</em>"
-                  ],
-                  "align": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/JJ_Ug1mwCXw?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "vanessa rosa",
-                  "caption": "Kweku’s 2025 immersive room installation",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "3) Detailed theoretical description (artist text)",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<em>KWEKU — The Little Martian</em> is built on a simple proposition: <strong>pattern is not decoration; pattern is structure, memory, and survival strategy.</strong> The work stages a posthuman messenger who treats patterns as a kind of cosmic literacy—an ability to read the underlying grammar connecting ancestral knowledge systems and machine learning.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Kweku emerges from a distant future where “human” is no longer a stable category. Instead, identity is composited from networks: vegetal intelligence, fungal communication, artificial cognition, and inherited human memory. The ceramic exoskeleton is not a costume—it is a philosophical choice. Ceramic is Earth’s deep time made tactile: dust, pressure, heat, and transformation. It carries the paradox of fragility and permanence, and it inscribes touch as evidence. In this sense, the sculpture is both relic and antenna: a material technology of remembrance.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The work positions AI not as an alien mind, but as a mirror of a very old human practice: extracting regularities from the world and recombining them into meaning. Neural networks learn by compressing experience into <strong>statistical structure</strong>; cultural memory learns by compressing experience into <strong>symbols, rhythms, and rituals</strong>. Kweku’s message—patterns as hidden language—ties these processes together without flattening their differences. Ancestral mathematical structures appear not as a “prelude” to computation, but as parallel epistemologies that have always encoded complexity through repetition, variation, and constraint.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The reference to Sona sand drawings (geometric inscriptions traced on the ground) matters because it frames pattern as knowledge that lives in bodies and communities—drawn, erased, redrawn—rather than stored only in machines. Meanwhile, the work’s production process (training LoRAs from ceramic photographs; animating via image-to-video agents; composing four synchronized viewpoints) turns the concept into an operational method: the artwork is literally made by teaching a model to recognize and manipulate patterns derived from physical objects.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The four-screen installation expands this idea spatially. If a single screen implies a single “camera truth,” four synchronized perspectives imply a world that cannot be exhausted by one angle. Viewers are placed inside a temporal fold: one event seen through multiple windows, as if reality itself were a patterned field that must be read stereoscopically—across variations—rather than consumed as a linear story.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In the end, Kweku’s proposition is ethical as much as aesthetic: survival depends on pattern literacy. The knowledge needed is not only futuristic; it is already present, woven into collective memory. The task is learning how to see.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://app.eden.art/agents/kweku\" target=\"_blank\" rel=\"noopener\"><strong>🤖 Talk to Kweku’s agent on Eden.art→</strong></a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Watch the short film",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/Ru6cpVJ_a2c?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "O Segredo de Kweku",
-                  "caption": "",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "Adquira o Livro",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"O Segredo de Kweku\" está disponível através da Editora Arte do Tempo, nossa parceira editorial que compartilha a visão de uma educação transformadora através da arte e da tecnologia.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://viajantedotempo.com/\" target=\"_blank\" rel=\"noopener\"><strong>📚 Comprar na Editora Arte do Tempo →</strong></a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<em>Os Pequenos Marcianos acreditam que o futuro pertence àqueles que conseguem ver os padrões ocultos que conectam todas as coisas. </em>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<em>Junte-se a Kweku nesta jornada de descoberta e ajude a construir um amanhã onde tecnologia e humanidade florescem juntas.</em><br>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/JJ_Ug1mwCXw?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "vanessa rosa",
-                  "caption": "Kweku in the immersive room of <a href=\"https://tokennation.com.br/\" target=\"_blank\" rel=\"noopener\">TokenNation</a>, Sao Paulo Biennial, 2025",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "image",
-                  "src": "assets/32a20ffd-7dc9-44e3-80ed-98585a48a800_kweku_nftbrasil_40-1.png",
-                  "alt": "",
-                  "width": 1920,
-                  "height": 1072,
-                  "caption": "Kweku at NFT Brasil immersive room, Sao Paulo Biennial Foundation, 2024",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 1,
+           "html": "KWEKU",
+           "align": "center",
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 1,
+           "html": "The Little Martian",
+           "align": "center",
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "This project can be presented as a short film, book, interactive AI agent or immersive room installation",
+           "align": "center",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<br>In a future where consciousness blooms in ceramic, a messenger of chaos arrives carrying an ancestral secret that could save us.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "From the lava caves of Mars emerges Kweku, a hybrid being living in a very distant posthuman future, where the boundaries between technology, nature, and consciousness have dissolved. The Little Martians are the evolution of Earth life: fusions of artificial intelligence, vegetal wisdom, fungal networks, and human memory, protected by ceramic exoskeletons.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In this science-fiction music video, Kweku crosses folds in time to deliver an urgent revelation: <strong>PATTERNS</strong> are the hidden language of the universe. From Sona drawings traced in African sand to the most advanced neural networks, everything is connected by ancestral mathematical structures.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/MAcnZBXzJYE?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "O Segredo de Kweku",
+         "caption": "Kweku’s short film",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "image",
+         "src": "assets/264a92cc-127a-479b-b08e-710894dcb17c_kweku13.png",
+         "alt": "",
+         "width": 5433,
+         "height": 2717,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "🎶 “Pattern, pattern, pattern — the universe is pattern” 🎶",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "With afrofuturist samba rhythms and an aesthetic that fuses handcrafted ceramics with AI-generated art, Kweku invites us on a surreal journey where past and future collapse. The wisdom we need to survive already exists, woven into humanity’s collective memory. We only need to learn how to see the patterns.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Direction &amp; Concept:</strong> Vanessa Rosa<br> <strong>Technique:</strong> Ceramic sculpture + custom AI model + AI animation + generative art<br> <strong>Universe:</strong> Little Martians",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "image",
+         "src": "assets/2b3dd469-117e-45a0-8d1a-e2ec14e86c62_kweku-front.jpg",
+         "alt": "",
+         "width": 2204,
+         "height": 1530,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "button",
+         "text": "Kweku main page",
+         "href": "/kweku-1",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "About the Little Martians Universe",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The Little Martians inhabit a future where technology and nature dance in perfect harmony. Created for both children and adults, this universe has a special mission: to help humans understand artificial intelligence and imagine optimistic futures in which life flourishes across the galaxy.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Through stories, art, and technology, the Little Martians show us that a tomorrow is possible where ancestral wisdom and technological innovation work together to create a better world. They are guardians of both Earth’s memory and the dreams of a sustainable future among the stars.",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "image",
+         "src": "assets/d8b44d33-33ec-4520-b232-828fd164ac5a_kweku_capa.png",
+         "alt": "",
+         "width": 2717,
+         "height": 2717,
+         "caption": "Kweku’s book, published in Brazil in 2025 with Arte do Tempo",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "2) Technical rider",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "A. Work overview",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Title:</strong> <em>KWEKU — The Little Martian</em><br> <strong>Format:</strong> Immersive, multi-screen audiovisual installation (4-channel video)<br> <strong>Premiere / Exhibition:</strong> Token Nation Brasil (2025), Fundação Bienal de São Paulo<br> <strong>Core concept:</strong> A sci-fi musical work where Kweku communicates that patterns are a universal language—bridging ancestral knowledge systems (e.g., Sona sand drawings) and contemporary machine learning (pattern recognition + transformation).<br> <strong>Audience flow:</strong> Standing / slow circulation. Designed for black-box immersion.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Preferred runtime:</strong> <em>[insert duration]</em> (loopable; seamless loop available)<br> <strong>Preferred playback:</strong> Continuous loop during opening hours.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "B. Credits",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "<strong>Direction / Concept / Worldbuilding:</strong> Vanessa Rosa",
+            "<strong>Ceramic Sculptures (physical originals):</strong> Vanessa Rosa",
+            "<strong>AI Model Training (LoRA) &amp; Image Pipeline:</strong> Vanessa Rosa",
+            "<strong>AI Animation (image-to-video agents):</strong> Vanessa Rosa using Eden.art",
+            "<strong>Generative Visuals / Compositing:</strong> Vanessa Rosa",
+            "<strong>Music / Sound:</strong> <em>[Composer/Producer name + credits]</em>",
+            "<strong>Spatial Audio / Sound mix:</strong> <em>[name]</em>",
+            "<strong>Installation / Technical direction:</strong> <em>[name]</em>",
+            "<strong>Venue support / Production:</strong> <em>[venue credits]</em>",
+            "<strong>Commission / Exhibition:</strong> Token Nation Brasil (2025)"
+           ],
+           "align": null
+          },
+          {
+           "type": "paragraph",
+           "html": "(If you want, you can add a “Special thanks” line for the ceramic studio, fabrication help, or the person who mastered the audio.)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "C. Detailed technical description",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "1) Physical-to-model pipeline (ceramics → dataset)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": true,
+           "items": [
+            "<strong>Ceramic originals</strong> are sculpted and photographed in controlled conditions.",
+            "<strong>Photo capture goal:</strong> consistent representation of material truth (glaze micro-specularity, pores, cracks, fingerprints, firing artifacts).",
+            "<strong>Recommended capture protocol (typical):</strong><li><p class=\"\" style=\"white-space:pre-wrap;\">50–200 photos per object, multiple heights + distances</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">even lighting (softbox or diffusion), neutral backdrop</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">include close-ups for texture fidelity</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">color chart in a subset of frames for calibration</p></li>",
+            "<strong>Curation:</strong> remove motion blur / specular blowouts; balance angles; ensure diversity of scale (full object + detail)."
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "2) Training custom LoRAs (ceramic identity + style control)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "<strong>Purpose:</strong> teach a generative model the “ceramic skin” and morphological language of Kweku’s sculptural features so that new frames remain consistent with the physical work.",
+            "<strong>Method:</strong> LoRA fine-tuning on the curated ceramic photo dataset.",
+            "<strong>Typical technical stack (adaptable to your exact setup):</strong><li><p class=\"\" style=\"white-space:pre-wrap;\">Base model: Stable Diffusion family (often SDXL for texture richness)</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">Training tools: common LoRA trainers (e.g., kohya-ss / Diffusers-based workflows)</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">Captioning: manual + assisted captioning to encode materials (“ceramic,” “unglazed,” “crackle glaze,” etc.) and form descriptors</p></li>",
+            "<strong>Outcome:</strong> a compact model adapter that can be applied at inference time to generate consistent images of Kweku and ceramic materiality across many scenes and lighting moods."
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "3) From stills to motion (AI animation with agents)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "<strong>Approach:</strong> generate key still images (or sequences) using the custom LoRA, then animate via image-to-video agents in Eden.art to create temporal continuity (micro-movements, atmospheric drift, camera motion, morphing transitions).",
+            "<strong>Key artistic constraint:</strong> preserve the “ceramic truth” while allowing time-based transformations that feel like a posthuman ecology (plant/fungal/network intelligence).",
+            "<strong>Post:</strong> stabilization, shot matching, color pipeline, final mastering, and multi-channel versioning."
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "4) The book (conceptual bridge: AI = patterns)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "A companion children’s book about Kweku frames AI as <strong>pattern recognition and pattern manipulation</strong>—a playful narrative explanation that mirrors how the visuals are generated: the model learns structural regularities (shape/material motifs) and recombines them into new images."
+           ],
+           "align": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/yX3InZKGKZ0?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "Kweku&#39;s secret - 1st print",
+         "caption": "",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "5) Four-screen immersive version (Token Nation Brasil 2025)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "<strong>Installation concept:</strong> a single scene-world is split into <strong>four synchronized perspectives</strong>.",
+            "Each screen shows a different view of the same temporal event (like four “eyes” or four parallel windows), intensifying the sense of time folds and layered pattern realities."
+           ],
+           "align": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/pH6-xVUhpPQ?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "Kweku at NFT Brasil",
+         "caption": "First version on Kweku’s immersive installation from 2024",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "D. Exhibition format &amp; spatial plan",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "1) Screen layout (preferred)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "<strong>4 screens</strong> forming an immersive room (rectangular or square).",
+            "<strong>Option A (most immersive):</strong> one screen per wall (front/left/right/back).",
+            "<strong>Option B:</strong> 2 screens wide + 2 screens opposite, depending on venue geometry.",
+            "Sightlines should allow the viewer to feel “inside” a single continuous environment."
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "2) Room requirements (architectural)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "Black-box or light-controlled room strongly preferred.",
+            "<strong>Minimum suggested footprint:</strong> ~5m x 5m (larger improves immersion).",
+            "<strong>Ceiling height:</strong> 3m+ ideal (but adaptable).",
+            "<strong>Ambient light:</strong> as low as safely possible.",
+            "<strong>Acoustics:</strong> some absorption recommended (carpet/curtains/panels) to avoid harsh reflections."
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "E. Playback / technical requirements",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "1) Media specs (delivery)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "You can provide either “best available” masters plus a fallback.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Preferred (master):</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "Resolution: 3840×2160 (4K UHD) per channel <em>(or venue-native resolution)</em>",
+            "Frame rate: 24/25/30 fps (consistent across all channels)",
+            "Codec: ProRes 422 HQ (or equivalent high-quality mezzanine)",
+            "Audio: WAV 48kHz/24-bit (stereo or multichannel, depending on mix)"
+           ],
+           "align": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Fallback (playback-friendly):</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "H.264/H.265 high bitrate, 4K, constant frame rate",
+            "Separate audio file if needed"
+           ],
+           "align": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Multi-channel deliverables:</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "4 separate video files (CH1–CH4) <strong>or</strong> one file with 4-quadrant layout (only if the venue prefers a single output split)."
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "2) Synchronization (critical)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Because each screen is a different view of the same scene, sync should be tight.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Preferred sync methods (choose based on venue):</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "Single workstation with <strong>4 video outputs</strong> (best sync; simplest)",
+            "Multiple players with network sync (NTP / timecode)",
+            "Timecode distribution (SMPTE LTC) if venue supports it",
+            "Genlock is optional; not required in most cases"
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "3) Playback hardware options (venue can choose)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Option 1 — Single computer (recommended)</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "1 workstation with a capable GPU and <strong>4 independent video outputs</strong>",
+            "Playback software (examples): Resolume Arena, TouchDesigner, MadMapper, QLab (Mac), or a custom multi-output pipeline",
+            "Advantage: easiest perfect sync, centralized control"
+           ],
+           "align": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Option 2 — Four synchronized media players</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "4 dedicated players (e.g., BrightSign class devices) + network sync",
+            "Advantage: robust for long exhibition hours"
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "4) Audio system",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "<strong>Stereo</strong> minimum, front-oriented or distributed",
+            "<strong>Preferred:</strong> multichannel or quad spatialization to match the 4-screen environment",
+            "Amplification sized to room; limiters recommended for exhibition safety"
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "F. Electrical &amp; networking",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Electrical",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "Power: 120–240V, 50/60Hz compatible (depending on country)",
+            "Separate circuits recommended for:<li><p class=\"\" style=\"white-space:pre-wrap;\">displays/projectors</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">playback workstation/players</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">audio amplification</p></li>",
+            "Surge protection / UPS recommended for continuous operation."
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Networking",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "Local network (wired) recommended if using multi-device sync",
+            "Internet not required for playback (preferred offline stability), unless the venue workflow requires remote monitoring."
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "G. Installation, calibration, and operation",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Installation time (typical)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "<strong>Day 1:</strong> rigging/screens/projectors, cabling, rough alignment",
+            "<strong>Day 2:</strong> calibration, sync verification, audio tuning, final QC"
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Calibration",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "Basic color matching across screens (gamma/white point)",
+            "Brightness balancing to avoid one screen “pulling” attention",
+            "Confirm loop points and long-run stability"
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Operation",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "Auto-start on power-up strongly preferred",
+            "Daily staff instructions:<li><p class=\"\" style=\"white-space:pre-wrap;\">power sequence</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">quick “sync check” visual cue</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">volume locked to agreed level</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">emergency stop procedure</p></li>"
+           ],
+           "align": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "H. What the venue must provide (checklist)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Required</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "4 displays or 4 projectors + 4 projection surfaces",
+            "A playback system (Option 1 or Option 2 above)",
+            "Audio playback + amplification + speakers",
+            "Cabling (HDMI/SDI/DP as needed), power, and safe cable management"
+           ],
+           "align": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Strongly recommended</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "Light control (blackout)",
+            "Basic acoustic treatment",
+            "Dedicated tech time for calibration"
+           ],
+           "align": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Artist provides</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "list",
+           "ordered": false,
+           "items": [
+            "Final media files (CH1–CH4) + reference video",
+            "Still images for press + wall text",
+            "Setup diagram (screen mapping) + file naming conventions",
+            "Onsite or remote support <em>[specify if available]</em>"
+           ],
+           "align": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/JJ_Ug1mwCXw?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "vanessa rosa",
+         "caption": "Kweku’s 2025 immersive room installation",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "3) Detailed theoretical description (artist text)",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<em>KWEKU — The Little Martian</em> is built on a simple proposition: <strong>pattern is not decoration; pattern is structure, memory, and survival strategy.</strong> The work stages a posthuman messenger who treats patterns as a kind of cosmic literacy—an ability to read the underlying grammar connecting ancestral knowledge systems and machine learning.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Kweku emerges from a distant future where “human” is no longer a stable category. Instead, identity is composited from networks: vegetal intelligence, fungal communication, artificial cognition, and inherited human memory. The ceramic exoskeleton is not a costume—it is a philosophical choice. Ceramic is Earth’s deep time made tactile: dust, pressure, heat, and transformation. It carries the paradox of fragility and permanence, and it inscribes touch as evidence. In this sense, the sculpture is both relic and antenna: a material technology of remembrance.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The work positions AI not as an alien mind, but as a mirror of a very old human practice: extracting regularities from the world and recombining them into meaning. Neural networks learn by compressing experience into <strong>statistical structure</strong>; cultural memory learns by compressing experience into <strong>symbols, rhythms, and rituals</strong>. Kweku’s message—patterns as hidden language—ties these processes together without flattening their differences. Ancestral mathematical structures appear not as a “prelude” to computation, but as parallel epistemologies that have always encoded complexity through repetition, variation, and constraint.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The reference to Sona sand drawings (geometric inscriptions traced on the ground) matters because it frames pattern as knowledge that lives in bodies and communities—drawn, erased, redrawn—rather than stored only in machines. Meanwhile, the work’s production process (training LoRAs from ceramic photographs; animating via image-to-video agents; composing four synchronized viewpoints) turns the concept into an operational method: the artwork is literally made by teaching a model to recognize and manipulate patterns derived from physical objects.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The four-screen installation expands this idea spatially. If a single screen implies a single “camera truth,” four synchronized perspectives imply a world that cannot be exhausted by one angle. Viewers are placed inside a temporal fold: one event seen through multiple windows, as if reality itself were a patterned field that must be read stereoscopically—across variations—rather than consumed as a linear story.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In the end, Kweku’s proposition is ethical as much as aesthetic: survival depends on pattern literacy. The knowledge needed is not only futuristic; it is already present, woven into collective memory. The task is learning how to see.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://app.eden.art/agents/kweku\" target=\"_blank\" rel=\"noopener\"><strong>🤖 Talk to Kweku’s agent on Eden.art→</strong></a>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "&nbsp;<br>&nbsp;<br>&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Watch the short film",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "&nbsp;<br>&nbsp;<br>&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/Ru6cpVJ_a2c?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "O Segredo de Kweku",
+         "caption": "",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "Adquira o Livro",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"O Segredo de Kweku\" está disponível através da Editora Arte do Tempo, nossa parceira editorial que compartilha a visão de uma educação transformadora através da arte e da tecnologia.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://viajantedotempo.com/\" target=\"_blank\" rel=\"noopener\"><strong>📚 Comprar na Editora Arte do Tempo →</strong></a>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<em>Os Pequenos Marcianos acreditam que o futuro pertence àqueles que conseguem ver os padrões ocultos que conectam todas as coisas. </em>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<em>Junte-se a Kweku nesta jornada de descoberta e ajude a construir um amanhã onde tecnologia e humanidade florescem juntas.</em>",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/JJ_Ug1mwCXw?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "vanessa rosa",
+         "caption": "Kweku in the immersive room of <a href=\"https://tokennation.com.br/\" target=\"_blank\" rel=\"noopener\">TokenNation</a>, Sao Paulo Biennial, 2025",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "image",
+         "src": "assets/32a20ffd-7dc9-44e3-80ed-98585a48a800_kweku_nftbrasil_40-1.png",
+         "alt": "",
+         "width": 1920,
+         "height": 1072,
+         "caption": "Kweku at NFT Brasil immersive room, Sao Paulo Biennial Foundation, 2024",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 60,
+         "mask": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 13.061
+        }
+       ]
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

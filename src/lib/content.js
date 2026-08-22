@@ -42,6 +42,8 @@ function load(mod) {
   return {
     ...page,
     slug: page.slug,
+    pageType: page.pageType || 'standalone',
+    intro: !!page.intro,
     path: page.slug === HOME ? '/' : `/${page.slug}/`,
     ogImage: fixSrc(page.ogImage),
     sections: page.sections.map(s => ({

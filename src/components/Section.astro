@@ -1,8 +1,8 @@
 ---
 import Blocks from './Blocks.astro';
-const { section, first = false } = Astro.props;
+const { section, first = false, plain = false } = Astro.props;
 const hero = !!(section.background || section.backgroundVideo);
-const classes = ['section', hero && 'section--hero', first && hero && 'section--first']
+const classes = ['section', hero && 'section--hero', first && hero && 'section--first', plain && 'section--plain']
   .filter(Boolean).join(' ');
 ---
 <section id={section.id} class={classes}>

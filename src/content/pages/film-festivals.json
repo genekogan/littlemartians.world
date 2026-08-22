@@ -1,649 +1,748 @@
 {
-  "slug": "film-festivals",
-  "title": "Film Festivals — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "film-festivals",
+ "title": "Film Festivals — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "image",
+     "src": "assets/fd1110cc-f54a-483a-bd5f-08e7770aae99_poster_laurels_fixed.png",
+     "alt": "",
+     "width": 1922,
+     "height": 1085,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": null,
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": null,
+     "mask": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
         {
-          "type": "image",
-          "src": "assets/fd1110cc-f54a-483a-bd5f-08e7770aae99_poster_laurels_fixed.png",
-          "alt": "",
-          "width": 1922,
-          "height": 1085,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": null
+         "type": "spacer",
+         "ar": 135.102
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 6.119
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 1,
-                  "html": "Film Festivals",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "<strong>‘Verdelis &amp; Mycos’</strong>",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/WmdZ04y0ufI?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "Verdelis & Mycos - award winning sci-fi animation",
-                  "caption": "",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Award Winner</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AI International Film Festival - Best Musical - November 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Experimental Brasil - Best Experimental Film Made with AI - 2026",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Bangkok Movie Awards - Best AI (Artificial Intelligence) Film",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Dubai City Film Festival - Animated Film",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Bali International Ai Film Festival - Finalist",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "25’ Tianjin International Academic Film Festival - Semi-Finalist",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Hollywood AI Short Film Awards - Quarter Finalist",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AI Film Awards Vertical Edition - Honorable Mention",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Selections</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "SHAPESHIFT FESTIVAL - Sofia, Bulgaria",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "MetaCannes Film3 Festival - Cannes, France AI Artist - Peking, China",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Bakunawa Fest - Bacolod, Philipines",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "SEOUL INTERNATIONAL AI Film Festival - Seoul, Korea",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Dasein AI Film Festival - San Francisco, USA",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "BAIFF - Burano Artificial Intelligence Film Festival - Italy",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "New Technologies AI Film Festival - Kiev, Ukraine",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AI Video Awards 2025 - Dutch AI Week - Netherlands",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AI Artist | Beijing/Shanghai, China | 2026",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "<br><strong>‘Little Martians: Dear Human, My Muse’</strong><br><br><br><br>",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/1BJsrK_8AdI?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "Dear Human, My Muse - Introducing Verdelis",
-                  "caption": "",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Award winner</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Korea International AI Film Festival | Global South Special Award | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "International Avant-Garde Film Awards | New York City, USA | Best Art Direction &amp; Best Original Song | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "CineTech Future Fest | Best Original Soundtrack | Opole, Poland | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Reale Film Festival - BiMonthly Award | Best original idea | Milano, Italy | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Monza Film Fest | Best AI Film | Monza, Italy | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Night of Shorts | Best Film | Milano, Italy | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Night of Drama Shorts | Best Film | Milano, Italy | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Absurd Film Festival - Monthly awards | Best VFX | Milano, Italy | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Cannes World Film Festival | Best Female Director Super Short Film | Cannes, France | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "THE GALACTIC IMAGINARIUM FILM FESTIVAL (Sci-Fi &amp; Fantasy) | Sci-Fi/Fantasy Short Film made with AI | Timișoara, Romania | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Moondance International Film Festival | SHORT ANIMATION FILM | Boulder, USA | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Finalist</strong>&nbsp;",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Reel Intelligence | AI Short Film | Sydney, Australia | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Qld XR Festival | Best in Creative AI | Brisbane, Australia | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AA29 Video Project | Music video | Caserta, Italy | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Cannes World Film Festival | Best Artificial Intelligence Film | Cannes, France | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "ORION IFF International Film Festival | Best AI Film (Artificial Intelligence Film) | Berlin, Germany | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Semi-Finalist</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Austin AI Film Festival | Best Experimental | Austin, USA | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Neu Wave AI film festival | AI Short film | Los Angeles, USA | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Nominee&nbsp;</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AI Film Awards | AI Short Film | Online edition | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "YETI FilmFest | Animation | Reykjavik, Iceland | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Meta Morph AI Film Award | AI Evolution Award (Artificial Intelligence) | Online edition | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Honorable Mention</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "RED MOVIE AWARDS | Best Animation MAIN CATEGORY | Reims, France | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Chroma Art Film Festival | AI-Driven Films | Miami, USA | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<br><strong>Selected</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Sofia World Film Festival | AI Film | Sofia, Bulgaria | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Ai Short Film Festival *LARISSA LUMINA* | Narratives | Larissa, Greece | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "BEYOND FILMFESTIVAL 2025 | Utopian Films | Feuchtwangen, Germany | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AMT International Film Festival | Artificial Intelligence (A.I.) &amp; Experimental | New York City, USA | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Blue Danube Film Festival | Animation | Vienna - Austria, Budapest - Hungary, Bratislava - Slovakia | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "SHAPESHIFT FESTIVAL | Art&amp;Technology Film | Sofia, Bulgaria | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "BAIFF - Burano Artificial Intelligence Film Festival | Music Video | Venezia, Italy | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AI Artist | AI-generated | Beijing/Shanghai, China | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Bengaluru International Short Film Festival | Animation | Bangalore, India | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "ONED art/experimental film festival | Made using AI tools | Toulouse, France | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Chicago AI Film Festival | Ai Trailer/Teaser/Concept | Chicago, USA | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Indie Shorts Mag Short Film Festival | AI Generated Short Films | Online only | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Las Flores Web3 Film Festival | Short film Created with Artificial Intelligence🤖 | Ciudad de Mexico, Mexico | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "CineTech Future Fest | Best Short Film with Artificial Intelligence | Opole, Poland | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "LA Independent Women Film Awards | Animation | Los Angeles, USA | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Festival Internacional de Cine con Medios Alternativos FICMA | Experimental Short Film /&nbsp; Cortometraje Experimental | Ciudad de Mexico, Mexico | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Cosmo Genetics Film Festival | Short Film&nbsp; &gt;&nbsp; Science, Technology, Space / Artificial Intelligence, Biology, Psychology | Chiapas, Mexico | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Tiny Mountains environment, sustainability, reuse/upcycle festival | Tiny world films | Queensland, Australia | 2024",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/67dd7037-4781-4834-a132-19ebe49183fa_LittleMartians_Abrahamposter.png",
-                  "alt": "",
-                  "width": 1080,
-                  "height": 1350,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "<strong>‘Little Martians &amp; Abraham’&nbsp;</strong>",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/BBiUKCQsYLU?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "Little Martians & Abraham",
-                  "caption": "",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>This animation was exhibited with the original sculpture in the auction </strong><a href=\"https://onlineonly.christies.com/s/augmented-intelligence/vanessa-rosa-b-1990-31/250113?ldp_breadcrumb=back\" target=\"_blank\" rel=\"noopener\"><strong>‘Augmented Intelligence’</strong></a><strong> by Christie’s at the Rockefeller Center, from February 20th and March 5th 2025. It was sold as an </strong><a href=\"https://opensea.io/item/ethereum/0x9e3742bb02cb076242fc5f13b0869cef01db41b5/1\" target=\"_blank\" rel=\"noopener\"><strong>NFT</strong></a><strong> along the physical piece during the auction.</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>It was also exhibited in the </strong><a href=\"https://thecvf-art.com/project/little-martians-historian-of-consciousness/\" target=\"_blank\" rel=\"noopener\"><strong>CVPR AI Art Gallery 2025</strong></a><strong> (online and during the conference), curated by Luba Elliot.</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Finalist</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://filmfreeway.com/aineuwavefilmfestival\" target=\"_blank\" rel=\"noopener\">Neu Wave AI film festival</a> | AI Short film | Los Angeles, USA | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Semi-Finalist</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AI Film Fest Serbia | AI Film | Belgrade, Serbia | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Selected</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Experimenta Brasil | Best Experimental Film made with AI | Campos Dos Goytacazes, Brazil | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The Seattle AI Film Festival | Best Experimental Short | Seattle, USA | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "BAIFF - Burano Artificial Intelligence Film Festival | Animation | Venezia, Italy | 2025",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/33361e45-95db-47a2-a78e-061a338cabf3_poster_simple.png",
-                  "alt": "",
-                  "width": 864,
-                  "height": 1080,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "<br><strong>‘Brief History of Consciousness in the Simulation’</strong><br>",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "video",
-                  "kind": "embed",
-                  "src": "https://www.youtube.com/embed/fqpb6Wmcbag?feature=oembed",
-                  "provider": "YouTube",
-                  "poster": null,
-                  "title": "Brief History of Consciousness in the Simulation - AI movie",
-                  "caption": "",
-                  "ratio": 56.49999999999999
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://www.nvidia.com/en-us/research/ai-art-gallery/artists/vanessa-rosa/\" target=\"_blank\" rel=\"noopener\"><strong>This animation is part of the Nvidia AI Art Gallery</strong></a><strong>. It was one of the 4 featured works from march 2023 to march 2025. </strong><a href=\"https://www.nvidia.com/en-us/on-demand/session/gtcspring23-s51360/\" target=\"_blank\" rel=\"noopener\"><strong>Watch this video</strong></a><strong> from GTC conference to see how it was created.</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Selected</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "ROS Film Festival | Official Selection |&nbsp; Elche, Spain | 2023",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Chroma Art Film Festival | AI-Driven Films | Miami, USA | 2023",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/1a30fff2-f557-45b9-be76-5616c1804631_animation-frame1_red.jpg",
-                  "alt": "",
-                  "width": 2362,
-                  "height": 1329,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/5f26e23b-16a0-4e7d-adf8-efe1e8ffae44_animation-frame3.png",
-                  "alt": "",
-                  "width": 1920,
-                  "height": 1080,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 1,
+           "html": "Film Festivals",
+           "align": "center",
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "<strong>‘Verdelis &amp; Mycos’</strong>",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/WmdZ04y0ufI?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "Verdelis & Mycos - award winning sci-fi animation",
+         "caption": "",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "<strong>Award Winner</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AI International Film Festival - Best Musical - November 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Experimental Brasil - Best Experimental Film Made with AI - 2026",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Bangkok Movie Awards - Best AI (Artificial Intelligence) Film",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Dubai City Film Festival - Animated Film",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Bali International Ai Film Festival - Finalist",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "25’ Tianjin International Academic Film Festival - Semi-Finalist",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Hollywood AI Short Film Awards - Quarter Finalist",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AI Film Awards Vertical Edition - Honorable Mention",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Selections</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "SHAPESHIFT FESTIVAL - Sofia, Bulgaria",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "MetaCannes Film3 Festival - Cannes, France AI Artist - Peking, China",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Bakunawa Fest - Bacolod, Philipines",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "SEOUL INTERNATIONAL AI Film Festival - Seoul, Korea",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Dasein AI Film Festival - San Francisco, USA",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "BAIFF - Burano Artificial Intelligence Film Festival - Italy",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "New Technologies AI Film Festival - Kiev, Ukraine",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AI Video Awards 2025 - Dutch AI Week - Netherlands",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AI Artist | Beijing/Shanghai, China | 2026",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "&nbsp;",
+           "blank": true,
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "<br><strong>‘Little Martians: Dear Human, My Muse’</strong><br><br><br>",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/1BJsrK_8AdI?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "Dear Human, My Muse - Introducing Verdelis",
+         "caption": "",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "<strong>Award winner</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Korea International AI Film Festival | Global South Special Award | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "International Avant-Garde Film Awards | New York City, USA | Best Art Direction &amp; Best Original Song | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "CineTech Future Fest | Best Original Soundtrack | Opole, Poland | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Reale Film Festival - BiMonthly Award | Best original idea | Milano, Italy | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Monza Film Fest | Best AI Film | Monza, Italy | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Night of Shorts | Best Film | Milano, Italy | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Night of Drama Shorts | Best Film | Milano, Italy | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Absurd Film Festival - Monthly awards | Best VFX | Milano, Italy | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Cannes World Film Festival | Best Female Director Super Short Film | Cannes, France | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "THE GALACTIC IMAGINARIUM FILM FESTIVAL (Sci-Fi &amp; Fantasy) | Sci-Fi/Fantasy Short Film made with AI | Timișoara, Romania | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Moondance International Film Festival | SHORT ANIMATION FILM | Boulder, USA | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Finalist</strong>&nbsp;",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Reel Intelligence | AI Short Film | Sydney, Australia | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Qld XR Festival | Best in Creative AI | Brisbane, Australia | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AA29 Video Project | Music video | Caserta, Italy | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Cannes World Film Festival | Best Artificial Intelligence Film | Cannes, France | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "ORION IFF International Film Festival | Best AI Film (Artificial Intelligence Film) | Berlin, Germany | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Semi-Finalist</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Austin AI Film Festival | Best Experimental | Austin, USA | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Neu Wave AI film festival | AI Short film | Los Angeles, USA | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Nominee&nbsp;</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AI Film Awards | AI Short Film | Online edition | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "YETI FilmFest | Animation | Reykjavik, Iceland | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Meta Morph AI Film Award | AI Evolution Award (Artificial Intelligence) | Online edition | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Honorable Mention</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "RED MOVIE AWARDS | Best Animation MAIN CATEGORY | Reims, France | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Chroma Art Film Festival | AI-Driven Films | Miami, USA | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<br><strong>Selected</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Sofia World Film Festival | AI Film | Sofia, Bulgaria | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Ai Short Film Festival *LARISSA LUMINA* | Narratives | Larissa, Greece | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "BEYOND FILMFESTIVAL 2025 | Utopian Films | Feuchtwangen, Germany | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AMT International Film Festival | Artificial Intelligence (A.I.) &amp; Experimental | New York City, USA | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Blue Danube Film Festival | Animation | Vienna - Austria, Budapest - Hungary, Bratislava - Slovakia | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "SHAPESHIFT FESTIVAL | Art&amp;Technology Film | Sofia, Bulgaria | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "BAIFF - Burano Artificial Intelligence Film Festival | Music Video | Venezia, Italy | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AI Artist | AI-generated | Beijing/Shanghai, China | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Bengaluru International Short Film Festival | Animation | Bangalore, India | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "ONED art/experimental film festival | Made using AI tools | Toulouse, France | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Chicago AI Film Festival | Ai Trailer/Teaser/Concept | Chicago, USA | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Indie Shorts Mag Short Film Festival | AI Generated Short Films | Online only | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Las Flores Web3 Film Festival | Short film Created with Artificial Intelligence🤖 | Ciudad de Mexico, Mexico | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "CineTech Future Fest | Best Short Film with Artificial Intelligence | Opole, Poland | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "LA Independent Women Film Awards | Animation | Los Angeles, USA | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Festival Internacional de Cine con Medios Alternativos FICMA | Experimental Short Film /&nbsp; Cortometraje Experimental | Ciudad de Mexico, Mexico | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Cosmo Genetics Film Festival | Short Film&nbsp; &gt;&nbsp; Science, Technology, Space / Artificial Intelligence, Biology, Psychology | Chiapas, Mexico | 2024",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Tiny Mountains environment, sustainability, reuse/upcycle festival | Tiny world films | Queensland, Australia | 2024",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "image",
+         "src": "assets/67dd7037-4781-4834-a132-19ebe49183fa_LittleMartians_Abrahamposter.png",
+         "alt": "",
+         "width": 1080,
+         "height": 1350,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "<strong>‘Little Martians &amp; Abraham’&nbsp;</strong>",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/BBiUKCQsYLU?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "Little Martians & Abraham",
+         "caption": "",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "<strong>This animation was exhibited with the original sculpture in the auction </strong><a href=\"https://onlineonly.christies.com/s/augmented-intelligence/vanessa-rosa-b-1990-31/250113?ldp_breadcrumb=back\" target=\"_blank\" rel=\"noopener\"><strong>‘Augmented Intelligence’</strong></a><strong> by Christie’s at the Rockefeller Center, from February 20th and March 5th 2025. It was sold as an </strong><a href=\"https://opensea.io/item/ethereum/0x9e3742bb02cb076242fc5f13b0869cef01db41b5/1\" target=\"_blank\" rel=\"noopener\"><strong>NFT</strong></a><strong> along the physical piece during the auction.</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>It was also exhibited in the </strong><a href=\"https://thecvf-art.com/project/little-martians-historian-of-consciousness/\" target=\"_blank\" rel=\"noopener\"><strong>CVPR AI Art Gallery 2025</strong></a><strong> (online and during the conference), curated by Luba Elliot.</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Finalist</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://filmfreeway.com/aineuwavefilmfestival\" target=\"_blank\" rel=\"noopener\">Neu Wave AI film festival</a> | AI Short film | Los Angeles, USA | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Semi-Finalist</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AI Film Fest Serbia | AI Film | Belgrade, Serbia | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Selected</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Experimenta Brasil | Best Experimental Film made with AI | Campos Dos Goytacazes, Brazil | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The Seattle AI Film Festival | Best Experimental Short | Seattle, USA | 2025",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "BAIFF - Burano Artificial Intelligence Film Festival | Animation | Venezia, Italy | 2025",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "image",
+         "src": "assets/33361e45-95db-47a2-a78e-061a338cabf3_poster_simple.png",
+         "alt": "",
+         "width": 864,
+         "height": 1080,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "<br><strong>‘Brief History of Consciousness in the Simulation’</strong>",
+           "align": "center",
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "video",
+         "kind": "embed",
+         "src": "https://www.youtube.com/embed/fqpb6Wmcbag?feature=oembed",
+         "provider": "YouTube",
+         "maxWidth": null,
+         "poster": null,
+         "title": "Brief History of Consciousness in the Simulation - AI movie",
+         "caption": "",
+         "ratio": 56.49999999999999
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://www.nvidia.com/en-us/research/ai-art-gallery/artists/vanessa-rosa/\" target=\"_blank\" rel=\"noopener\"><strong>This animation is part of the Nvidia AI Art Gallery</strong></a><strong>. It was one of the 4 featured works from march 2023 to march 2025. </strong><a href=\"https://www.nvidia.com/en-us/on-demand/session/gtcspring23-s51360/\" target=\"_blank\" rel=\"noopener\"><strong>Watch this video</strong></a><strong> from GTC conference to see how it was created.</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Selected</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "ROS Film Festival | Official Selection |&nbsp; Elche, Spain | 2023",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Chroma Art Film Festival | AI-Driven Films | Miami, USA | 2023",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "image",
+         "src": "assets/1a30fff2-f557-45b9-be76-5616c1804631_animation-frame1_red.jpg",
+         "alt": "",
+         "width": 2362,
+         "height": 1329,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        },
+        {
+         "type": "image",
+         "src": "assets/5f26e23b-16a0-4e7d-adf8-efe1e8ffae44_animation-frame3.png",
+         "alt": "",
+         "width": 1920,
+         "height": 1080,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 13.061
+        }
+       ]
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

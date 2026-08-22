@@ -1,76 +1,98 @@
 {
-  "slug": "our-history-maple",
-  "title": "About — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "our-history-maple",
+ "title": "About — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/560ff6cc-dbe1-4986-99a3-720f2e297a6c_VRosa-LittleMartians3.jpg",
-                  "alt": "",
-                  "width": 2448,
-                  "height": 3264,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 1,
-                  "html": "Va2rosa",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 2,
-                  "html": "A collaborative universe in progress",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "When 2020 pandemic hit I was already in Mars. Not so far as the planet Mars, but in a little part of the Sonoran desert where me and some friends created an art community/ R&amp;D lab we call <a href=\"https://mars.college/\" target=\"_blank\" rel=\"noopener\">Mars</a>. After all, if our technology could one day take some humans to Mars, we could just as well use it to try to inhabit the harsh parts of nowadays Earth. A high tech, low cost approach. It’s an exercise in resilience and sustainability, with a lot of space for artistic madness and fun. We hope to share whatever knowledge we gather with our projects' documentation and open source software libraries. It’s a seasonal enterprise, the Martian community is only functional during North Hemisphere Winter time, but it’s a long term one.<br><br>My artworks used to be about historical research, tales of world history. The pandemic crisis pushed me into imagining futures I’d like to live in, how not to fall into dystopia. A little bit of joy, playfulness and hope.<br><br>Hope you enjoy it,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "<a href=\"https://va2rosa.com\" target=\"_blank\" rel=\"noopener\">Vanessa Rosa</a>",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "button",
-          "text": "about",
-          "href": "/about1",
-          "external": false
+         "type": "image",
+         "src": "assets/560ff6cc-dbe1-4986-99a3-720f2e297a6c_VRosa-LittleMartians3.jpg",
+         "alt": "",
+         "width": 2448,
+         "height": 3264,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 1,
+           "html": "Va2rosa",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 2,
+           "html": "A collaborative universe in progress",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "When 2020 pandemic hit I was already in Mars. Not so far as the planet Mars, but in a little part of the Sonoran desert where me and some friends created an art community/ R&amp;D lab we call <a href=\"https://mars.college/\" target=\"_blank\" rel=\"noopener\">Mars</a>. After all, if our technology could one day take some humans to Mars, we could just as well use it to try to inhabit the harsh parts of nowadays Earth. A high tech, low cost approach. It’s an exercise in resilience and sustainability, with a lot of space for artistic madness and fun. We hope to share whatever knowledge we gather with our projects' documentation and open source software libraries. It’s a seasonal enterprise, the Martian community is only functional during North Hemisphere Winter time, but it’s a long term one.<br><br>My artworks used to be about historical research, tales of world history. The pandemic crisis pushed me into imagining futures I’d like to live in, how not to fall into dystopia. A little bit of joy, playfulness and hope.<br><br>Hope you enjoy it,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "<a href=\"https://va2rosa.com\" target=\"_blank\" rel=\"noopener\">Vanessa Rosa</a>",
+           "align": null,
+           "size": null
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "button",
+     "text": "about",
+     "href": "/about1",
+     "size": "medium",
+     "align": "center",
+     "external": false
+    },
+    {
+     "type": "spacer",
+     "ar": null
     }
-  ]
+   ]
+  }
+ ]
 }

@@ -1,145 +1,186 @@
 {
-  "slug": "martianfamily",
-  "title": "Martianfamily — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "martianfamily",
+ "title": "Martianfamily — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/885e8617-5401-41dd-b4db-aaf193a72b53_2021-09-23_17.04.26.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1978,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/ae99cdf5-006e-43fe-8527-9d83a22a8ce8_2021-09-23_17.05.53.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1861,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 8,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/a937df87-7a13-4229-a2e3-7aedd581646a_2021-10-11_22.33.41.jpg",
-                  "alt": "",
-                  "width": 1935,
-                  "height": 1451,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/b6d96e93-ca59-4b22-9104-8e17523477d7_2021-10-11_22.42.50.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1536,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "image",
-                  "src": "assets/68017afa-c294-4c8f-adb1-ccdbcb9ca4b3_2021-10-11_22.52.21.jpg",
-                  "alt": "",
-                  "width": 1536,
-                  "height": 2048,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/645fb003-bc48-4acc-ab0c-8463931d8ae0_2021-10-11_21.36.11.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1690,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/5fe3d624-4088-468e-9ba7-86986682308d_2021-10-11_21.47.22.jpg",
-                  "alt": "",
-                  "width": 2048,
-                  "height": 1536,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            }
-          ]
+         "type": "image",
+         "src": "assets/885e8617-5401-41dd-b4db-aaf193a72b53_2021-09-23_17.04.26.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1978,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/ae99cdf5-006e-43fe-8527-9d83a22a8ce8_2021-09-23_17.05.53.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1861,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 8,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "image",
+         "src": "assets/a937df87-7a13-4229-a2e3-7aedd581646a_2021-10-11_22.33.41.jpg",
+         "alt": "",
+         "width": 1935,
+         "height": 1451,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/b6d96e93-ca59-4b22-9104-8e17523477d7_2021-10-11_22.42.50.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1536,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 54.66321243523316,
+         "mask": null
+        },
+        {
+         "type": "image",
+         "src": "assets/68017afa-c294-4c8f-adb1-ccdbcb9ca4b3_2021-10-11_22.52.21.jpg",
+         "alt": "",
+         "width": 1536,
+         "height": 2048,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 130.5699481865285,
+         "mask": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/645fb003-bc48-4acc-ab0c-8463931d8ae0_2021-10-11_21.36.11.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1690,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/5fe3d624-4088-468e-9ba7-86986682308d_2021-10-11_21.47.22.jpg",
+         "alt": "",
+         "width": 2048,
+         "height": 1536,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 75,
+         "mask": null
+        }
+       ]
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

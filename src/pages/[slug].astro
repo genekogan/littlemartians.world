@@ -10,6 +10,6 @@ export function getStaticPaths() {
 const { page } = Astro.props;
 const hasHero = !!(page.sections[0]?.background || page.sections[0]?.backgroundVideo);
 ---
-<Base title={page.title} description={page.description} ogImage={page.ogImage} path={page.path} hasHero={hasHero}>
-  {page.sections.map((s, i) => <Section section={s} first={i === 0} />)}
+<Base title={page.title} description={page.description} ogImage={page.ogImage} path={page.path} hasHero={hasHero} intro={page.intro}>
+  {page.sections.map((s, i) => <Section section={s} first={i === 0} plain={page.pageType === 'standalone'} />)}
 </Base>

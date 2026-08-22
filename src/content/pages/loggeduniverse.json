@@ -1,226 +1,288 @@
 {
-  "slug": "loggeduniverse",
-  "title": "LoggedUniverse — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "loggeduniverse",
+ "title": "LoggedUniverse — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "row",
+     "cols": [
+      {
+       "span": 1,
+       "content": [
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 1,
-              "content": []
-            },
-            {
-              "span": 10,
-              "content": [
-                {
-                  "type": "heading",
-                  "level": 1,
-                  "html": "Logged Universe #3",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In 2021, humanity unearthed a strange artefact. Dated to a few millions years ago, it revealed countless logs of a future humanity that was recorded into software that resembled a modern day blockchain. Uncertain of whether the artefact was prophecy, technologists and writers have been decoding the stories hidden within.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "These are the stories and artefacts of the Logged Universe.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Season 1 - Genesis.</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "6 short stories, 6 NFT collections.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<strong>Little Martians and the Human Memorial Monument is the 3rd collection from the Logged Universe series</strong>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "<a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\"><strong>Read the story here!</strong></a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Published by <a href=\"https://www.untitledfrontier.studio\" target=\"_blank\" rel=\"noopener\">Untitled Frontier</a>",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "There are 3 types of NFTs for this collection, check the options bellow",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            },
-            {
-              "span": 1,
-              "content": []
-            }
-          ]
+         "type": "spacer",
+         "ar": 0
+        }
+       ]
+      },
+      {
+       "span": 10,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 1,
+           "html": "Logged Universe #3",
+           "align": "center",
+           "size": null
+          }
+         ]
         },
         {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/9fe6c518-1a94-472d-aa87-24707a9ddd02_layout5.jpg",
-                  "alt": "",
-                  "width": 1080,
-                  "height": 1080,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://foundation.app/@va2rosa/littlemartians/1"
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Cover video",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In the far far future, a ceramic head tells the story of a simulated human who lives in the Logged Universe, which is part of the museum known as Human Memorial Monument.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "3d scanned ceramics, Blender, VQGan and StytleGAN3 animations",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "1/1 edition",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "NFT",
-                  "href": "https://foundation.app/@va2rosa/littlemartians/1",
-                  "external": true
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/5a96b7a7-3de4-403c-a356-19f03805269d_Screen_Shot_2022-04-03_at_12.47.19.png",
-                  "alt": "",
-                  "width": 1566,
-                  "height": 1428,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "Luxury Collection",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "AI animated textures by Gene Kogan, made using Vanessa Rosa's illustrations. The images were originally made for the book Diana's World, on which this new story is partially based.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "edition of 12",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "Foundation NFTs",
-                  "href": "https://foundation.app/collection/lmhmm",
-                  "external": true
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/ae57bb34-955c-4250-8a7b-348c254af013_Screenshot_2022-01-27_at_19.44.06.png",
-                  "alt": "",
-                  "width": 944,
-                  "height": 912,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": "https://www.untitledfrontier.studio/logged-universe-s1-stories"
-                },
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "html": "On Chain Martians",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Completely on chain SVGs NFTs, with generative textures by Simon de la Rouviere and shapes by Vanessa Rosa.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Unlimited supply, available only from April 14th 2022 - May 14th 2022",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "button",
-                  "text": "NFTs",
-                  "href": "https://littlemartians.untitledfrontier.studio",
-                  "external": true
-                }
-              ]
-            }
-          ]
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "In 2021, humanity unearthed a strange artefact. Dated to a few millions years ago, it revealed countless logs of a future humanity that was recorded into software that resembled a modern day blockchain. Uncertain of whether the artefact was prophecy, technologists and writers have been decoding the stories hidden within.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "These are the stories and artefacts of the Logged Universe.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Season 1 - Genesis.</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "6 short stories, 6 NFT collections.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<strong>Little Martians and the Human Memorial Monument is the 3rd collection from the Logged Universe series</strong>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "<a href=\"https://www.untitledfrontier.studio/blog/logged-universe-3-little-martians-amp-the-human-memorial-monument\" target=\"_blank\" rel=\"noopener\"><strong>Read the story here!</strong></a>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Published by <a href=\"https://www.untitledfrontier.studio\" target=\"_blank\" rel=\"noopener\">Untitled Frontier</a>",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "There are 3 types of NFTs for this collection, check the options bellow",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "spacer",
+         "ar": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 1,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/9fe6c518-1a94-472d-aa87-24707a9ddd02_layout5.jpg",
+         "alt": "",
+         "width": 1080,
+         "height": 1080,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://foundation.app/@va2rosa/littlemartians/1",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Cover video",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In the far far future, a ceramic head tells the story of a simulated human who lives in the Logged Universe, which is part of the museum known as Human Memorial Monument.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "3d scanned ceramics, Blender, VQGan and StytleGAN3 animations",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "1/1 edition",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "NFT",
+         "href": "https://foundation.app/@va2rosa/littlemartians/1",
+         "size": "small",
+         "align": "left",
+         "external": true
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/5a96b7a7-3de4-403c-a356-19f03805269d_Screen_Shot_2022-04-03_at_12.47.19.png",
+         "alt": "",
+         "width": 1566,
+         "height": 1428,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "Luxury Collection",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "AI animated textures by Gene Kogan, made using Vanessa Rosa's illustrations. The images were originally made for the book Diana's World, on which this new story is partially based.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "edition of 12",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "Foundation NFTs",
+         "href": "https://foundation.app/collection/lmhmm",
+         "size": "small",
+         "align": "left",
+         "external": true
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/ae57bb34-955c-4250-8a7b-348c254af013_Screenshot_2022-01-27_at_19.44.06.png",
+         "alt": "",
+         "width": 944,
+         "height": 912,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": "https://www.untitledfrontier.studio/logged-universe-s1-stories",
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 100,
+         "mask": null
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 3,
+           "html": "On Chain Martians",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Completely on chain SVGs NFTs, with generative textures by Simon de la Rouviere and shapes by Vanessa Rosa.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Unlimited supply, available only from April 14th 2022 - May 14th 2022",
+           "align": null,
+           "size": null
+          }
+         ]
+        },
+        {
+         "type": "button",
+         "text": "NFTs",
+         "href": "https://littlemartians.untitledfrontier.studio",
+         "size": "small",
+         "align": "left",
+         "external": true
+        }
+       ]
+      }
+     ]
     }
-  ]
+   ]
+  }
+ ]
 }

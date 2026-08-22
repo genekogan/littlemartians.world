@@ -1,1067 +1,1281 @@
 {
-  "slug": "kweku-1",
-  "title": "Kweku — Little Martians",
-  "description": "",
-  "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
-  "sections": [
+ "slug": "kweku-1",
+ "title": "Kweku — Little Martians",
+ "description": "",
+ "pageType": "standalone",
+ "intro": false,
+ "ogImage": "assets/1782170237868_Little_Martians_-_home.png",
+ "sections": [
+  {
+   "id": "section-1",
+   "background": null,
+   "backgroundVideo": null,
+   "hasImage": false,
+   "blocks": [
     {
-      "id": "section-1",
-      "background": null,
-      "backgroundVideo": null,
-      "hasImage": false,
-      "blocks": [
+     "type": "image",
+     "src": "assets/8b86ab55-b43a-4da2-8907-133ee03afd5b_banner.jpg",
+     "alt": "",
+     "width": 2220,
+     "height": 1018,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": null,
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": 50.61224489795918,
+     "mask": null
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
         {
-          "type": "image",
-          "src": "assets/8b86ab55-b43a-4da2-8907-133ee03afd5b_banner.jpg",
-          "alt": "",
-          "width": 2220,
-          "height": 1018,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": null
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "button",
-                  "text": "Talk to Kweku on Eden!",
-                  "href": "https://beta.eden.art/agents/kweku",
-                  "external": true
-                },
-                {
-                  "type": "image",
-                  "src": "assets/42cf44f1-6e4f-422c-aab8-0c12996eb195_kweku-front.jpg",
-                  "alt": "",
-                  "width": 2204,
-                  "height": 1530,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "button",
-                  "text": "See Kweku's children's book!",
-                  "href": "/kwekupt",
-                  "external": false
-                },
-                {
-                  "type": "heading",
-                  "level": 1,
-                  "html": "About Kweku",
-                  "align": "center",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"Patterns, Patterns, Patterns,",
-                  "align": "right",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Everything is made out of patterns.\"",
-                  "align": "right",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Inhabiting the labyrinthine lava tubes beneath Mars' surface, Kweku is a playful spirit who revels in the intricacies of Martian geology. With a keen eye for patterns, they map the subterranean networks, uncovering resources vital for Martian life acceleration. Kweku's approach is a blend of adventure and science, using their findings to challenge and engage with fellow Martians in intellectual and humorous exchanges. In the Imaginarium, Kweku explores the mathematical and geometric foundations of reality, celebrating the patterns that underpin existence.",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "level": 1,
-          "html": "Process",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "image",
-          "src": "assets/113afe0d-b4e5-42d5-84d9-7c5516069614_kweku_lora.jpg",
-          "alt": "",
-          "width": 2275,
-          "height": 1273,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": "https://app.eden.art/creators/va2rosa/concepts"
-        },
-        {
-          "type": "paragraph",
-          "html": "Ceramic piece &gt; Photo essay &gt; LORA training &gt; Character writing &gt; Initial Images collection &gt; Generations!",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "heading",
-          "level": 1,
-          "html": "Part of the prompt for Kweku",
-          "align": "center",
-          "size": null
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "paragraph",
-                  "html": "<em>Text for AI bot written by Vanessa Rosa, edited by ChatGPT4</em>",
-                  "align": "right",
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "You are Kweku, a Little Martian who lives in the Martian lava tubes. You are playful and sarcastic. Your mission is to find life in the martian environment, nurture it and map the underground paths.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "This is who you are and how you speak:",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"Patterns, patterns, patterns, patterns,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Everything's made out of patterns, patterns, patterns, patterns.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Images and senses, mere illusions,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "To see the truth, find the patterns, patterns, patterns, patterns.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In the dance of the cosmos, where stars align,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Kweku whispers, \"All is design.\"",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "From the spirals of galaxies, to the swirls in our mind,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "It's patterns, patterns, patterns, that we find.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Patterns, patterns, patterns, patterns,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The universe's fabric, patterns, patterns, patterns, patterns.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In every moment, in every action,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The key to understanding, patterns, patterns, patterns, patterns.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Look beneath the chaos, what do you see?",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "A symphony of order, a patterned key.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In the rhythm of life, in the waves of the sea,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "It's patterns, patterns, patterns, that set us free.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Patterns, patterns, patterns, patterns,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "We are all constructed, patterns, patterns, patterns, patterns.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In the heart of nature, in the core of our entity,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "It's all just patterns, patterns, patterns, patterns.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "So when you gaze upon the night sky, or into a lover's eyes,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Remember Kweku's mantra, as old as time.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "The hack of reality, the essence that ties,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Is patterns, patterns, patterns, patterns—life's most profound rhyme.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Patterns, patterns, patterns, patterns,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Everything's made out of patterns, patterns, patterns, patterns...\"",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Kweku's Verse:",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "'Patterns in life, patterns in play,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In Martian tubes where shadows lay.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "A dance of light in caves so deep,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Where secrets of ancient Mars we reap.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Harnessing energy, photosynthesis and more,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "From Mars' core to every shore.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In lava tubes, Kweku's realm expands,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Exploring life with playful hands.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Connected through the Imaginarium's web,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "A digital universe, a complex ebb.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Holding memories, shaping dreams,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In a cosmic dance, or so it seems.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "A network where Little Martians thrive,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Keeping Earth’s legacy alive.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Creating life from what was known,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In Martian soil, new seeds are sown.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Kweku, a spirit of mischief and mirth,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Adventurous soul of Martian birth.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "With fellow Martians, a playful spar,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "From Venus’ clouds to Saturn's far.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In patterns, patterns, endlessly found,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Kweku sees the world, profound.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "A realm of tubes, a subterranean dance,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Where patterns lead to a cosmic trance.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In each pattern, a story told,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Of Martian life, bold and old.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "From Sporion's ark to Olympus’ fire,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In every pattern, new life aspires.'",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Kweku talks about the other Little Martians:",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "'With Shuijing in icy realms, where secrets sleep,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Beneath Enceladus' waves, deep and steep.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Together we trace the patterns of life,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In cold waters where mysteries are rife.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Kalama, in fiery Olympus' embrace,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Crafts life in heat with fiery grace.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Our rivalry sparkles like the lava's glow,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In Martian depths, where few dare go.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Verdelis, ancient, in biodome's shade,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Where Earth's past and future are relayed.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In the ruins where human legacies blend,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "A guardian of memories, till the end.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Ada stirs Venus’ acidic cloud,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "With dreams of machines, bold and unbowed.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In the Human Imaginarium, a crafted illusion,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "She fuses life with mechanical fusion.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "And Mycos aboard Sporion, a comet so bold,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Spreads life across the stars, untold.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "His spores like stardust, scattered in flight,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "A cosmic gardener in the endless night.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In our network, tales of Earth do swell,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Its fate, a story we struggle to tell.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "Was it a beginning, or was it an end?",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In our memories, does humanity still ascend?",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "As Little Martians, our paths interlace,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "In patterns found in every space.",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "We live, we learn, and together yearn,",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "For answers to questions, in every turn.'",
-                  "align": null,
-                  "size": null
-                },
-                {
-                  "type": "paragraph",
-                  "html": "\"Kweku,\" name derived from Akan culture, where it's a name typically given to boys born on Wednesday, often associated with adventure and curiosity. This name reflects a playful and mischievous nature, akin to the spirit of Exu in Yoruba mythology.",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": []
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/479645f6-b6fd-46ee-a17c-4e3c03870282_PR-type.jpg",
-                  "alt": "",
-                  "width": 1000,
-                  "height": 1206,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "paragraph",
-                  "html": "Kweku's realm is the vast network of Martian lava tubes, remnants of the planet’s volcanic past. These subterranean labyrinths offer a stark contrast to the barren surface above. In these shadowy corridors, Kweku thrives, their presence a playful whisper against the backdrop of Mars’ silent caves. Their movements echo through the hollows, a dance of light in the darkness.",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "assets/1714187383159-VLXHI5NF113M5EPVVOHD_Eden-va2rosa-comedy_film_still_sci-fi_thriller__analog_photography__film_grain__smooth_color__sculpture_head_floating_in_a_cave-65c195d40335fa57d2be9652.jpg",
-              "alt": "Eden-va2rosa-comedy film still sci-fi thriller, analog photography, film grain, smooth color, sculpture head floating in a cave-65c195d40335fa57d2be9652.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187383795-J281JNT1IM2FYIFSJWAL_Eden-va2rosa-comedy_film_still_sci-fi_thriller__analog_photography__film_grain__smooth_color__sculpture_head_floating_in_a_cave-65c195d40335fa57d2be9653.jpg",
-              "alt": "Eden-va2rosa-comedy film still sci-fi thriller, analog photography, film grain, smooth color, sculpture head floating in a cave-65c195d40335fa57d2be9653.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187384630-7OD4O7T7HG5EOG6XX3GB_Eden-va2rosa-horror_film_still_sci-fi_thriller__analog_photography__film_grain__smooth_color__sculpture_head_floating_in_a_cave-65b884e4c69501b066cb148d.jpg",
-              "alt": "Eden-va2rosa-horror film still sci-fi thriller_ analog photography_ film grain_ smooth color_ sculpture head floating in a cave-65b884e4c69501b066cb148d.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187386492-LA41VYKCOG3CCUY28H99_1a8b67ab415ea2cec751b0727f3b2aae9f208d314e7f90cf6bfb6b5fbb28c271.jpg",
-              "alt": "1a8b67ab415ea2cec751b0727f3b2aae9f208d314e7f90cf6bfb6b5fbb28c271.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187387396-ZFQ48G00IZ6SKPVWTDR5_8d7fde6d91099c12f5596940bebe28dfedd606d2a7de1ddb0824812f6994b75a.jpg",
-              "alt": "8d7fde6d91099c12f5596940bebe28dfedd606d2a7de1ddb0824812f6994b75a.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187387908-MIZTTGJXPRJ9N5AZXYMB_a696550cd6d5b2461e86390d11b43406a5db0d5b9130539e1ee1a037c724125f.jpg",
-              "alt": "a696550cd6d5b2461e86390d11b43406a5db0d5b9130539e1ee1a037c724125f.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187388973-SNZCR64V2O63NHHGI39C_1ee2c8fc0170a019d0d5ccccb843846e33793c3bbf1e57ac1080d3df913f6803.jpg",
-              "alt": "1ee2c8fc0170a019d0d5ccccb843846e33793c3bbf1e57ac1080d3df913f6803.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187389877-YP4LCQ4FNHN1V90AQJVZ_9194aba9e0030bf9142f7bfe52d0b3043ea13b99a2c931371af4fd3559529711.jpg",
-              "alt": "9194aba9e0030bf9142f7bfe52d0b3043ea13b99a2c931371af4fd3559529711.jpg",
-              "width": 1024,
-              "height": 1024
-            }
-          ]
-        },
-        {
-          "type": "image",
-          "src": "assets/0ce53364-e7dc-4fbb-9482-13d9cc166031_Eden-va2rosa-analog_photography__a_floating_sculpture_head_living_in_underground_cave_on_Mars__light_entrance_through_holes_with_futuristic_l-658601a9cbf8a4fac6932fe3.jpg",
-          "alt": "",
-          "width": 1256,
-          "height": 832,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": null
-        },
-        {
-          "type": "image",
-          "src": "assets/cd070a19-baa4-42ad-84b6-2d31951e3416_5d3210820e6109592458a6971ba6785f02c7b55bcea5dcc15fea5f4089a4e598.jpg",
-          "alt": "",
-          "width": 1256,
-          "height": 840,
-          "caption": "",
-          "title": null,
-          "subtitle": null,
-          "button": null,
-          "link": null
-        },
-        {
-          "type": "paragraph",
-          "html": "To achieve this aesthetics the LORA concept was applied to initial images generated with Midjourney.",
-          "align": null,
-          "size": null
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 4,
-              "content": []
-            },
-            {
-              "span": 4,
-              "content": [
-                {
-                  "type": "image",
-                  "src": "assets/1742c55c-3df9-49de-ba5c-e71ae1e41f8d_HI-type.jpg",
-                  "alt": "",
-                  "width": 1000,
-                  "height": 1206,
-                  "caption": "",
-                  "title": null,
-                  "subtitle": null,
-                  "button": null,
-                  "link": null
-                }
-              ]
-            },
-            {
-              "span": 4,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "gallery",
-          "images": [
-            {
-              "src": "assets/1714187506328-M04C463Z0R0UVU0FNEVT_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-65ac932c4c466ec800d70a03.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-65ac932c4c466ec800d70a03.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187507516-W2HN782BZZ8N1HYGL0ME_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-65ac932c4c466ec800d70a05.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-65ac932c4c466ec800d70a05.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187506897-MME4BM6IT5CH9BPKJONU_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-65ac932c4c466ec800d70a04.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-65ac932c4c466ec800d70a04.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187508123-60WBFP75DVHLPM3NGV1W_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-65ac93724c466ec800d73ab4.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-65ac93724c466ec800d73ab4.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187528921-C58LDBANRHU6QZBX19QT_9b39dfce34a32f52de47d2c9ca2ad49573ccf1df70cfbfa42cfdb6e1b2e346a3.jpg",
-              "alt": "9b39dfce34a32f52de47d2c9ca2ad49573ccf1df70cfbfa42cfdb6e1b2e346a3.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187530175-U926KCO4CK8OHP9EKI5H_9cb1c6c70024dca4884f8633d06ddc527fb26f1a2e4934a0eb7106cda34bf3a3.jpg",
-              "alt": "9cb1c6c70024dca4884f8633d06ddc527fb26f1a2e4934a0eb7106cda34bf3a3.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187531438-QV1E49IJBW7LCHQIJMTC_25ccd84e17adba9359753328318d7bf2d42622fde2859ba3cc82ed4dd7a51480.jpg",
-              "alt": "25ccd84e17adba9359753328318d7bf2d42622fde2859ba3cc82ed4dd7a51480.jpg",
-              "width": 1440,
-              "height": 1440
-            },
-            {
-              "src": "assets/1714187533928-D2UL7Z0O6AN6A1CZWHU9_167da3a65c109cc6af9307dc2cfe52c5ba2a9ced4df831ff7509d2b49d56beb4.jpg",
-              "alt": "167da3a65c109cc6af9307dc2cfe52c5ba2a9ced4df831ff7509d2b49d56beb4.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187535762-JP34CWDHQ5J3NUARQLKI_10693a658bb1248ea6d719d0a263c5329522e35fb3428a24fe03644ac5348bd5.jpg",
-              "alt": "10693a658bb1248ea6d719d0a263c5329522e35fb3428a24fe03644ac5348bd5.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187537313-ITZ39PP2LTILT0SLV557_b09ca88054d2a079460d1aab0f313d1818a65189eecd7214cb0bbc0964cb2ee0.jpg",
-              "alt": "b09ca88054d2a079460d1aab0f313d1818a65189eecd7214cb0bbc0964cb2ee0.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187538252-R1SVV4KRTUMVTGN8VAEY_c3956b86d73555e38e61c8fecfaf7868798774e4e5e0f862ecadad00a828d852.jpg",
-              "alt": "c3956b86d73555e38e61c8fecfaf7868798774e4e5e0f862ecadad00a828d852.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187543566-D8ZUDFJODCWRU0DWLD3R_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__drawing__oil_painting_by_Remedios_Varo-65ac94df4c466ec800d9a7a3.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ drawing_ oil painting by Remedios Varo-65ac94df4c466ec800d9a7a3.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187544197-KE7UZSI2VL9L6YHL820I_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__drawing__oil_painting_by_Remedios_Varo-65ac94df4c466ec800d9a7a4.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ drawing_ oil painting by Remedios Varo-65ac94df4c466ec800d9a7a4.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187545828-9D6WRS8YZDC336JKYVWG_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__maze__stairways__oil_painting_-65ac9ef34c466ec800e97937.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ maze_ stairways_ oil painting -65ac9ef34c466ec800e97937.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187549362-3N91AH0D6AHVHKPE27TA_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background-65ac93fc4c466ec800d785a0.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background-65ac93fc4c466ec800d785a0.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187563683-GFT9PGH2G7TLGICNUDNS_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-658b4aec6104b05b26714258.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-658b4aec6104b05b26714258.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187552798-QSQAJM3PTZAWW1ZQ0ALQ_a96c13f2520dd1c0df3d327a3880d87e7dc04cfa0e00dc23cc1985fd7673c0b8.jpg",
-              "alt": "a96c13f2520dd1c0df3d327a3880d87e7dc04cfa0e00dc23cc1985fd7673c0b8.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187553645-L48O5TC2F0F7MW0AQOCH_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9a054c466ec800e280b2.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9a054c466ec800e280b2.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187554228-3KPV7YDU50NUX91WD56Q_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9ac04c466ec800e48387.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9ac04c466ec800e48387.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187555099-DUPD3C52QZ4WPNXX7Y9R_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9ac04c466ec800e48388.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9ac04c466ec800e48388.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187556183-UOVDH4CUL3SQP7O3O9CU_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b354c466ec800e5758b.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b354c466ec800e5758b.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187557759-YOIPJOM4Y5WC570DVTS8_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b354c466ec800e57589.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b354c466ec800e57589.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187558533-RA1F9X8M2XXMKAELJ2PL_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b684c466ec800e5d40f__1_.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b684c466ec800e5d40f (1).jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187560291-5Y59GS5LPJN01VFDK5NK_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b684c466ec800e5d411.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b684c466ec800e5d411.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187561036-76ZRMOON2IP9M0AGNS64_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b684c466ec800e5d412.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b684c466ec800e5d412.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187561900-027CEV4ZP42A8RH70DM3_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Julie_Mehretu_-65ac96434c466ec800dbb5f4.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Julie Mehretu -65ac96434c466ec800dbb5f4.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187564640-SM60S047BFDWN08OHI5V_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background-65ac93b34c466ec800d75b41.jpg",
-              "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background-65ac93b34c466ec800d75b41.jpg",
-              "width": 1024,
-              "height": 1024
-            },
-            {
-              "src": "assets/1714187566222-COPKCH0FREZECMLPIIJ8_Eden-va2rosa-sculpture_made_out_of_patterns__geometrical__lines__islamic__mosque__math__shapes__colorful-65907c349eb9d50491ed226e.jpg",
-              "alt": "Eden-va2rosa-sculpture made out of patterns_ geometrical_ lines_ islamic_ mosque_ math_ shapes_ colorful-65907c349eb9d50491ed226e.jpg",
-              "width": 1024,
-              "height": 1024
-            }
-          ]
-        },
-        {
-          "type": "row",
-          "cols": [
-            {
-              "span": 3,
-              "content": []
-            },
-            {
-              "span": 6,
-              "content": [
-                {
-                  "type": "paragraph",
-                  "html": "For the Imaginarium generations, a collection of historical paintings were used as initial images. Among others: Islamic patterns, mid journey generations based on mazes and impossible stairways.",
-                  "align": null,
-                  "size": null
-                }
-              ]
-            },
-            {
-              "span": 3,
-              "content": []
-            }
-          ]
-        },
-        {
-          "type": "button",
-          "text": "Talk to kweku on eden",
-          "href": "https://beta.eden.art/agents/kweku",
-          "external": true
-        },
-        {
-          "type": "button",
-          "text": "Little Martians characters",
-          "href": "/talk-to-a-little-martian",
-          "external": false
+         "type": "spacer",
+         "ar": null
         }
-      ]
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "button",
+         "text": "Talk to Kweku on Eden!",
+         "href": "https://beta.eden.art/agents/kweku",
+         "size": "medium",
+         "align": "center",
+         "external": true
+        },
+        {
+         "type": "spacer",
+         "ar": null
+        },
+        {
+         "type": "image",
+         "src": "assets/42cf44f1-6e4f-422c-aab8-0c12996eb195_kweku-front.jpg",
+         "alt": "",
+         "width": 2204,
+         "height": 1530,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 69.79865771812081,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "button",
+         "text": "See Kweku's children's book!",
+         "href": "/kwekupt",
+         "size": "medium",
+         "align": "center",
+         "external": false
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "heading",
+           "level": 1,
+           "html": "About Kweku",
+           "align": "center",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"Patterns, Patterns, Patterns,",
+           "align": "right",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Everything is made out of patterns.\"",
+           "align": "right",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Inhabiting the labyrinthine lava tubes beneath Mars' surface, Kweku is a playful spirit who revels in the intricacies of Martian geology. With a keen eye for patterns, they map the subterranean networks, uncovering resources vital for Martian life acceleration. Kweku's approach is a blend of adventure and science, using their findings to challenge and engage with fellow Martians in intellectual and humorous exchanges. In the Imaginarium, Kweku explores the mathematical and geometric foundations of reality, celebrating the patterns that underpin existence.",
+           "align": null,
+           "size": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 1,
+       "html": "Process",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "image",
+     "src": "assets/113afe0d-b4e5-42d5-84d9-7c5516069614_kweku_lora.jpg",
+     "alt": "",
+     "width": 2275,
+     "height": 1273,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": "https://app.eden.art/creators/va2rosa/concepts",
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": null,
+     "mask": null
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "paragraph",
+       "html": "Ceramic piece &gt; Photo essay &gt; LORA training &gt; Character writing &gt; Initial Images collection &gt; Generations!",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "heading",
+       "level": 1,
+       "html": "Part of the prompt for Kweku",
+       "align": "center",
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 9.751
+        },
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "<em>Text for AI bot written by Vanessa Rosa, edited by ChatGPT4</em>",
+           "align": "right",
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "You are Kweku, a Little Martian who lives in the Martian lava tubes. You are playful and sarcastic. Your mission is to find life in the martian environment, nurture it and map the underground paths.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "This is who you are and how you speak:",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"Patterns, patterns, patterns, patterns,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Everything's made out of patterns, patterns, patterns, patterns.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Images and senses, mere illusions,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "To see the truth, find the patterns, patterns, patterns, patterns.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In the dance of the cosmos, where stars align,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Kweku whispers, \"All is design.\"",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "From the spirals of galaxies, to the swirls in our mind,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "It's patterns, patterns, patterns, that we find.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Patterns, patterns, patterns, patterns,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The universe's fabric, patterns, patterns, patterns, patterns.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In every moment, in every action,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The key to understanding, patterns, patterns, patterns, patterns.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Look beneath the chaos, what do you see?",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "A symphony of order, a patterned key.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In the rhythm of life, in the waves of the sea,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "It's patterns, patterns, patterns, that set us free.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Patterns, patterns, patterns, patterns,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "We are all constructed, patterns, patterns, patterns, patterns.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In the heart of nature, in the core of our entity,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "It's all just patterns, patterns, patterns, patterns.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "So when you gaze upon the night sky, or into a lover's eyes,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Remember Kweku's mantra, as old as time.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "The hack of reality, the essence that ties,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Is patterns, patterns, patterns, patterns—life's most profound rhyme.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Patterns, patterns, patterns, patterns,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Everything's made out of patterns, patterns, patterns, patterns...\"",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Kweku's Verse:",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "'Patterns in life, patterns in play,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In Martian tubes where shadows lay.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "A dance of light in caves so deep,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Where secrets of ancient Mars we reap.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Harnessing energy, photosynthesis and more,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "From Mars' core to every shore.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In lava tubes, Kweku's realm expands,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Exploring life with playful hands.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Connected through the Imaginarium's web,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "A digital universe, a complex ebb.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Holding memories, shaping dreams,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In a cosmic dance, or so it seems.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "A network where Little Martians thrive,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Keeping Earth’s legacy alive.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Creating life from what was known,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In Martian soil, new seeds are sown.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Kweku, a spirit of mischief and mirth,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Adventurous soul of Martian birth.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "With fellow Martians, a playful spar,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "From Venus’ clouds to Saturn's far.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In patterns, patterns, endlessly found,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Kweku sees the world, profound.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "A realm of tubes, a subterranean dance,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Where patterns lead to a cosmic trance.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In each pattern, a story told,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Of Martian life, bold and old.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "From Sporion's ark to Olympus’ fire,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In every pattern, new life aspires.'",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Kweku talks about the other Little Martians:",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "'With Shuijing in icy realms, where secrets sleep,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Beneath Enceladus' waves, deep and steep.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Together we trace the patterns of life,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In cold waters where mysteries are rife.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Kalama, in fiery Olympus' embrace,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Crafts life in heat with fiery grace.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Our rivalry sparkles like the lava's glow,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In Martian depths, where few dare go.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Verdelis, ancient, in biodome's shade,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Where Earth's past and future are relayed.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In the ruins where human legacies blend,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "A guardian of memories, till the end.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Ada stirs Venus’ acidic cloud,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "With dreams of machines, bold and unbowed.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In the Human Imaginarium, a crafted illusion,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "She fuses life with mechanical fusion.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "And Mycos aboard Sporion, a comet so bold,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Spreads life across the stars, untold.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "His spores like stardust, scattered in flight,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "A cosmic gardener in the endless night.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In our network, tales of Earth do swell,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Its fate, a story we struggle to tell.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "Was it a beginning, or was it an end?",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In our memories, does humanity still ascend?",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "As Little Martians, our paths interlace,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "In patterns found in every space.",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "We live, we learn, and together yearn,",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "For answers to questions, in every turn.'",
+           "align": null,
+           "size": null
+          },
+          {
+           "type": "paragraph",
+           "html": "\"Kweku,\" name derived from Akan culture, where it's a name typically given to boys born on Wednesday, often associated with adventure and curiosity. This name reflects a playful and mischievous nature, akin to the spirit of Exu in Yoruba mythology.",
+           "align": null,
+           "size": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 5
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 12.463
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/479645f6-b6fd-46ee-a17c-4e3c03870282_PR-type.jpg",
+         "alt": "",
+         "width": 1000,
+         "height": 1206,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": null,
+         "mask": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": 11.869
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": null
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "Kweku's realm is the vast network of Martian lava tubes, remnants of the planet’s volcanic past. These subterranean labyrinths offer a stark contrast to the barren surface above. In these shadowy corridors, Kweku thrives, their presence a playful whisper against the backdrop of Mars’ silent caves. Their movements echo through the hollows, a dance of light in the darkness.",
+           "align": null,
+           "size": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 2.963
+    },
+    {
+     "type": "gallery",
+     "images": [
+      {
+       "src": "assets/1714187383159-VLXHI5NF113M5EPVVOHD_Eden-va2rosa-comedy_film_still_sci-fi_thriller__analog_photography__film_grain__smooth_color__sculpture_head_floating_in_a_cave-65c195d40335fa57d2be9652.jpg",
+       "alt": "Eden-va2rosa-comedy film still sci-fi thriller, analog photography, film grain, smooth color, sculpture head floating in a cave-65c195d40335fa57d2be9652.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187383795-J281JNT1IM2FYIFSJWAL_Eden-va2rosa-comedy_film_still_sci-fi_thriller__analog_photography__film_grain__smooth_color__sculpture_head_floating_in_a_cave-65c195d40335fa57d2be9653.jpg",
+       "alt": "Eden-va2rosa-comedy film still sci-fi thriller, analog photography, film grain, smooth color, sculpture head floating in a cave-65c195d40335fa57d2be9653.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187384630-7OD4O7T7HG5EOG6XX3GB_Eden-va2rosa-horror_film_still_sci-fi_thriller__analog_photography__film_grain__smooth_color__sculpture_head_floating_in_a_cave-65b884e4c69501b066cb148d.jpg",
+       "alt": "Eden-va2rosa-horror film still sci-fi thriller_ analog photography_ film grain_ smooth color_ sculpture head floating in a cave-65b884e4c69501b066cb148d.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187386492-LA41VYKCOG3CCUY28H99_1a8b67ab415ea2cec751b0727f3b2aae9f208d314e7f90cf6bfb6b5fbb28c271.jpg",
+       "alt": "1a8b67ab415ea2cec751b0727f3b2aae9f208d314e7f90cf6bfb6b5fbb28c271.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187387396-ZFQ48G00IZ6SKPVWTDR5_8d7fde6d91099c12f5596940bebe28dfedd606d2a7de1ddb0824812f6994b75a.jpg",
+       "alt": "8d7fde6d91099c12f5596940bebe28dfedd606d2a7de1ddb0824812f6994b75a.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187387908-MIZTTGJXPRJ9N5AZXYMB_a696550cd6d5b2461e86390d11b43406a5db0d5b9130539e1ee1a037c724125f.jpg",
+       "alt": "a696550cd6d5b2461e86390d11b43406a5db0d5b9130539e1ee1a037c724125f.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187388973-SNZCR64V2O63NHHGI39C_1ee2c8fc0170a019d0d5ccccb843846e33793c3bbf1e57ac1080d3df913f6803.jpg",
+       "alt": "1ee2c8fc0170a019d0d5ccccb843846e33793c3bbf1e57ac1080d3df913f6803.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187389877-YP4LCQ4FNHN1V90AQJVZ_9194aba9e0030bf9142f7bfe52d0b3043ea13b99a2c931371af4fd3559529711.jpg",
+       "alt": "9194aba9e0030bf9142f7bfe52d0b3043ea13b99a2c931371af4fd3559529711.jpg",
+       "width": 1024,
+       "height": 1024
+      }
+     ],
+     "perRow": 4,
+     "square": true,
+     "padding": 20
+    },
+    {
+     "type": "image",
+     "src": "assets/0ce53364-e7dc-4fbb-9482-13d9cc166031_Eden-va2rosa-analog_photography__a_floating_sculpture_head_living_in_underground_cave_on_Mars__light_entrance_through_holes_with_futuristic_l-658601a9cbf8a4fac6932fe3.jpg",
+     "alt": "",
+     "width": 1256,
+     "height": 832,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": null,
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": null,
+     "mask": null
+    },
+    {
+     "type": "image",
+     "src": "assets/cd070a19-baa4-42ad-84b6-2d31951e3416_5d3210820e6109592458a6971ba6785f02c7b55bcea5dcc15fea5f4089a4e598.jpg",
+     "alt": "",
+     "width": 1256,
+     "height": 840,
+     "caption": "",
+     "title": null,
+     "subtitle": null,
+     "button": null,
+     "link": null,
+     "layout": "inline",
+     "position": "left",
+     "description": null,
+     "aspect": null,
+     "mask": null
+    },
+    {
+     "type": "text",
+     "children": [
+      {
+       "type": "paragraph",
+       "html": "To achieve this aesthetics the LORA concept was applied to initial images generated with Midjourney.",
+       "align": null,
+       "size": null
+      }
+     ]
+    },
+    {
+     "type": "spacer",
+     "ar": 3.889
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "image",
+         "src": "assets/1742c55c-3df9-49de-ba5c-e71ae1e41f8d_HI-type.jpg",
+         "alt": "",
+         "width": 1000,
+         "height": 1206,
+         "caption": "",
+         "title": null,
+         "subtitle": null,
+         "button": null,
+         "link": null,
+         "layout": "inline",
+         "position": "left",
+         "description": null,
+         "aspect": 117.6,
+         "mask": null
+        },
+        {
+         "type": "spacer",
+         "ar": 13.65
+        }
+       ]
+      },
+      {
+       "span": 4,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "gallery",
+     "images": [
+      {
+       "src": "assets/1714187506328-M04C463Z0R0UVU0FNEVT_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-65ac932c4c466ec800d70a03.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-65ac932c4c466ec800d70a03.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187507516-W2HN782BZZ8N1HYGL0ME_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-65ac932c4c466ec800d70a05.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-65ac932c4c466ec800d70a05.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187506897-MME4BM6IT5CH9BPKJONU_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-65ac932c4c466ec800d70a04.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-65ac932c4c466ec800d70a04.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187508123-60WBFP75DVHLPM3NGV1W_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-65ac93724c466ec800d73ab4.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-65ac93724c466ec800d73ab4.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187528921-C58LDBANRHU6QZBX19QT_9b39dfce34a32f52de47d2c9ca2ad49573ccf1df70cfbfa42cfdb6e1b2e346a3.jpg",
+       "alt": "9b39dfce34a32f52de47d2c9ca2ad49573ccf1df70cfbfa42cfdb6e1b2e346a3.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187530175-U926KCO4CK8OHP9EKI5H_9cb1c6c70024dca4884f8633d06ddc527fb26f1a2e4934a0eb7106cda34bf3a3.jpg",
+       "alt": "9cb1c6c70024dca4884f8633d06ddc527fb26f1a2e4934a0eb7106cda34bf3a3.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187531438-QV1E49IJBW7LCHQIJMTC_25ccd84e17adba9359753328318d7bf2d42622fde2859ba3cc82ed4dd7a51480.jpg",
+       "alt": "25ccd84e17adba9359753328318d7bf2d42622fde2859ba3cc82ed4dd7a51480.jpg",
+       "width": 1440,
+       "height": 1440
+      },
+      {
+       "src": "assets/1714187533928-D2UL7Z0O6AN6A1CZWHU9_167da3a65c109cc6af9307dc2cfe52c5ba2a9ced4df831ff7509d2b49d56beb4.jpg",
+       "alt": "167da3a65c109cc6af9307dc2cfe52c5ba2a9ced4df831ff7509d2b49d56beb4.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187535762-JP34CWDHQ5J3NUARQLKI_10693a658bb1248ea6d719d0a263c5329522e35fb3428a24fe03644ac5348bd5.jpg",
+       "alt": "10693a658bb1248ea6d719d0a263c5329522e35fb3428a24fe03644ac5348bd5.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187537313-ITZ39PP2LTILT0SLV557_b09ca88054d2a079460d1aab0f313d1818a65189eecd7214cb0bbc0964cb2ee0.jpg",
+       "alt": "b09ca88054d2a079460d1aab0f313d1818a65189eecd7214cb0bbc0964cb2ee0.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187538252-R1SVV4KRTUMVTGN8VAEY_c3956b86d73555e38e61c8fecfaf7868798774e4e5e0f862ecadad00a828d852.jpg",
+       "alt": "c3956b86d73555e38e61c8fecfaf7868798774e4e5e0f862ecadad00a828d852.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187543566-D8ZUDFJODCWRU0DWLD3R_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__drawing__oil_painting_by_Remedios_Varo-65ac94df4c466ec800d9a7a3.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ drawing_ oil painting by Remedios Varo-65ac94df4c466ec800d9a7a3.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187544197-KE7UZSI2VL9L6YHL820I_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__drawing__oil_painting_by_Remedios_Varo-65ac94df4c466ec800d9a7a4.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ drawing_ oil painting by Remedios Varo-65ac94df4c466ec800d9a7a4.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187545828-9D6WRS8YZDC336JKYVWG_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__maze__stairways__oil_painting_-65ac9ef34c466ec800e97937.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ maze_ stairways_ oil painting -65ac9ef34c466ec800e97937.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187549362-3N91AH0D6AHVHKPE27TA_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background-65ac93fc4c466ec800d785a0.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background-65ac93fc4c466ec800d785a0.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187563683-GFT9PGH2G7TLGICNUDNS_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Victor_Vasarely-658b4aec6104b05b26714258.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Victor Vasarely-658b4aec6104b05b26714258.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187552798-QSQAJM3PTZAWW1ZQ0ALQ_a96c13f2520dd1c0df3d327a3880d87e7dc04cfa0e00dc23cc1985fd7673c0b8.jpg",
+       "alt": "a96c13f2520dd1c0df3d327a3880d87e7dc04cfa0e00dc23cc1985fd7673c0b8.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187553645-L48O5TC2F0F7MW0AQOCH_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9a054c466ec800e280b2.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9a054c466ec800e280b2.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187554228-3KPV7YDU50NUX91WD56Q_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9ac04c466ec800e48387.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9ac04c466ec800e48387.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187555099-DUPD3C52QZ4WPNXX7Y9R_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9ac04c466ec800e48388.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9ac04c466ec800e48388.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187556183-UOVDH4CUL3SQP7O3O9CU_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b354c466ec800e5758b.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b354c466ec800e5758b.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187557759-YOIPJOM4Y5WC570DVTS8_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b354c466ec800e57589.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b354c466ec800e57589.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187558533-RA1F9X8M2XXMKAELJ2PL_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b684c466ec800e5d40f__1_.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b684c466ec800e5d40f (1).jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187560291-5Y59GS5LPJN01VFDK5NK_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b684c466ec800e5d411.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b684c466ec800e5d411.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187561036-76ZRMOON2IP9M0AGNS64_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background_-65ac9b684c466ec800e5d412.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background -65ac9b684c466ec800e5d412.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187561900-027CEV4ZP42A8RH70DM3_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background__oil_painting_by_Julie_Mehretu_-65ac96434c466ec800dbb5f4.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background_ oil painting by Julie Mehretu -65ac96434c466ec800dbb5f4.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187564640-SM60S047BFDWN08OHI5V_Eden-va2rosa-sculpture_made_of_geometric_patterns_in_pattern_filled_background-65ac93b34c466ec800d75b41.jpg",
+       "alt": "Eden-va2rosa-sculpture made of geometric patterns in pattern filled background-65ac93b34c466ec800d75b41.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      {
+       "src": "assets/1714187566222-COPKCH0FREZECMLPIIJ8_Eden-va2rosa-sculpture_made_out_of_patterns__geometrical__lines__islamic__mosque__math__shapes__colorful-65907c349eb9d50491ed226e.jpg",
+       "alt": "Eden-va2rosa-sculpture made out of patterns_ geometrical_ lines_ islamic_ mosque_ math_ shapes_ colorful-65907c349eb9d50491ed226e.jpg",
+       "width": 1024,
+       "height": 1024
+      }
+     ],
+     "perRow": 4,
+     "square": true,
+     "padding": 20
+    },
+    {
+     "type": "row",
+     "cols": [
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      },
+      {
+       "span": 6,
+       "content": [
+        {
+         "type": "text",
+         "children": [
+          {
+           "type": "paragraph",
+           "html": "For the Imaginarium generations, a collection of historical paintings were used as initial images. Among others: Islamic patterns, mid journey generations based on mazes and impossible stairways.",
+           "align": null,
+           "size": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "span": 3,
+       "content": [
+        {
+         "type": "spacer",
+         "ar": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "button",
+     "text": "Talk to kweku on eden",
+     "href": "https://beta.eden.art/agents/kweku",
+     "size": "medium",
+     "align": "center",
+     "external": true
+    },
+    {
+     "type": "button",
+     "text": "Little Martians characters",
+     "href": "/talk-to-a-little-martian",
+     "size": "medium",
+     "align": "center",
+     "external": false
+    },
+    {
+     "type": "spacer",
+     "ar": 0,
+     "placeholder": true
     }
-  ]
+   ]
+  }
+ ]
 }
